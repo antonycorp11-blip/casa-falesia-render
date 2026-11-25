@@ -1,0 +1,32 @@
+name: cortar-shorts
+on:
+  workflow_dispatch:
+    inputs:
+      pasta: {description: "Pasta em reels/", required: true, default: "casa_ep1"}
+      release_tag: {description: "Release com o vídeo longo", required: true, default: "casa-falesia-ep1"}
+      video: {description: "Nome do MP4 na release", required: true, default: "A_Casa_da_Falesia_EP1_alta.mp4"}
+      rotulo: {description: "Rótulo da série", required: true, default: "A CASA DA FALÉSIA"}
+permissions:
+  contents: write
+jobs:
+  shorts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Instalar ffmpeg e fonte
+        run: |
+          echo "ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true" | sudo debconf-set-selections
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg ttf-mscorefonts-installer
+          ls /usr/share/fonts/truetype/msttcorefonts/ | grep -i black
+      - name: Baixar vídeo longo
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: gh release download "${{ inputs.release_tag }}" -p "${{ inputs.video }}" -O longo.mp4
+      - name: Cortar Shorts
+        env:
+          FFMPEG: ffmpeg
+          FONTE: /usr/share/fonts/truetype/msttcorefonts/Arial_Black.ttf
+        run: python3 tools/cortar_shorts.py longo.mp4 "reels/${{ inputs.pasta }}/clips.json" shorts "${{ inputs.rotulo }}" && ls -lh shorts
+      - name: Publicar Shorts na release
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: cd shorts && for f in short_*.mp4; do mv "$f" "${{ inputs.pasta }}_$f"; done && gh release upload "${{ inputs.release_tag }}" *.mp4 titulos.txt --clobber
