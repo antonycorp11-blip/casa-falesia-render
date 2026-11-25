@@ -1,0 +1,1244 @@
+[
+  {
+    "i": 1,
+    "speaker": "MAYA",
+    "text": "Leo, ilumina aqui! Alguém desliga essa música, pelo amor de Deus!",
+    "parte": 1,
+    "cena": "Sala com lareira — Breu absoluto, chuva violenta batendo nas vidraças e trovões. A lanterna do celular de Leo varre o corredor enquanto gritos ecoam e uma valsa antiga arranhada toca sozinha na sala.",
+    "start": 0.0,
+    "end": 4.44
+  },
+  {
+    "i": 2,
+    "speaker": "TINA",
+    "text": "Caio?! Cadê você?! Para de graça, não tem piada!",
+    "parte": 1,
+    "cena": "Sala com lareira — Breu absoluto, chuva violenta batendo nas vidraças e trovões. A lanterna do celular de Leo varre o corredor enquanto gritos ecoam e uma valsa antiga arranhada toca sozinha na sala.",
+    "start": 4.69,
+    "end": 8.81
+  },
+  {
+    "i": 3,
+    "speaker": "LEO",
+    "text": "Calma, tô na sala... achei ele! Tá caído perto da lareira!",
+    "parte": 1,
+    "cena": "Sala com lareira — Breu absoluto, chuva violenta batendo nas vidraças e trovões. A lanterna do celular de Leo varre o corredor enquanto gritos ecoam e uma valsa antiga arranhada toca sozinha na sala.",
+    "start": 9.06,
+    "end": 12.36
+  },
+  {
+    "i": 4,
+    "speaker": "TINA",
+    "text": "Não, não... Caio, acorda! Fala comigo!",
+    "parte": 1,
+    "cena": "Sala com lareira — Breu absoluto, chuva violenta batendo nas vidraças e trovões. A lanterna do celular de Leo varre o corredor enquanto gritos ecoam e uma valsa antiga arranhada toca sozinha na sala.",
+    "start": 12.61,
+    "end": 16.21
+  },
+  {
+    "i": 5,
+    "speaker": "NINA",
+    "text": "A taça dourada quebrou em volta dele... afasta o vidro!",
+    "parte": 1,
+    "cena": "Sala com lareira — Breu absoluto, chuva violenta batendo nas vidraças e trovões. A lanterna do celular de Leo varre o corredor enquanto gritos ecoam e uma valsa antiga arranhada toca sozinha na sala.",
+    "start": 16.46,
+    "end": 19.79
+  },
+  {
+    "i": 6,
+    "speaker": "MAYA",
+    "text": "Deixa ver o pulso... gente... parou. O Caio tá morto!",
+    "parte": 1,
+    "cena": "Sala com lareira — Breu absoluto, chuva violenta batendo nas vidraças e trovões. A lanterna do celular de Leo varre o corredor enquanto gritos ecoam e uma valsa antiga arranhada toca sozinha na sala.",
+    "start": 20.04,
+    "end": 23.94
+  },
+  {
+    "i": 7,
+    "speaker": "TINA",
+    "text": "Que mentira é essa?! Ele tava vivo há dez minutos! A gente acabou de brindar!",
+    "parte": 1,
+    "cena": "Sala com lareira — Breu absoluto, chuva violenta batendo nas vidraças e trovões. A lanterna do celular de Leo varre o corredor enquanto gritos ecoam e uma valsa antiga arranhada toca sozinha na sala.",
+    "start": 24.19,
+    "end": 27.62
+  },
+  {
+    "i": 8,
+    "speaker": "NINA",
+    "text": "Olha a vitrola! O fio tá no chão... como isso tá tocando no escuro?!",
+    "parte": 1,
+    "cena": "Sala com lareira — Breu absoluto, chuva violenta batendo nas vidraças e trovões. A lanterna do celular de Leo varre o corredor enquanto gritos ecoam e uma valsa antiga arranhada toca sozinha na sala.",
+    "start": 27.87,
+    "end": 32.35
+  },
+  {
+    "i": 9,
+    "speaker": "GAEL",
+    "text": "Religuei a luz lá embaixo! Gente... o que aconteceu com o Caio?!",
+    "parte": 1,
+    "cena": "Sala com lareira — As luzes piscam e voltam de repente. Gael surge ofegante da porta que vem do porão; a vitrola continua girando sozinha enquanto Leo encara o rosto assustado dos amigos.",
+    "start": 33.55,
+    "end": 37.54
+  },
+  {
+    "i": 10,
+    "speaker": "LEO",
+    "text": "Ninguém entrou. Ninguém saiu. A tempestade cortou o sinal.",
+    "parte": 1,
+    "cena": "Sala com lareira — As luzes piscam e voltam de repente. Gael surge ofegante da porta que vem do porão; a vitrola continua girando sozinha enquanto Leo encara o rosto assustado dos amigos.",
+    "start": 37.79,
+    "end": 41.37
+  },
+  {
+    "i": 11,
+    "speaker": "LEO",
+    "text": "E dez minutos no escuro bastaram pra matar o aniversariante.",
+    "parte": 1,
+    "cena": "Sala com lareira — As luzes piscam e voltam de repente. Gael surge ofegante da porta que vem do porão; a vitrola continua girando sozinha enquanto Leo encara o rosto assustado dos amigos.",
+    "start": 41.72,
+    "end": 45.22
+  },
+  {
+    "i": 12,
+    "speaker": "CAIO",
+    "text": "Bem-vindos à Casa da Falésia! Seis horas pros meus vinte anos começarem de verdade.",
+    "parte": 2,
+    "cena": "Varanda e sala com lareira — Fim de tarde nublado, vento forte balançando o mar abaixo do penhasco. Os seis amigos entram com mochilas e sacolas; Caio abre os braços sorrindo.",
+    "start": 46.42,
+    "end": 51.15
+  },
+  {
+    "i": 13,
+    "speaker": "MAYA",
+    "text": "Lindo aqui, mas parece filme de terror onde ninguém volta.",
+    "parte": 2,
+    "cena": "Varanda e sala com lareira — Fim de tarde nublado, vento forte balançando o mar abaixo do penhasco. Os seis amigos entram com mochilas e sacolas; Caio abre os braços sorrindo.",
+    "start": 51.5,
+    "end": 55.93
+  },
+  {
+    "i": 14,
+    "speaker": "CAIO",
+    "text": "Para de drama, Maya! A gente prometeu aos quinze passar meus vinte aqui. Olha nós cumprindo.",
+    "parte": 2,
+    "cena": "Varanda e sala com lareira — Fim de tarde nublado, vento forte balançando o mar abaixo do penhasco. Os seis amigos entram com mochilas e sacolas; Caio abre os braços sorrindo.",
+    "start": 56.28,
+    "end": 61.54
+  },
+  {
+    "i": 15,
+    "speaker": "GAEL",
+    "text": "Trouxe a bebida boa pro chefe. Só sem discurso choroso, por favor.",
+    "parte": 2,
+    "cena": "Varanda e sala com lareira — Fim de tarde nublado, vento forte balançando o mar abaixo do penhasco. Os seis amigos entram com mochilas e sacolas; Caio abre os braços sorrindo.",
+    "start": 61.89,
+    "end": 65.9
+  },
+  {
+    "i": 16,
+    "speaker": "CAIO",
+    "text": "Relaxa, parceiro. A emoção fica pra segunda, na auditoria da nossa empresa.",
+    "parte": 2,
+    "cena": "Varanda e sala com lareira — Fim de tarde nublado, vento forte balançando o mar abaixo do penhasco. Os seis amigos entram com mochilas e sacolas; Caio abre os braços sorrindo.",
+    "start": 66.25,
+    "end": 70.54
+  },
+  {
+    "i": 17,
+    "speaker": "GAEL",
+    "text": "Humorzinho ótimo no próprio aniversário... vou levar as sacolas pra cozinha.",
+    "parte": 2,
+    "cena": "Varanda e sala com lareira — Fim de tarde nublado, vento forte balançando o mar abaixo do penhasco. Os seis amigos entram com mochilas e sacolas; Caio abre os braços sorrindo.",
+    "start": 70.89,
+    "end": 75.66
+  },
+  {
+    "i": 18,
+    "speaker": "TINA",
+    "text": "Você pegou a taça dourada da vó? Ela odiava quando mexiam nisso.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 76.86,
+    "end": 80.44
+  },
+  {
+    "i": 19,
+    "speaker": "CAIO",
+    "text": "Hoje pode, maninha. Aproveita a casa enquanto ainda é nossa.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 80.79,
+    "end": 83.96
+  },
+  {
+    "i": 20,
+    "speaker": "TINA",
+    "text": "Como assim \"enquanto\"? Essa casa é dos dois, você não decide nada sozinho.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 84.31,
+    "end": 88.65
+  },
+  {
+    "i": 21,
+    "speaker": "CAIO",
+    "text": "Calma, azeda. Depois a gente fala de papelada.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 89.0,
+    "end": 92.2
+  },
+  {
+    "i": 22,
+    "speaker": "MAYA",
+    "text": "Gente, que retrato antigo é esse? Essa garota de branco parece viva.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 92.55,
+    "end": 97.83
+  },
+  {
+    "i": 23,
+    "speaker": "TINA",
+    "text": "A lenda proibida da família. Faz exatos vinte anos hoje.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 98.18,
+    "end": 101.72
+  },
+  {
+    "i": 24,
+    "speaker": "CAIO",
+    "text": "Bobagem da minha avó, Leo. Dizem que uma garota morreu no aniversário aqui, ouvindo aquela vitrola.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 102.07,
+    "end": 108.17
+  },
+  {
+    "i": 25,
+    "speaker": "NINA",
+    "text": "Ótimo assunto pra animar a festa, amor. E vocês esconderam isso?",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 108.52,
+    "end": 113.1
+  },
+  {
+    "i": 26,
+    "speaker": "CAIO",
+    "text": "Gente rica esconde sujeira, né, Maya? Igual quem cria perfil anônimo pra vazar escândalo.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 113.35,
+    "end": 118.36
+  },
+  {
+    "i": 27,
+    "speaker": "MAYA",
+    "text": "Tá falando de mim, Caio?! Ficou maluco?",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 118.71,
+    "end": 121.09
+  },
+  {
+    "i": 28,
+    "speaker": "CAIO",
+    "text": "Brincadeira! E você ficou branco por quê, Leo? Até assumi aquela batida no carro do meu pai por você.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 121.34,
+    "end": 126.5
+  },
+  {
+    "i": 29,
+    "speaker": "LEO",
+    "text": "Lembro... você nunca esquece uma dívida, né?",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 126.85,
+    "end": 128.96
+  },
+  {
+    "i": 30,
+    "speaker": "NINA",
+    "text": "Chega, Caio. Desde a estrada você tá insuportável. Vou fazer o ponche.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 129.21,
+    "end": 133.53
+  },
+  {
+    "i": 31,
+    "speaker": "CAIO",
+    "text": "Vai lá, meu bem. Só que hoje você não me engana mais.",
+    "parte": 2,
+    "cena": "Sala com lareira — Tina para diante de um aparador onde estão uma taça dourada antiga e uma vitrola fora da tomada; na parede ao lado há um retrato antigo de uma jovem de vestido branco.",
+    "start": 133.88,
+    "end": 136.6
+  },
+  {
+    "i": 32,
+    "speaker": "MAYA",
+    "text": "Peraí... vocês ouviram?! A vitrola girou sozinha!",
+    "parte": 2,
+    "cena": "Sala com lareira — Um trovão distante treme os vidros. Mesmo com o fio caído no chão longe da tomada, o prato da vitrola dá meia volta sozinho e solta duas notas arranhadas de valsa; todos congelam.",
+    "start": 137.8,
+    "end": 141.32
+  },
+  {
+    "i": 33,
+    "speaker": "LEO",
+    "text": "E tá fora da tomada, o fio tá no chão...",
+    "parte": 2,
+    "cena": "Sala com lareira — Um trovão distante treme os vidros. Mesmo com o fio caído no chão longe da tomada, o prato da vitrola dá meia volta sozinho e solta duas notas arranhadas de valsa; todos congelam.",
+    "start": 141.57,
+    "end": 143.69
+  },
+  {
+    "i": 34,
+    "speaker": "TINA",
+    "text": "Falei que essa casa não gosta de visita.",
+    "parte": 2,
+    "cena": "Sala com lareira — Um trovão distante treme os vidros. Mesmo com o fio caído no chão longe da tomada, o prato da vitrola dá meia volta sozinho e solta duas notas arranhadas de valsa; todos congelam.",
+    "start": 144.04,
+    "end": 145.95
+  },
+  {
+    "i": 35,
+    "speaker": "CAIO",
+    "text": "Foi só o trovão vibrando no piso. E se tiver fantasma, que venha à meia-noite... porque hoje todas as máscaras caem.",
+    "parte": 2,
+    "cena": "Sala com lareira — Um trovão distante treme os vidros. Mesmo com o fio caído no chão longe da tomada, o prato da vitrola dá meia volta sozinho e solta duas notas arranhadas de valsa; todos congelam.",
+    "start": 146.3,
+    "end": 153.98
+  },
+  {
+    "i": 36,
+    "speaker": "NINA",
+    "text": "Fiz o ponche como você gosta. Só cuidado que tá gelado.",
+    "parte": 3,
+    "cena": "Sala com lareira — Noite fechada, tempestade violenta lá fora. Nina traz a jarra de ponche de amora e Gael entrega a taça dourada cheia para Caio.",
+    "start": 155.18,
+    "end": 159.07
+  },
+  {
+    "i": 37,
+    "speaker": "GAEL",
+    "text": "Toma a taça dourada, aniversariante. Merece destaque.",
+    "parte": 3,
+    "cena": "Sala com lareira — Noite fechada, tempestade violenta lá fora. Nina traz a jarra de ponche de amora e Gael entrega a taça dourada cheia para Caio.",
+    "start": 159.42,
+    "end": 163.2
+  },
+  {
+    "i": 38,
+    "speaker": "LEO",
+    "text": "Ei, Gael, que curativo novo é esse no dedo? Não tava aí mais cedo.",
+    "parte": 3,
+    "cena": "Sala com lareira — Noite fechada, tempestade violenta lá fora. Nina traz a jarra de ponche de amora e Gael entrega a taça dourada cheia para Caio.",
+    "start": 163.55,
+    "end": 166.87
+  },
+  {
+    "i": 39,
+    "speaker": "GAEL",
+    "text": "Arranhei numa caixa lá fora. Já volto, vou pegar o espumante no porão.",
+    "parte": 3,
+    "cena": "Sala com lareira — Noite fechada, tempestade violenta lá fora. Nina traz a jarra de ponche de amora e Gael entrega a taça dourada cheia para Caio.",
+    "start": 167.22,
+    "end": 170.98
+  },
+  {
+    "i": 40,
+    "speaker": "CAIO",
+    "text": "Antes de descer, escuta todo mundo! O sinal caiu, ótimo — ninguém foge.",
+    "parte": 3,
+    "cena": "Sala com lareira — Noite fechada, tempestade violenta lá fora. Nina traz a jarra de ponche de amora e Gael entrega a taça dourada cheia para Caio.",
+    "start": 171.33,
+    "end": 176.45
+  },
+  {
+    "i": 41,
+    "speaker": "MAYA",
+    "text": "Caio, para, já deu dessa pilha...",
+    "parte": 3,
+    "cena": "Sala com lareira — Noite fechada, tempestade violenta lá fora. Nina traz a jarra de ponche de amora e Gael entrega a taça dourada cheia para Caio.",
+    "start": 176.8,
+    "end": 179.16
+  },
+  {
+    "i": 42,
+    "speaker": "CAIO",
+    "text": "À meia-noite eu acabo com uma palhaçada antiga. Quem tá mentindo nessa sala vai cair antes do bolo. Saúde.",
+    "parte": 3,
+    "cena": "Sala com lareira — Noite fechada, tempestade violenta lá fora. Nina traz a jarra de ponche de amora e Gael entrega a taça dourada cheia para Caio.",
+    "start": 179.51,
+    "end": 186.05
+  },
+  {
+    "i": 43,
+    "speaker": "MAYA",
+    "text": "A luz caiu! Não enxergo nada!",
+    "parte": 3,
+    "cena": "Sala com lareira — Caio dá um gole grande na taça dourada enquanto Gael some pela porta do porão. Segundos depois, um trovão explode e toda a casa mergulha no escuro.",
+    "start": 187.25,
+    "end": 189.79
+  },
+  {
+    "i": 44,
+    "speaker": "CAIO",
+    "text": "Ninguém sai da sala! Eu não terminei!",
+    "parte": 3,
+    "cena": "Sala com lareira — Caio dá um gole grande na taça dourada enquanto Gael some pela porta do porão. Segundos depois, um trovão explode e toda a casa mergulha no escuro.",
+    "start": 190.04,
+    "end": 192.54
+  },
+  {
+    "i": 45,
+    "speaker": "LEO",
+    "text": "Calma, vou na cozinha achar vela. Fica aí, Caio!",
+    "parte": 3,
+    "cena": "Sala com lareira — Caio dá um gole grande na taça dourada enquanto Gael some pela porta do porão. Segundos depois, um trovão explode e toda a casa mergulha no escuro.",
+    "start": 192.79,
+    "end": 195.51
+  },
+  {
+    "i": 46,
+    "speaker": "MAYA",
+    "text": "Tô sufocando aqui, vou abrir a varanda pra respirar!",
+    "parte": 3,
+    "cena": "Sala com lareira — Caio dá um gole grande na taça dourada enquanto Gael some pela porta do porão. Segundos depois, um trovão explode e toda a casa mergulha no escuro.",
+    "start": 195.76,
+    "end": 198.28
+  },
+  {
+    "i": 47,
+    "speaker": "TINA",
+    "text": "Ei, quem esbarrou em mim no corredor?!",
+    "parte": 3,
+    "cena": "Sala com lareira — Caio dá um gole grande na taça dourada enquanto Gael some pela porta do porão. Segundos depois, um trovão explode e toda a casa mergulha no escuro.",
+    "start": 198.53,
+    "end": 200.62
+  },
+  {
+    "i": 48,
+    "speaker": "LEO",
+    "text": "Só achei um isqueiro! Onde vocês tão?! Já faz dez minutos sem luz!",
+    "parte": 3,
+    "cena": "Cozinha e corredor — Dez minutos se passam no breu sob a tempestade cada vez mais forte. A lanterna do celular de Leo ilumina gavetas abertas enquanto vozes ecoam de cômodos diferentes da casa.",
+    "start": 201.82,
+    "end": 205.08
+  },
+  {
+    "i": 49,
+    "speaker": "GAEL",
+    "text": "Tô no porão procurando o quadro, tá um breu aqui embaixo!",
+    "parte": 3,
+    "cena": "Cozinha e corredor — Dez minutos se passam no breu sob a tempestade cada vez mais forte. A lanterna do celular de Leo ilumina gavetas abertas enquanto vozes ecoam de cômodos diferentes da casa.",
+    "start": 205.33,
+    "end": 208.31
+  },
+  {
+    "i": 50,
+    "speaker": "MAYA",
+    "text": "Tô voltando da varanda! A porta bateu e ouvi gente correndo na escada!",
+    "parte": 3,
+    "cena": "Cozinha e corredor — Dez minutos se passam no breu sob a tempestade cada vez mais forte. A lanterna do celular de Leo ilumina gavetas abertas enquanto vozes ecoam de cômodos diferentes da casa.",
+    "start": 208.56,
+    "end": 212.43
+  },
+  {
+    "i": 51,
+    "speaker": "NINA",
+    "text": "Sou eu descendo! Tina, você tava lá em cima?!",
+    "parte": 3,
+    "cena": "Cozinha e corredor — Dez minutos se passam no breu sob a tempestade cada vez mais forte. A lanterna do celular de Leo ilumina gavetas abertas enquanto vozes ecoam de cômodos diferentes da casa.",
+    "start": 212.68,
+    "end": 217.41
+  },
+  {
+    "i": 52,
+    "speaker": "TINA",
+    "text": "Subi pegar um casaco... peraí, quem ligou a vitrola na sala?!",
+    "parte": 3,
+    "cena": "Cozinha e corredor — Dez minutos se passam no breu sob a tempestade cada vez mais forte. A lanterna do celular de Leo ilumina gavetas abertas enquanto vozes ecoam de cômodos diferentes da casa.",
+    "start": 217.66,
+    "end": 221.34
+  },
+  {
+    "i": 53,
+    "speaker": "LEO",
+    "text": "Caio?! Para de graça... gente, ele tá caído no chão!",
+    "parte": 3,
+    "cena": "Sala com lareira — O grupo volta correndo para a sala guiado pela lanterna de Leo ao som da valsa arranhada. O feixe encontra Caio imóvel no tapete ao lado da taça dourada quebrada; as luzes voltam quando Gael surge da escada do porão.",
+    "start": 222.54,
+    "end": 226.74
+  },
+  {
+    "i": 54,
+    "speaker": "TINA",
+    "text": "Ele não tá respirando! Ninguém ficou aqui com ele?!",
+    "parte": 3,
+    "cena": "Sala com lareira — O grupo volta correndo para a sala guiado pela lanterna de Leo ao som da valsa arranhada. O feixe encontra Caio imóvel no tapete ao lado da taça dourada quebrada; as luzes voltam quando Gael surge da escada do porão.",
+    "start": 226.99,
+    "end": 229.68
+  },
+  {
+    "i": 55,
+    "speaker": "GAEL",
+    "text": "Religuei a luz! Que gritaria... meu Deus, o Caio!",
+    "parte": 3,
+    "cena": "Sala com lareira — O grupo volta correndo para a sala guiado pela lanterna de Leo ao som da valsa arranhada. O feixe encontra Caio imóvel no tapete ao lado da taça dourada quebrada; as luzes voltam quando Gael surge da escada do porão.",
+    "start": 229.93,
+    "end": 233.62
+  },
+  {
+    "i": 56,
+    "speaker": "MAYA",
+    "text": "Ele tá sem pulso... a gente deixou ele sozinho dez minutos no escuro!",
+    "parte": 3,
+    "cena": "Sala com lareira — O grupo volta correndo para a sala guiado pela lanterna de Leo ao som da valsa arranhada. O feixe encontra Caio imóvel no tapete ao lado da taça dourada quebrada; as luzes voltam quando Gael surge da escada do porão.",
+    "start": 233.87,
+    "end": 237.6
+  },
+  {
+    "i": 57,
+    "speaker": "TINA",
+    "text": "Foi a alergia! Ele sempre anda com a caneta de adrenalina, tá ali!",
+    "parte": 3,
+    "cena": "Sala com lareira — De repente a vitrola para sozinha no silêncio absoluto. Leo se agacha com um guardanapo e ilumina uma caneta injetora azul caída ao lado da mão de Caio.",
+    "start": 238.8,
+    "end": 242.96
+  },
+  {
+    "i": 58,
+    "speaker": "LEO",
+    "text": "Não encosta... espera. Gente, olha a cor dessa caneta.",
+    "parte": 3,
+    "cena": "Sala com lareira — De repente a vitrola para sozinha no silêncio absoluto. Leo se agacha com um guardanapo e ilumina uma caneta injetora azul caída ao lado da mão de Caio.",
+    "start": 243.21,
+    "end": 246.79
+  },
+  {
+    "i": 59,
+    "speaker": "TINA",
+    "text": "É azul... a verdadeira dele é cinza! Essa é de treino, não tem remédio nenhum!",
+    "parte": 3,
+    "cena": "Sala com lareira — De repente a vitrola para sozinha no silêncio absoluto. Leo se agacha com um guardanapo e ilumina uma caneta injetora azul caída ao lado da mão de Caio.",
+    "start": 247.14,
+    "end": 251.6
+  },
+  {
+    "i": 60,
+    "speaker": "GAEL",
+    "text": "Sério? Ele apertou isso no escuro achando que ia se salvar?",
+    "parte": 4,
+    "cena": "Sala com lareira — Silêncio tenso ao redor do corpo. Tina chora abraçando os joelhos enquanto os outros encaram a caneta azul no tapete.",
+    "start": 252.8,
+    "end": 256.44
+  },
+  {
+    "i": 61,
+    "speaker": "NINA",
+    "text": "Como teve crise se não tinha amêndoa no ponche?",
+    "parte": 4,
+    "cena": "Sala com lareira — Silêncio tenso ao redor do corpo. Tina chora abraçando os joelhos enquanto os outros encaram a caneta azul no tapete.",
+    "start": 256.69,
+    "end": 259.49
+  },
+  {
+    "i": 62,
+    "speaker": "LEO",
+    "text": "Alguém trocou a caneta e envenenou ele. Não foi acidente.",
+    "parte": 4,
+    "cena": "Sala com lareira — Silêncio tenso ao redor do corpo. Tina chora abraçando os joelhos enquanto os outros encaram a caneta azul no tapete.",
+    "start": 259.74,
+    "end": 263.07
+  },
+  {
+    "i": 63,
+    "speaker": "MAYA",
+    "text": "E a vitrola parou bem nessa hora... que ótimo, festa inesquecível.",
+    "parte": 4,
+    "cena": "Sala com lareira — Silêncio tenso ao redor do corpo. Tina chora abraçando os joelhos enquanto os outros encaram a caneta azul no tapete.",
+    "start": 263.42,
+    "end": 267.32
+  },
+  {
+    "i": 64,
+    "speaker": "LEO",
+    "text": "Respira, Maya. Tenta ligar pra emergência. Alguém tem sinal?",
+    "parte": 4,
+    "cena": "Sala com lareira — Silêncio tenso ao redor do corpo. Tina chora abraçando os joelhos enquanto os outros encaram a caneta azul no tapete.",
+    "start": 267.67,
+    "end": 270.87
+  },
+  {
+    "i": 65,
+    "speaker": "MAYA",
+    "text": "Zero barra. E o fixo da sala tá mudo.",
+    "parte": 4,
+    "cena": "Sala com lareira — Silêncio tenso ao redor do corpo. Tina chora abraçando os joelhos enquanto os outros encaram a caneta azul no tapete.",
+    "start": 271.12,
+    "end": 273.67
+  },
+  {
+    "i": 66,
+    "speaker": "GAEL",
+    "text": "Então vamos pegar o carro do Caio e descer pra estrada agora!",
+    "parte": 4,
+    "cena": "Sala com lareira — Silêncio tenso ao redor do corpo. Tina chora abraçando os joelhos enquanto os outros encaram a caneta azul no tapete.",
+    "start": 274.02,
+    "end": 276.88
+  },
+  {
+    "i": 67,
+    "speaker": "GAEL",
+    "text": "Cadê a chave?! Ele sempre pendura nesse gancho!",
+    "parte": 4,
+    "cena": "Garagem — Os cinco descem correndo até o carro, mas encontram o gancho do quadro de chaves vazio e a porta lateral batendo com o vento.",
+    "start": 278.08,
+    "end": 281.32
+  },
+  {
+    "i": 68,
+    "speaker": "TINA",
+    "text": "Sumiu... tiraram antes do apagão. A gente tá preso aqui.",
+    "parte": 4,
+    "cena": "Garagem — Os cinco descem correndo até o carro, mas encontram o gancho do quadro de chaves vazio e a porta lateral batendo com o vento.",
+    "start": 281.57,
+    "end": 284.96
+  },
+  {
+    "i": 69,
+    "speaker": "NINA",
+    "text": "Gritar não ajuda. Quem queria impedir a gente de sair?",
+    "parte": 4,
+    "cena": "Garagem — Os cinco descem correndo até o carro, mas encontram o gancho do quadro de chaves vazio e a porta lateral batendo com o vento.",
+    "start": 285.31,
+    "end": 288.71
+  },
+  {
+    "i": 70,
+    "speaker": "LEO",
+    "text": "Maya, para um segundo. Olha sua jaqueta amarela.",
+    "parte": 4,
+    "cena": "Garagem — Os cinco descem correndo até o carro, mas encontram o gancho do quadro de chaves vazio e a porta lateral batendo com o vento.",
+    "start": 288.96,
+    "end": 291.54
+  },
+  {
+    "i": 71,
+    "speaker": "MAYA",
+    "text": "O que tem minha jaqueta?",
+    "parte": 4,
+    "cena": "Garagem — Os cinco descem correndo até o carro, mas encontram o gancho do quadro de chaves vazio e a porta lateral batendo com o vento.",
+    "start": 291.89,
+    "end": 293.62
+  },
+  {
+    "i": 72,
+    "speaker": "LEO",
+    "text": "Tá encharcada. Por que você saiu na chuva durante o apagão?",
+    "parte": 4,
+    "cena": "Garagem — Os cinco descem correndo até o carro, mas encontram o gancho do quadro de chaves vazio e a porta lateral batendo com o vento.",
+    "start": 293.87,
+    "end": 297.77
+  },
+  {
+    "i": 73,
+    "speaker": "MAYA",
+    "text": "Fui até a piscina chorar! O Caio tava me sufocando lá dentro!",
+    "parte": 4,
+    "cena": "Corredor e escada — Maya recua segurando a câmera instantânea no pescoço, com os olhos marejados; Tina se aproxima com o olhar duro.",
+    "start": 298.97,
+    "end": 302.44
+  },
+  {
+    "i": 74,
+    "speaker": "TINA",
+    "text": "Conta logo que ele descobriu seu perfil anônimo, Maya!",
+    "parte": 4,
+    "cena": "Corredor e escada — Maya recua segurando a câmera instantânea no pescoço, com os olhos marejados; Tina se aproxima com o olhar duro.",
+    "start": 302.69,
+    "end": 305.13
+  },
+  {
+    "i": 75,
+    "speaker": "LEO",
+    "text": "Que perfil anônimo? Do que vocês tão falando?",
+    "parte": 4,
+    "cena": "Corredor e escada — Maya recua segurando a câmera instantânea no pescoço, com os olhos marejados; Tina se aproxima com o olhar duro.",
+    "start": 305.38,
+    "end": 307.46
+  },
+  {
+    "i": 76,
+    "speaker": "TINA",
+    "text": "A conta que vazou o escândalo dos meus pais. Ele rastreou até o notebook dela.",
+    "parte": 4,
+    "cena": "Corredor e escada — Maya recua segurando a câmera instantânea no pescoço, com os olhos marejados; Tina se aproxima com o olhar duro.",
+    "start": 307.71,
+    "end": 312.27
+  },
+  {
+    "i": 77,
+    "speaker": "MAYA",
+    "text": "Eu só expus o que eles escondiam! Mas não matei ninguém!",
+    "parte": 4,
+    "cena": "Corredor e escada — Maya recua segurando a câmera instantânea no pescoço, com os olhos marejados; Tina se aproxima com o olhar duro.",
+    "start": 312.62,
+    "end": 315.7
+  },
+  {
+    "i": 78,
+    "speaker": "GAEL",
+    "text": "Mesmo assim, você sumiu no escuro por dez minutos!",
+    "parte": 4,
+    "cena": "Corredor e escada — Maya recua segurando a câmera instantânea no pescoço, com os olhos marejados; Tina se aproxima com o olhar duro.",
+    "start": 315.95,
+    "end": 318.93
+  },
+  {
+    "i": 79,
+    "speaker": "MAYA",
+    "text": "Quando voltei pro corredor, disparei o flash da câmera pra escada!",
+    "parte": 4,
+    "cena": "Corredor e escada — Maya recua segurando a câmera instantânea no pescoço, com os olhos marejados; Tina se aproxima com o olhar duro.",
+    "start": 319.18,
+    "end": 322.81
+  },
+  {
+    "i": 80,
+    "speaker": "LEO",
+    "text": "Mostra essa foto agora.",
+    "parte": 4,
+    "cena": "Corredor e escada — Maya recua segurando a câmera instantânea no pescoço, com os olhos marejados; Tina se aproxima com o olhar duro.",
+    "start": 323.06,
+    "end": 324.43
+  },
+  {
+    "i": 81,
+    "speaker": "MAYA",
+    "text": "Tá revelando... olha ali nos degraus!",
+    "parte": 4,
+    "cena": "Corredor e escada — Maya recua segurando a câmera instantânea no pescoço, com os olhos marejados; Tina se aproxima com o olhar duro.",
+    "start": 324.78,
+    "end": 327.11
+  },
+  {
+    "i": 82,
+    "speaker": "LEO",
+    "text": "Alguém de suéter vinho subindo com um celular aceso... Nina!",
+    "parte": 4,
+    "cena": "Corredor e escada — Maya recua segurando a câmera instantânea no pescoço, com os olhos marejados; Tina se aproxima com o olhar duro.",
+    "start": 327.36,
+    "end": 331.29
+  },
+  {
+    "i": 83,
+    "speaker": "GAEL",
+    "text": "Era você lá em cima! Por que mentiu, Nina?",
+    "parte": 4,
+    "cena": "Escada — Todos se viram para Nina nos degraus de cima. Leo aproxima a foto revelada da luz do corredor e paralisa.",
+    "start": 332.49,
+    "end": 335.93
+  },
+  {
+    "i": 84,
+    "speaker": "NINA",
+    "text": "Peguei o celular do Caio porque vi a Tina subir antes!",
+    "parte": 4,
+    "cena": "Escada — Todos se viram para Nina nos degraus de cima. Leo aproxima a foto revelada da luz do corredor e paralisa.",
+    "start": 336.18,
+    "end": 338.99
+  },
+  {
+    "i": 85,
+    "speaker": "TINA",
+    "text": "Mentira sua!",
+    "parte": 4,
+    "cena": "Escada — Todos se viram para Nina nos degraus de cima. Leo aproxima a foto revelada da luz do corredor e paralisa.",
+    "start": 339.24,
+    "end": 340.29
+  },
+  {
+    "i": 86,
+    "speaker": "NINA",
+    "text": "Olha o quarto revirado! E Leo... tinha um áudio seu aberto na tela.",
+    "parte": 4,
+    "cena": "Escada — Todos se viram para Nina nos degraus de cima. Leo aproxima a foto revelada da luz do corredor e paralisa.",
+    "start": 340.54,
+    "end": 344.85
+  },
+  {
+    "i": 87,
+    "speaker": "LEO",
+    "text": "Espera... esquece o quarto! Olha o canto superior dessa foto!",
+    "parte": 4,
+    "cena": "Escada — Todos se viram para Nina nos degraus de cima. Leo aproxima a foto revelada da luz do corredor e paralisa.",
+    "start": 345.2,
+    "end": 349.07
+  },
+  {
+    "i": 88,
+    "speaker": "MAYA",
+    "text": "Meu Deus... tem outra pessoa atrás de você, Nina! Uma garota de vestido branco!",
+    "parte": 4,
+    "cena": "Escada — Todos se viram para Nina nos degraus de cima. Leo aproxima a foto revelada da luz do corredor e paralisa.",
+    "start": 349.32,
+    "end": 354.81
+  },
+  {
+    "i": 89,
+    "speaker": "TINA",
+    "text": "Eu tô de roxo... a gente só trouxe seis pessoas pra essa casa!",
+    "parte": 4,
+    "cena": "Escada — Todos se viram para Nina nos degraus de cima. Leo aproxima a foto revelada da luz do corredor e paralisa.",
+    "start": 355.06,
+    "end": 358.95
+  },
+  {
+    "i": 90,
+    "speaker": "MAYA",
+    "text": "Leo... que áudio é esse no celular dele? Você confessando uma batida de carro?",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 360.15,
+    "end": 364.86
+  },
+  {
+    "i": 91,
+    "speaker": "LEO",
+    "text": "Bati o carro do pai dele. Ele assumiu a culpa e gravou pra me chantagear.",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 365.11,
+    "end": 369.14
+  },
+  {
+    "i": 92,
+    "speaker": "LEO",
+    "text": "Mas você revirou esse quarto, Tina. Que papel é esse?",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 369.49,
+    "end": 372.79
+  },
+  {
+    "i": 93,
+    "speaker": "TINA",
+    "text": "O contrato da venda da casa! Ele ia vender a herança da vó escondido!",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 373.04,
+    "end": 376.57
+  },
+  {
+    "i": 94,
+    "speaker": "TINA",
+    "text": "Escondi a chave do carro à tarde pra ele não sair sem rasgar. E subi no apagão atrás disso.",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 376.82,
+    "end": 381.56
+  },
+  {
+    "i": 95,
+    "speaker": "MAYA",
+    "text": "Gente, olha essa foto amarelada que caiu de trás do contrato.",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 381.91,
+    "end": 385.9
+  },
+  {
+    "i": 96,
+    "speaker": "LEO",
+    "text": "Tá datada de vinte anos atrás. A garota de branco... tá com a mesma taça dourada do Caio!",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 386.25,
+    "end": 391.76
+  },
+  {
+    "i": 97,
+    "speaker": "TINA",
+    "text": "A minha avó abafou tudo. A menina morreu no aniversário aqui, ao som daquela vitrola.",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 392.01,
+    "end": 396.41
+  },
+  {
+    "i": 98,
+    "speaker": "NINA",
+    "text": "Essa família inteira é podre. Igual o pai de vocês, que deu calote e faliu minha família.",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 396.76,
+    "end": 402.37
+  },
+  {
+    "i": 99,
+    "speaker": "GAEL",
+    "text": "Então você veio se vingar, Nina! E fez o ponche sozinha na cozinha!",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 402.72,
+    "end": 407.36
+  },
+  {
+    "i": 100,
+    "speaker": "NINA",
+    "text": "Quando ele descobriu, a gente brigou... mas eu não matei ninguém!",
+    "parte": 5,
+    "cena": "Quarto 1 — Gavetas reviradas na suíte de Caio. Sobre a escrivaninha estão o celular dele, um contrato, uma pasta aberta de extratos bancários que chama a atenção de Maya e uma foto amarelada.",
+    "start": 407.61,
+    "end": 411.05
+  },
+  {
+    "i": 101,
+    "speaker": "LEO",
+    "text": "Peraí... acabei de receber mensagem do número do Caio! Sem sinal!",
+    "parte": 5,
+    "cena": "Quarto 1 — Com o celular de Caio intocado sobre a escrivaninha e sem nenhum sinal, o celular de Leo vibra no bolso. Leo lê a tela tremendo e depois leva o aparelho de Caio consigo.",
+    "start": 412.25,
+    "end": 415.19
+  },
+  {
+    "i": 102,
+    "speaker": "MAYA",
+    "text": "Fala baixo... o que tá escrito?!",
+    "parte": 5,
+    "cena": "Quarto 1 — Com o celular de Caio intocado sobre a escrivaninha e sem nenhum sinal, o celular de Leo vibra no bolso. Leo lê a tela tremendo e depois leva o aparelho de Caio consigo.",
+    "start": 415.44,
+    "end": 417.48
+  },
+  {
+    "i": 103,
+    "speaker": "LEO",
+    "text": "\"A mesma taça. O mesmo dia. Desce no porão.\" Nem tá nos enviados dele!",
+    "parte": 5,
+    "cena": "Quarto 1 — Com o celular de Caio intocado sobre a escrivaninha e sem nenhum sinal, o celular de Leo vibra no bolso. Leo lê a tela tremendo e depois leva o aparelho de Caio consigo.",
+    "start": 417.73,
+    "end": 423.42
+  },
+  {
+    "i": 104,
+    "speaker": "GAEL",
+    "text": "Isso é truque programado pra assustar a gente! Vem, vamos pra cozinha!",
+    "parte": 5,
+    "cena": "Quarto 1 — Com o celular de Caio intocado sobre a escrivaninha e sem nenhum sinal, o celular de Leo vibra no bolso. Leo lê a tela tremendo e depois leva o aparelho de Caio consigo.",
+    "start": 423.67,
+    "end": 427.49
+  },
+  {
+    "i": 105,
+    "speaker": "TINA",
+    "text": "Silêncio! Vocês ouviram essas três batidas?!",
+    "parte": 5,
+    "cena": "Cozinha — Os cinco descem juntos. Leo se aproxima da bancada com a jarra de ponche quando três batidas lentas e pesadas ecoam do lado de dentro da porta trancada do porão.",
+    "start": 428.69,
+    "end": 431.51
+  },
+  {
+    "i": 106,
+    "speaker": "MAYA",
+    "text": "Tá todo mundo aqui... quem tá batendo de dentro do porão?!",
+    "parte": 5,
+    "cena": "Cozinha — Os cinco descem juntos. Leo se aproxima da bancada com a jarra de ponche quando três batidas lentas e pesadas ecoam do lado de dentro da porta trancada do porão.",
+    "start": 431.76,
+    "end": 435.21
+  },
+  {
+    "i": 107,
+    "speaker": "MAYA",
+    "text": "Pelo amor de Deus, Leo, não abre... alguma coisa bateu aí dentro!",
+    "parte": 6,
+    "cena": "Cozinha — Os cinco recuam assustados diante da porta trancada do porão. Leo respira fundo, cheira a jarra de ponche na bancada e encara o grupo.",
+    "start": 436.41,
+    "end": 440.13
+  },
+  {
+    "i": 108,
+    "speaker": "LEO",
+    "text": "Escuta antes. A jarra só tem amora. Não tem amêndoa aqui.",
+    "parte": 6,
+    "cena": "Cozinha — Os cinco recuam assustados diante da porta trancada do porão. Leo respira fundo, cheira a jarra de ponche na bancada e encara o grupo.",
+    "start": 440.38,
+    "end": 443.91
+  },
+  {
+    "i": 109,
+    "speaker": "NINA",
+    "text": "Eu falei! Não coloquei nada no ponche!",
+    "parte": 6,
+    "cena": "Cozinha — Os cinco recuam assustados diante da porta trancada do porão. Leo respira fundo, cheira a jarra de ponche na bancada e encara o grupo.",
+    "start": 444.26,
+    "end": 446.96
+  },
+  {
+    "i": 110,
+    "speaker": "LEO",
+    "text": "O veneno tava só na taça dourada. Só você, Nina, ou você, Gael.",
+    "parte": 6,
+    "cena": "Cozinha — Os cinco recuam assustados diante da porta trancada do porão. Leo respira fundo, cheira a jarra de ponche na bancada e encara o grupo.",
+    "start": 447.21,
+    "end": 452.2
+  },
+  {
+    "i": 111,
+    "speaker": "GAEL",
+    "text": "Vai ficar acusando a gente enquanto tem alguém trancado aí dentro?",
+    "parte": 6,
+    "cena": "Cozinha — Os cinco recuam assustados diante da porta trancada do porão. Leo respira fundo, cheira a jarra de ponche na bancada e encara o grupo.",
+    "start": 452.55,
+    "end": 455.35
+  },
+  {
+    "i": 112,
+    "speaker": "LEO",
+    "text": "Não tem ninguém aqui embaixo. Mas tá gelado demais...",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 456.55,
+    "end": 459.77
+  },
+  {
+    "i": 113,
+    "speaker": "TINA",
+    "text": "Como não tem ninguém se acabou de bater três vezes?!",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 460.12,
+    "end": 463.1
+  },
+  {
+    "i": 114,
+    "speaker": "MAYA",
+    "text": "Maravilha... assassino lá em cima, fantasma aqui embaixo. Vamos subir, sério!",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 463.35,
+    "end": 467.79
+  },
+  {
+    "i": 115,
+    "speaker": "LEO",
+    "text": "Espera. Olha o quadro de disjuntores de perto.",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 468.04,
+    "end": 471.04
+  },
+  {
+    "i": 116,
+    "speaker": "GAEL",
+    "text": "Já falei que a chuva derrubou e eu religuei!",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 471.39,
+    "end": 473.99
+  },
+  {
+    "i": 117,
+    "speaker": "LEO",
+    "text": "Não, Gael. O protetor de raio nem desarmou. A chave foi abaixada na mão.",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 474.24,
+    "end": 478.98
+  },
+  {
+    "i": 118,
+    "speaker": "NINA",
+    "text": "Ou seja, o assassino desligou a casa por dez minutos de propósito!",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 479.33,
+    "end": 483.02
+  },
+  {
+    "i": 119,
+    "speaker": "MAYA",
+    "text": "E olha a porta da adega! Poeira grossa intacta no trinco!",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 483.27,
+    "end": 486.83
+  },
+  {
+    "i": 120,
+    "speaker": "TINA",
+    "text": "Você disse que veio buscar espumante, Gael, mas nem encostou na adega!",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 487.08,
+    "end": 490.35
+  },
+  {
+    "i": 121,
+    "speaker": "GAEL",
+    "text": "Vocês ouviram as batidas! Eu juro, tinha outra pessoa aqui no escuro comigo!",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 490.6,
+    "end": 494.87
+  },
+  {
+    "i": 122,
+    "speaker": "NINA",
+    "text": "Que conveniente... justo quando o Caio bebia a taça que você levou.",
+    "parte": 6,
+    "cena": "Porão — Leo destranca a porta e desce a escada estreita com a lanterna. O porão está completamente vazio e gelado; o feixe ilumina o quadro de disjuntores e a adega.",
+    "start": 495.12,
+    "end": 499.0
+  },
+  {
+    "i": 123,
+    "speaker": "LEO",
+    "text": "Quieto todo mundo. Olha essas pegadas úmidas indo pra garagem.",
+    "parte": 6,
+    "cena": "Porão e passagem da garagem — Leo abaixa a lanterna e segue pegadas úmidas no cimento que atravessam a porta interna até uma caixa de ferramentas metálica na garagem.",
+    "start": 500.2,
+    "end": 503.68
+  },
+  {
+    "i": 124,
+    "speaker": "MAYA",
+    "text": "Levam direto até aquela caixa de ferramentas... a trava tá forçada!",
+    "parte": 6,
+    "cena": "Porão e passagem da garagem — Leo abaixa a lanterna e segue pegadas úmidas no cimento que atravessam a porta interna até uma caixa de ferramentas metálica na garagem.",
+    "start": 504.03,
+    "end": 507.58
+  },
+  {
+    "i": 125,
+    "speaker": "LEO",
+    "text": "Gente... a caneta verdadeira do Caio tá aqui dentro!",
+    "parte": 6,
+    "cena": "Porão e passagem da garagem — Leo abaixa a lanterna e segue pegadas úmidas no cimento que atravessam a porta interna até uma caixa de ferramentas metálica na garagem.",
+    "start": 507.83,
+    "end": 511.01
+  },
+  {
+    "i": 126,
+    "speaker": "TINA",
+    "text": "É a caneta cinza dele! E esse frasco... óleo concentrado de amêndoa!",
+    "parte": 7,
+    "cena": "Garagem — Leo puxa da caixa de ferramentas a caneta cinza verdadeira de Caio e um frasco de óleo de amêndoa, enrolados no lenço de seda vinho de Nina.",
+    "start": 512.21,
+    "end": 517.74
+  },
+  {
+    "i": 127,
+    "speaker": "LEO",
+    "text": "Olha a trava enferrujada. Tem um fiapo branco de curativo preso aqui.",
+    "parte": 7,
+    "cena": "Garagem — Leo puxa da caixa de ferramentas a caneta cinza verdadeira de Caio e um frasco de óleo de amêndoa, enrolados no lenço de seda vinho de Nina.",
+    "start": 517.99,
+    "end": 522.75
+  },
+  {
+    "i": 128,
+    "speaker": "MAYA",
+    "text": "Gael, você cortou o dedo forçando isso! Eu vi os extratos abertos no quarto do Caio!",
+    "parte": 7,
+    "cena": "Garagem — Leo puxa da caixa de ferramentas a caneta cinza verdadeira de Caio e um frasco de óleo de amêndoa, enrolados no lenço de seda vinho de Nina.",
+    "start": 523.1,
+    "end": 529.2
+  },
+  {
+    "i": 129,
+    "speaker": "MAYA",
+    "text": "Você desviou cento e oitenta mil da empresa e ele ia te denunciar segunda!",
+    "parte": 7,
+    "cena": "Garagem — Leo puxa da caixa de ferramentas a caneta cinza verdadeira de Caio e um frasco de óleo de amêndoa, enrolados no lenço de seda vinho de Nina.",
+    "start": 529.45,
+    "end": 533.5
+  },
+  {
+    "i": 130,
+    "speaker": "GAEL",
+    "text": "Eu ia devolver cada centavo! Mas olha onde o veneno tava enrolado: no lenço da Nina!",
+    "parte": 7,
+    "cena": "Garagem — Leo puxa da caixa de ferramentas a caneta cinza verdadeira de Caio e um frasco de óleo de amêndoa, enrolados no lenço de seda vinho de Nina.",
+    "start": 533.75,
+    "end": 539.59
+  },
+  {
+    "i": 131,
+    "speaker": "GAEL",
+    "text": "Vi ela saindo da garagem às oito! Você armou tudo pra cima de mim!",
+    "parte": 7,
+    "cena": "Garagem — Leo puxa da caixa de ferramentas a caneta cinza verdadeira de Caio e um frasco de óleo de amêndoa, enrolados no lenço de seda vinho de Nina.",
+    "start": 539.84,
+    "end": 543.89
+  },
+  {
+    "i": 132,
+    "speaker": "NINA",
+    "text": "Meu lenço tava no sofá, qualquer um pegava! Quem apagou a luz por dez minutos no porão foi você, Gael!",
+    "parte": 7,
+    "cena": "Garagem — Leo puxa da caixa de ferramentas a caneta cinza verdadeira de Caio e um frasco de óleo de amêndoa, enrolados no lenço de seda vinho de Nina.",
+    "start": 544.14,
+    "end": 550.31
+  },
+  {
+    "i": 133,
+    "speaker": "LEO",
+    "text": "Deu meia-noite... a vitrola voltou a tocar! E abriu uma câmera oculta da cozinha no celular dele!",
+    "parte": 7,
+    "cena": "Garagem — O relógio digital de Leo marca meia-noite. Lá em cima a vitrola volta a tocar sozinha, e o celular de Caio na mão de Leo acende abrindo o \"Arquivo 20\": vídeo da câmera oculta da cozinha.",
+    "start": 551.51,
+    "end": 557.61
+  },
+  {
+    "i": 134,
+    "speaker": "TINA",
+    "text": "Dá o play! A Nina saiu, o Gael chegou perto da taça... travou bem na hora do veneno!",
+    "parte": 7,
+    "cena": "Garagem — O relógio digital de Leo marca meia-noite. Lá em cima a vitrola volta a tocar sozinha, e o celular de Caio na mão de Leo acende abrindo o \"Arquivo 20\": vídeo da câmera oculta da cozinha.",
+    "start": 557.86,
+    "end": 563.47
+  },
+  {
+    "i": 135,
+    "speaker": "MAYA",
+    "text": "A imagem voltou... a cozinha tá vazia, mas a garota de vestido branco tá do lado da taça encarando a câmera!",
+    "parte": 7,
+    "cena": "Garagem — O relógio digital de Leo marca meia-noite. Lá em cima a vitrola volta a tocar sozinha, e o celular de Caio na mão de Leo acende abrindo o \"Arquivo 20\": vídeo da câmera oculta da cozinha.",
+    "start": 563.72,
+    "end": 572.99
+  },
+  {
+    "i": 136,
+    "speaker": "CAIO",
+    "text": "Quem tá mentindo nessa sala vai cair antes do bolo... saúde.",
+    "parte": 7,
+    "cena": "Garagem — A gravação chia e o áudio distorcido da sala vazia repete a voz de Caio no brinde enquanto a figura de vestido branco encara a lente.",
+    "start": 574.19,
+    "end": 577.61
+  },
+  {
+    "i": 137,
+    "speaker": "LEO",
+    "text": "A Nina tem a vingança, o ponche e o lenço. O Gael tem a dívida, o corte e o porão.",
+    "parte": 7,
+    "cena": "Garagem — A gravação chia e o áudio distorcido da sala vazia repete a voz de Caio no brinde enquanto a figura de vestido branco encara a lente.",
+    "start": 577.96,
+    "end": 584.03
+  },
+  {
+    "i": 138,
+    "speaker": "LEO",
+    "text": "E a câmera mostrou alguém que morreu há vinte anos. Comenta aí: quem você acha que foi?",
+    "parte": 7,
+    "cena": "Garagem — A gravação chia e o áudio distorcido da sala vazia repete a voz de Caio no brinde enquanto a figura de vestido branco encara a lente.",
+    "start": 584.38,
+    "end": 589.63
+  }
+]

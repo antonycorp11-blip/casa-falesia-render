@@ -1,0 +1,44 @@
+[
+  {
+    "parte": 1,
+    "titulo": "DEZ MINUTOS NO ESCURO",
+    "start": 0.0,
+    "end": 45.22
+  },
+  {
+    "parte": 2,
+    "titulo": "A CASA E A LENDA",
+    "start": 46.42,
+    "end": 153.98
+  },
+  {
+    "parte": 3,
+    "titulo": "O BRINDE E O APAGÃO",
+    "start": 155.18,
+    "end": 251.6
+  },
+  {
+    "parte": 4,
+    "titulo": "A CHAVE E A SÉTIMA PESSOA",
+    "start": 252.8,
+    "end": 358.95
+  },
+  {
+    "parte": 5,
+    "titulo": "SEGREDOS E A MENSAGEM",
+    "start": 360.15,
+    "end": 435.21
+  },
+  {
+    "parte": 6,
+    "titulo": "A TAÇA E O PORÃO",
+    "start": 436.41,
+    "end": 511.01
+  },
+  {
+    "parte": 7,
+    "titulo": "DOIS SUSPEITOS E UMA PRESENÇA",
+    "start": 512.21,
+    "end": 589.63
+  }
+]

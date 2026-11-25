@@ -1,0 +1,17 @@
+// Demo timing. Replace this list with editorial timing after the episode audio is locked.
+export const planos=[
+{t0:0,t1:5,local:'sala',cam:{pos:[0,1.7,-3.3],olhar:[0,1.55,1],movimento:'respirar'},atores:[{nome:'CAIO',pos:[-1,0,1],pose:'apontando',olhaPara:'camera'},{nome:'NINA',pos:[1.5,0,1.3],pose:'em_pe',olhaPara:'camera'},{nome:'MAYA',pos:[2.9,0,-.4],pose:'em_pe',olhaPara:'camera'},{nome:'GAEL',pos:[-2.5,0,-1],pose:'em_pe',olhaPara:'camera'},{nome:'TINA',pos:[3.7,0,2],pose:'sentado',olhaPara:'camera'}],luz:'normal',fx:[],maos:{segura:'nada'}},
+{t0:5,t1:10,local:'cozinha',cam:{pos:[10,1.7,-3.4],olhar:[12,1.3,0],movimento:'andar'},atores:[{nome:'NINA',pos:[12.4,0,1.7],pose:'em_pe',olhaPara:'camera'},{nome:'GAEL',pos:[14.5,0,1],pose:'apontando',olhaPara:'camera'}],luz:'normal',fx:['relampago'],maos:{segura:'celular'}},
+{t0:10,t1:15,local:'varanda',cam:{pos:[0,1.7,-9],olhar:[0,1.3,-15],movimento:'andar'},atores:[{nome:'MAYA',pos:[-1,0,-13],pose:'assustado',olhaPara:'camera'},{nome:'NINA',pos:[2,0,-12],pose:'em_pe',olhaPara:'camera'}],luz:'normal',fx:['relampago'],maos:{segura:'nada'}},
+{t0:15,t1:20,local:'piscina',cam:{pos:[-1,1.7,-19],olhar:[0,.4,-24],movimento:'respirar'},atores:[{nome:'MAYA',pos:[3,0,-19],pose:'em_pe',olhaPara:'camera'}],luz:'apagao',fx:['relampago'],maos:{segura:'lanterna'}},
+{t0:20,t1:25,local:'escada',cam:{pos:[-11,1.7,-3],olhar:[-11,2.7,5],movimento:'andar'},atores:[{nome:'NINA',pos:[-11,1.4,5],pose:'assustado',olhaPara:'camera'},{nome:'SOFIA',pos:[-11,4,9],pose:'em_pe',olhaPara:'camera'}],luz:'apagao',fx:['flash'],maos:{segura:'celular'}},
+{t0:25,t1:30,local:'quarto1',cam:{pos:[-11,5.7,6.2],olhar:[-10,5,12],movimento:'respirar'},atores:[{nome:'TINA',pos:[-10,4,10],pose:'ajoelhado',olhaPara:'camera'}],luz:'apagao',fx:['mensagem_celular'],maos:{segura:'celular'}},
+{t0:30,t1:35,local:'quarto2',cam:{pos:[0,5.7,6.2],olhar:[0,5.1,11],movimento:'respirar'},atores:[{nome:'MAYA',pos:[1,4,10],pose:'sentado',olhaPara:'camera'}],luz:'apagao',fx:[],maos:{segura:'guardanapo'}},
+{t0:35,t1:40,local:'quarto3',cam:{pos:[11,5.7,6.2],olhar:[11,5.1,11],movimento:'respirar'},atores:[{nome:'GAEL',pos:[12,4,10],pose:'em_pe',olhaPara:'camera'}],luz:'apagao',fx:['relampago'],maos:{segura:'caneta'}},
+{t0:40,t1:45,local:'porao',cam:{pos:[-1,-2.3,6.2],olhar:[-3,-2.6,11],movimento:'andar'},atores:[{nome:'GAEL',pos:[2,-4,10],pose:'assustado',olhaPara:'camera'}],luz:'apagao',fx:['relampago'],maos:{segura:'lanterna'}},
+{t0:45,t1:50,local:'garagem',cam:{pos:[11,-2.3,6.3],olhar:[15,-3.1,13],movimento:'andar'},atores:[{nome:'TINA',pos:[14,-4,10],pose:'apontando',olhaPara:'camera'}],luz:'piscando',fx:[],maos:{segura:'lanterna'}},
+{t0:50,t1:55,local:'sala',cam:{pos:[0,7,-.5],olhar:[0,0,0],movimento:'geral'},atores:[{nome:'CAIO',pos:[-2.5,0,1.8],pose:'caido'},{nome:'NINA',pos:[.8,0,.5],pose:'ajoelhado'},{nome:'MAYA',pos:[2.6,0,-1],pose:'assustado'},{nome:'GAEL',pos:[-1,0,-1],pose:'em_pe'},{nome:'TINA',pos:[3.5,0,2],pose:'assustado'}],luz:'piscando',fx:['vitrola','relampago'],maos:{segura:'nada'},especial:'geral'},
+{t0:55,t1:60,local:'cozinha',cam:{pos:[15,3,4],olhar:[12,1,0],movimento:'seguranca'},atores:[{nome:'GAEL',pos:[12,0,1.5],pose:'em_pe'},{nome:'SOFIA',pos:[10.5,0,-1],pose:'em_pe'}],luz:'apagao',fx:['flash'],maos:{segura:'nada'},especial:'seguranca'}
+];
+export const DURACAO=planos.at(-1).t1;
+export function planoEm(t){return planos.find(p=>t>=p.t0&&t<p.t1)||planos.at(-1)}

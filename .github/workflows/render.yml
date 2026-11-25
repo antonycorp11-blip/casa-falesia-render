@@ -1,0 +1,90 @@
+name: render-filme-3d
+on:
+  workflow_dispatch:
+    inputs:
+      pasta:
+        description: "Pasta do filme em reels/ (ex.: escola_filme_3d)"
+        required: true
+        default: "escola_filme_3d"
+      nome:
+        description: "Nome do arquivo MP4 de saída (ex.: escola_filme_3d_16x9)"
+        required: true
+        default: "escola_filme_3d_16x9"
+      release_tag:
+        description: "Tag da GitHub Release (ex.: filme-escola-3d)"
+        required: true
+        default: "filme-escola-3d"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Instalar Playwright + Chromium
+        run: npm init -y >/dev/null && npm i playwright@1.48.2 && npx playwright install --with-deps chromium
+      - name: Renderizar fatia 3D 16:9 (1920x1080, 30 fps)
+        env:
+          SHARD: ${{ matrix.shard }}
+          SHARDS: 40
+        run: |
+          node render_filme_ci.mjs "reels/${{ github.event.inputs.pasta }}" frames 2
+      - uses: actions/upload-artifact@v4
+        with:
+          name: "filme3d-${{ matrix.shard }}"
+          path: frames/
+          retention-days: 2
+
+  finish:
+    needs: render
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: "filme3d-*"
+          path: frames
+          merge-multiple: true
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Encodar Filme 3D 16:9 em Alta Qualidade (YouTube 1080p)
+        run: |
+          ls frames | wc -l
+          mkdir -p out
+          PASTA="${{ github.event.inputs.pasta }}"
+          NOME="${{ github.event.inputs.nome }}"
+          ffmpeg -v error -y -framerate 30 -i frames/f%06d.jpg -i "reels/${PASTA}/audio_final.m4a" \
+            -map 0:v -map 1:a \
+            -c:v libx264 -pix_fmt yuv420p -crf 18 -preset medium \
+            -c:a copy -shortest -movflags +faststart "out/${NOME}_alta.mp4"
+          ls -lh out/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: filme-3d-16x9
+          path: out/*.mp4
+          retention-days: 14
+      - name: Publicar na GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.inputs.release_tag }}
+          NOME: ${{ github.event.inputs.nome }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" out/*.mp4 --clobber
+          else
+            gh release create "$TAG" out/*.mp4 \
+              --title "A Casa da Falésia EP1" \
+              --notes "EP1 1080p30"
+          fi
+          gh release view "$TAG" --json url -q .url
