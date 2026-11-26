@@ -1,0 +1,272 @@
+[
+ {
+  "i": 1,
+  "speaker": "NARRADOR",
+  "text": "E se você chegasse à casa da amiga durante essa tempestade?",
+  "parte": 1,
+  "cena": "Sala da casa no alto da falésia. A tempestade sacode as janelas. Luna, de cabelo rosa e uniforme escolar, entra, anda até Bia e acena. Bia anda até ela e fala.",
+  "start": 0.0,
+  "end": 3.968
+ },
+ {
+  "i": 2,
+  "speaker": "LUNA",
+  "text": "Oi! Vim correndo antes que a chuva levasse minha mochila.",
+  "parte": 1,
+  "cena": "Sala da casa no alto da falésia. A tempestade sacode as janelas. Luna, de cabelo rosa e uniforme escolar, entra, anda até Bia e acena. Bia anda até ela e fala.",
+  "start": 3.968,
+  "end": 7.771
+ },
+ {
+  "i": 3,
+  "speaker": "BIA",
+  "text": "Você subiu aquela estrada? Ela já parecia um rio.",
+  "parte": 1,
+  "cena": "Sala da casa no alto da falésia. A tempestade sacode as janelas. Luna, de cabelo rosa e uniforme escolar, entra, anda até Bia e acena. Bia anda até ela e fala.",
+  "start": 8.071,
+  "end": 11.658
+ },
+ {
+  "i": 4,
+  "speaker": "LUNA",
+  "text": "Subi. Vi as ondas batendo quase na janela daqui!",
+  "parte": 1,
+  "cena": "Sala da casa no alto da falésia. A tempestade sacode as janelas. Luna, de cabelo rosa e uniforme escolar, entra, anda até Bia e acena. Bia anda até ela e fala.",
+  "start": 11.658,
+  "end": 15.154
+ },
+ {
+  "i": 5,
+  "speaker": "BIA",
+  "text": "Quase é exagero. Mas hoje eu evitaria o vidro.",
+  "parte": 1,
+  "cena": "Sala da casa no alto da falésia. A tempestade sacode as janelas. Luna, de cabelo rosa e uniforme escolar, entra, anda até Bia e acena. Bia anda até ela e fala.",
+  "start": 15.154,
+  "end": 18.466
+ },
+ {
+  "i": 6,
+  "speaker": "LUNA",
+  "text": "Você fala isso e me deixa mais curiosa, sabia?",
+  "parte": 1,
+  "cena": "Sala da casa no alto da falésia. A tempestade sacode as janelas. Luna, de cabelo rosa e uniforme escolar, entra, anda até Bia e acena. Bia anda até ela e fala.",
+  "start": 18.466,
+  "end": 21.778
+ },
+ {
+  "i": 7,
+  "speaker": "BIA",
+  "text": "Então senta comigo. O vento já faz espetáculo suficiente.",
+  "parte": 1,
+  "cena": "Sala da casa no alto da falésia. A tempestade sacode as janelas. Luna, de cabelo rosa e uniforme escolar, entra, anda até Bia e acena. Bia anda até ela e fala.",
+  "start": 21.778,
+  "end": 26.101
+ },
+ {
+  "i": 8,
+  "speaker": "NARRADOR",
+  "text": "A música some. Uma voz cortada invade a sala.",
+  "parte": 2,
+  "cena": "Na sala, Luna anda até o rádio e fala. Bia ouve, fala e aponta para a porta de vidro. Um trovão ilumina a falésia lá fora.",
+  "start": 26.801,
+  "end": 30.098
+ },
+ {
+  "i": 9,
+  "speaker": "LUNA",
+  "text": "Pera. Esse rádio estava tocando música agora, né?",
+  "parte": 2,
+  "cena": "Na sala, Luna anda até o rádio e fala. Bia ouve, fala e aponta para a porta de vidro. Um trovão ilumina a falésia lá fora.",
+  "start": 30.098,
+  "end": 33.772
+ },
+ {
+  "i": 10,
+  "speaker": "BIA",
+  "text": "Estava. Deixa eu aumentar, talvez seja aviso da tempestade.",
+  "parte": 2,
+  "cena": "Na sala, Luna anda até o rádio e fala. Bia ouve, fala e aponta para a porta de vidro. Um trovão ilumina a falésia lá fora.",
+  "start": 34.072,
+  "end": 38.838
+ },
+ {
+  "i": 11,
+  "speaker": "LUNA",
+  "text": "Ouvi meu nome? A voz falou Luna, né?",
+  "parte": 2,
+  "cena": "Na sala, Luna anda até o rádio e fala. Bia ouve, fala e aponta para a porta de vidro. Um trovão ilumina a falésia lá fora.",
+  "start": 38.838,
+  "end": 41.419
+ },
+ {
+  "i": 12,
+  "speaker": "BIA",
+  "text": "Falou nossos nomes. E disse para ninguém abrir a porta.",
+  "parte": 2,
+  "cena": "Na sala, Luna anda até o rádio e fala. Bia ouve, fala e aponta para a porta de vidro. Um trovão ilumina a falésia lá fora.",
+  "start": 41.419,
+  "end": 45.788
+ },
+ {
+  "i": 13,
+  "speaker": "LUNA",
+  "text": "Como sabem que estamos aqui? Você avisou alguém?",
+  "parte": 2,
+  "cena": "Na sala, Luna anda até o rádio e fala. Bia ouve, fala e aponta para a porta de vidro. Um trovão ilumina a falésia lá fora.",
+  "start": 45.788,
+  "end": 49.661
+ },
+ {
+  "i": 14,
+  "speaker": "BIA",
+  "text": "Não. O rádio está desligado da tomada desde ontem.",
+  "parte": 2,
+  "cena": "Na sala, Luna anda até o rádio e fala. Bia ouve, fala e aponta para a porta de vidro. Um trovão ilumina a falésia lá fora.",
+  "start": 49.661,
+  "end": 53.632
+ },
+ {
+  "i": 15,
+  "speaker": "NARRADOR",
+  "text": "Três batidas atravessam o vento. A porta dá para o abismo.",
+  "parte": 3,
+  "cena": "Uma batida seca soa na porta de vidro. Luna e Bia se assustam e ouvem outra batida. Luna anda até a porta; Bia aponta para além dela.",
+  "start": 54.332,
+  "end": 59.382
+ },
+ {
+  "i": 16,
+  "speaker": "LUNA",
+  "text": "Ai! Tem alguém lá fora? Não enxergo nada nessa chuva.",
+  "parte": 3,
+  "cena": "Uma batida seca soa na porta de vidro. Luna e Bia se assustam e ouvem outra batida. Luna anda até a porta; Bia aponta para além dela.",
+  "start": 59.382,
+  "end": 63.883
+ },
+ {
+  "i": 17,
+  "speaker": "BIA",
+  "text": "Fica longe da porta. A varanda caiu na última tempestade.",
+  "parte": 3,
+  "cena": "Uma batida seca soa na porta de vidro. Luna e Bia se assustam e ouvem outra batida. Luna anda até a porta; Bia aponta para além dela.",
+  "start": 64.183,
+  "end": 69.107
+ },
+ {
+  "i": 18,
+  "speaker": "LUNA",
+  "text": "Então quem está batendo? Veio do vidro, Bia!",
+  "parte": 3,
+  "cena": "Uma batida seca soa na porta de vidro. Luna e Bia se assustam e ouvem outra batida. Luna anda até a porta; Bia aponta para além dela.",
+  "start": 69.107,
+  "end": 72.746
+ },
+ {
+  "i": 19,
+  "speaker": "BIA",
+  "text": "Eu sei. Olha a marca dessa mão, perto da maçaneta.",
+  "parte": 3,
+  "cena": "Uma batida seca soa na porta de vidro. Luna e Bia se assustam e ouvem outra batida. Luna anda até a porta; Bia aponta para além dela.",
+  "start": 72.746,
+  "end": 76.814
+ },
+ {
+  "i": 20,
+  "speaker": "LUNA",
+  "text": "Ela está do nosso lado? Como pode?",
+  "parte": 3,
+  "cena": "Uma batida seca soa na porta de vidro. Luna e Bia se assustam e ouvem outra batida. Luna anda até a porta; Bia aponta para além dela.",
+  "start": 76.814,
+  "end": 79.597
+ },
+ {
+  "i": 21,
+  "speaker": "BIA",
+  "text": "Não sei. Mas a maçaneta está girando sozinha. Vem comigo.",
+  "parte": 3,
+  "cena": "Uma batida seca soa na porta de vidro. Luna e Bia se assustam e ouvem outra batida. Luna anda até a porta; Bia aponta para além dela.",
+  "start": 79.597,
+  "end": 84.413
+ },
+ {
+  "i": 22,
+  "speaker": "LUNA",
+  "text": "O porão? Tá bom. Eu vou atrás de você!",
+  "parte": 3,
+  "cena": "Uma batida seca soa na porta de vidro. Luna e Bia se assustam e ouvem outra batida. Luna anda até a porta; Bia aponta para além dela.",
+  "start": 84.413,
+  "end": 87.303
+ },
+ {
+  "i": 23,
+  "speaker": "NARRADOR",
+  "text": "As duas descem. Lá em cima, o vidro estala.",
+  "parte": 4,
+  "cena": "Bia aponta para a escada do porão e corre. Luna corre atrás. As duas ouvem o rádio falar novamente; Bia se assusta, Luna aponta para a porta do porão.",
+  "start": 88.003,
+  "end": 90.759
+ },
+ {
+  "i": 24,
+  "speaker": "BIA",
+  "text": "Puxa a porta quando entrar. Tem uma tranca pelo lado de dentro.",
+  "parte": 4,
+  "cena": "Bia aponta para a escada do porão e corre. Luna corre atrás. As duas ouvem o rádio falar novamente; Bia se assusta, Luna aponta para a porta do porão.",
+  "start": 90.759,
+  "end": 95.064
+ },
+ {
+  "i": 25,
+  "speaker": "LUNA",
+  "text": "Achei! Mas espera, por que ainda ouço o rádio?",
+  "parte": 4,
+  "cena": "Bia aponta para a escada do porão e corre. Luna corre atrás. As duas ouvem o rádio falar novamente; Bia se assusta, Luna aponta para a porta do porão.",
+  "start": 95.364,
+  "end": 99.801
+ },
+ {
+  "i": 26,
+  "speaker": "BIA",
+  "text": "Não é o rádio. A voz vem daquela porta.",
+  "parte": 4,
+  "cena": "Bia aponta para a escada do porão e corre. Luna corre atrás. As duas ouvem o rádio falar novamente; Bia se assusta, Luna aponta para a porta do porão.",
+  "start": 99.801,
+  "end": 103.478
+ },
+ {
+  "i": 27,
+  "speaker": "LUNA",
+  "text": "Parece sua voz. Ela está pedindo para eu abrir.",
+  "parte": 4,
+  "cena": "Bia aponta para a escada do porão e corre. Luna corre atrás. As duas ouvem o rádio falar novamente; Bia se assusta, Luna aponta para a porta do porão.",
+  "start": 103.478,
+  "end": 108.169
+ },
+ {
+  "i": 28,
+  "speaker": "BIA",
+  "text": "Não abre. Eu estou aqui com você, bem na sua frente.",
+  "parte": 4,
+  "cena": "Bia aponta para a escada do porão e corre. Luna corre atrás. As duas ouvem o rádio falar novamente; Bia se assusta, Luna aponta para a porta do porão.",
+  "start": 108.169,
+  "end": 113.113
+ },
+ {
+  "i": 29,
+  "speaker": "LUNA",
+  "text": "Eu sei. Só que agora ela está imitando a minha voz.",
+  "parte": 4,
+  "cena": "Bia aponta para a escada do porão e corre. Luna corre atrás. As duas ouvem o rádio falar novamente; Bia se assusta, Luna aponta para a porta do porão.",
+  "start": 113.113,
+  "end": 118.058
+ },
+ {
+  "i": 30,
+  "speaker": "BIA",
+  "text": "Luna... então quem acabou de dizer meu nome atrás de nós?",
+  "parte": 4,
+  "cena": "Bia aponta para a escada do porão e corre. Luna corre atrás. As duas ouvem o rádio falar novamente; Bia se assusta, Luna aponta para a porta do porão.",
+  "start": 118.058,
+  "end": 123.509
+ }
+]

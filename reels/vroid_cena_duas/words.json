@@ -1,0 +1,1700 @@
+[
+ {
+  "word": "E",
+  "start": 0.0,
+  "end": 0.081,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "se",
+  "start": 0.081,
+  "end": 0.243,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 0.243,
+  "end": 0.567,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "chegasse",
+  "start": 0.567,
+  "end": 1.215,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "à",
+  "start": 1.215,
+  "end": 1.296,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "casa",
+  "start": 1.296,
+  "end": 1.62,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "da",
+  "start": 1.62,
+  "end": 1.782,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "amiga",
+  "start": 1.782,
+  "end": 2.186,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "durante",
+  "start": 2.186,
+  "end": 2.753,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "essa",
+  "start": 2.753,
+  "end": 3.077,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "tempestade?",
+  "start": 3.077,
+  "end": 3.968,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Oi!",
+  "start": 3.968,
+  "end": 4.206,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Vim",
+  "start": 4.206,
+  "end": 4.443,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "correndo",
+  "start": 4.443,
+  "end": 5.077,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "antes",
+  "start": 5.077,
+  "end": 5.473,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "que",
+  "start": 5.473,
+  "end": 5.711,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "a",
+  "start": 5.711,
+  "end": 5.79,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "chuva",
+  "start": 5.79,
+  "end": 6.186,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "levasse",
+  "start": 6.186,
+  "end": 6.741,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "minha",
+  "start": 6.741,
+  "end": 7.137,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "mochila.",
+  "start": 7.137,
+  "end": 7.771,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Você",
+  "start": 8.071,
+  "end": 8.421,
+  "speaker": "BIA"
+ },
+ {
+  "word": "subiu",
+  "start": 8.421,
+  "end": 8.858,
+  "speaker": "BIA"
+ },
+ {
+  "word": "aquela",
+  "start": 8.858,
+  "end": 9.383,
+  "speaker": "BIA"
+ },
+ {
+  "word": "estrada?",
+  "start": 9.383,
+  "end": 10.083,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Ela",
+  "start": 10.083,
+  "end": 10.346,
+  "speaker": "BIA"
+ },
+ {
+  "word": "já",
+  "start": 10.346,
+  "end": 10.521,
+  "speaker": "BIA"
+ },
+ {
+  "word": "parecia",
+  "start": 10.521,
+  "end": 11.133,
+  "speaker": "BIA"
+ },
+ {
+  "word": "um",
+  "start": 11.133,
+  "end": 11.308,
+  "speaker": "BIA"
+ },
+ {
+  "word": "rio.",
+  "start": 11.308,
+  "end": 11.658,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Subi.",
+  "start": 11.658,
+  "end": 12.095,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Vi",
+  "start": 12.095,
+  "end": 12.27,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "as",
+  "start": 12.27,
+  "end": 12.445,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "ondas",
+  "start": 12.445,
+  "end": 12.882,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "batendo",
+  "start": 12.882,
+  "end": 13.494,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "quase",
+  "start": 13.494,
+  "end": 13.931,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "na",
+  "start": 13.931,
+  "end": 14.105,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "janela",
+  "start": 14.105,
+  "end": 14.63,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "daqui!",
+  "start": 14.63,
+  "end": 15.154,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Quase",
+  "start": 15.154,
+  "end": 15.59,
+  "speaker": "BIA"
+ },
+ {
+  "word": "é",
+  "start": 15.59,
+  "end": 15.677,
+  "speaker": "BIA"
+ },
+ {
+  "word": "exagero.",
+  "start": 15.677,
+  "end": 16.374,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Mas",
+  "start": 16.374,
+  "end": 16.636,
+  "speaker": "BIA"
+ },
+ {
+  "word": "hoje",
+  "start": 16.636,
+  "end": 16.984,
+  "speaker": "BIA"
+ },
+ {
+  "word": "eu",
+  "start": 16.984,
+  "end": 17.159,
+  "speaker": "BIA"
+ },
+ {
+  "word": "evitaria",
+  "start": 17.159,
+  "end": 17.856,
+  "speaker": "BIA"
+ },
+ {
+  "word": "o",
+  "start": 17.856,
+  "end": 17.943,
+  "speaker": "BIA"
+ },
+ {
+  "word": "vidro.",
+  "start": 17.943,
+  "end": 18.466,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Você",
+  "start": 18.466,
+  "end": 18.814,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "fala",
+  "start": 18.814,
+  "end": 19.163,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "isso",
+  "start": 19.163,
+  "end": 19.512,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "e",
+  "start": 19.512,
+  "end": 19.599,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "me",
+  "start": 19.599,
+  "end": 19.773,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "deixa",
+  "start": 19.773,
+  "end": 20.209,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "mais",
+  "start": 20.209,
+  "end": 20.557,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "curiosa,",
+  "start": 20.557,
+  "end": 21.255,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "sabia?",
+  "start": 21.255,
+  "end": 21.778,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Então",
+  "start": 21.778,
+  "end": 22.219,
+  "speaker": "BIA"
+ },
+ {
+  "word": "senta",
+  "start": 22.219,
+  "end": 22.66,
+  "speaker": "BIA"
+ },
+ {
+  "word": "comigo.",
+  "start": 22.66,
+  "end": 23.278,
+  "speaker": "BIA"
+ },
+ {
+  "word": "O",
+  "start": 23.278,
+  "end": 23.366,
+  "speaker": "BIA"
+ },
+ {
+  "word": "vento",
+  "start": 23.366,
+  "end": 23.807,
+  "speaker": "BIA"
+ },
+ {
+  "word": "já",
+  "start": 23.807,
+  "end": 23.983,
+  "speaker": "BIA"
+ },
+ {
+  "word": "faz",
+  "start": 23.983,
+  "end": 24.248,
+  "speaker": "BIA"
+ },
+ {
+  "word": "espetáculo",
+  "start": 24.248,
+  "end": 25.131,
+  "speaker": "BIA"
+ },
+ {
+  "word": "suficiente.",
+  "start": 25.131,
+  "end": 26.101,
+  "speaker": "BIA"
+ },
+ {
+  "word": "A",
+  "start": 26.801,
+  "end": 26.89,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "música",
+  "start": 26.89,
+  "end": 27.425,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "some.",
+  "start": 27.425,
+  "end": 27.87,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Uma",
+  "start": 27.87,
+  "end": 28.138,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "voz",
+  "start": 28.138,
+  "end": 28.405,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "cortada",
+  "start": 28.405,
+  "end": 29.029,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "invade",
+  "start": 29.029,
+  "end": 29.563,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 29.563,
+  "end": 29.653,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "sala.",
+  "start": 29.653,
+  "end": 30.098,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Pera.",
+  "start": 30.098,
+  "end": 30.535,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Esse",
+  "start": 30.535,
+  "end": 30.885,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "rádio",
+  "start": 30.885,
+  "end": 31.323,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "estava",
+  "start": 31.323,
+  "end": 31.847,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "tocando",
+  "start": 31.847,
+  "end": 32.46,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "música",
+  "start": 32.46,
+  "end": 32.985,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "agora,",
+  "start": 32.985,
+  "end": 33.509,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "né?",
+  "start": 33.509,
+  "end": 33.772,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Estava.",
+  "start": 34.072,
+  "end": 34.726,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Deixa",
+  "start": 34.726,
+  "end": 35.193,
+  "speaker": "BIA"
+ },
+ {
+  "word": "eu",
+  "start": 35.193,
+  "end": 35.38,
+  "speaker": "BIA"
+ },
+ {
+  "word": "aumentar,",
+  "start": 35.38,
+  "end": 36.221,
+  "speaker": "BIA"
+ },
+ {
+  "word": "talvez",
+  "start": 36.221,
+  "end": 36.782,
+  "speaker": "BIA"
+ },
+ {
+  "word": "seja",
+  "start": 36.782,
+  "end": 37.156,
+  "speaker": "BIA"
+ },
+ {
+  "word": "aviso",
+  "start": 37.156,
+  "end": 37.623,
+  "speaker": "BIA"
+ },
+ {
+  "word": "da",
+  "start": 37.623,
+  "end": 37.81,
+  "speaker": "BIA"
+ },
+ {
+  "word": "tempestade.",
+  "start": 37.81,
+  "end": 38.838,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Ouvi",
+  "start": 38.838,
+  "end": 39.194,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "meu",
+  "start": 39.194,
+  "end": 39.461,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "nome?",
+  "start": 39.461,
+  "end": 39.906,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "A",
+  "start": 39.906,
+  "end": 39.995,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "voz",
+  "start": 39.995,
+  "end": 40.262,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "falou",
+  "start": 40.262,
+  "end": 40.707,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Luna,",
+  "start": 40.707,
+  "end": 41.152,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "né?",
+  "start": 41.152,
+  "end": 41.419,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Falou",
+  "start": 41.419,
+  "end": 41.894,
+  "speaker": "BIA"
+ },
+ {
+  "word": "nossos",
+  "start": 41.894,
+  "end": 42.464,
+  "speaker": "BIA"
+ },
+ {
+  "word": "nomes.",
+  "start": 42.464,
+  "end": 43.034,
+  "speaker": "BIA"
+ },
+ {
+  "word": "E",
+  "start": 43.034,
+  "end": 43.129,
+  "speaker": "BIA"
+ },
+ {
+  "word": "disse",
+  "start": 43.129,
+  "end": 43.604,
+  "speaker": "BIA"
+ },
+ {
+  "word": "para",
+  "start": 43.604,
+  "end": 43.984,
+  "speaker": "BIA"
+ },
+ {
+  "word": "ninguém",
+  "start": 43.984,
+  "end": 44.649,
+  "speaker": "BIA"
+ },
+ {
+  "word": "abrir",
+  "start": 44.649,
+  "end": 45.123,
+  "speaker": "BIA"
+ },
+ {
+  "word": "a",
+  "start": 45.123,
+  "end": 45.218,
+  "speaker": "BIA"
+ },
+ {
+  "word": "porta.",
+  "start": 45.218,
+  "end": 45.788,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Como",
+  "start": 45.788,
+  "end": 46.166,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "sabem",
+  "start": 46.166,
+  "end": 46.638,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "que",
+  "start": 46.638,
+  "end": 46.922,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "estamos",
+  "start": 46.922,
+  "end": 47.583,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "aqui?",
+  "start": 47.583,
+  "end": 48.055,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Você",
+  "start": 48.055,
+  "end": 48.433,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "avisou",
+  "start": 48.433,
+  "end": 48.999,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "alguém?",
+  "start": 48.999,
+  "end": 49.661,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Não.",
+  "start": 49.661,
+  "end": 50.039,
+  "speaker": "BIA"
+ },
+ {
+  "word": "O",
+  "start": 50.039,
+  "end": 50.133,
+  "speaker": "BIA"
+ },
+ {
+  "word": "rádio",
+  "start": 50.133,
+  "end": 50.606,
+  "speaker": "BIA"
+ },
+ {
+  "word": "está",
+  "start": 50.606,
+  "end": 50.985,
+  "speaker": "BIA"
+ },
+ {
+  "word": "desligado",
+  "start": 50.985,
+  "end": 51.836,
+  "speaker": "BIA"
+ },
+ {
+  "word": "da",
+  "start": 51.836,
+  "end": 52.025,
+  "speaker": "BIA"
+ },
+ {
+  "word": "tomada",
+  "start": 52.025,
+  "end": 52.592,
+  "speaker": "BIA"
+ },
+ {
+  "word": "desde",
+  "start": 52.592,
+  "end": 53.065,
+  "speaker": "BIA"
+ },
+ {
+  "word": "ontem.",
+  "start": 53.065,
+  "end": 53.632,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Três",
+  "start": 54.332,
+  "end": 54.753,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "batidas",
+  "start": 54.753,
+  "end": 55.49,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "atravessam",
+  "start": 55.49,
+  "end": 56.542,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 56.542,
+  "end": 56.647,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vento.",
+  "start": 56.647,
+  "end": 57.278,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "A",
+  "start": 57.278,
+  "end": 57.383,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "porta",
+  "start": 57.383,
+  "end": 57.909,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "dá",
+  "start": 57.909,
+  "end": 58.12,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "para",
+  "start": 58.12,
+  "end": 58.54,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 58.54,
+  "end": 58.646,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "abismo.",
+  "start": 58.646,
+  "end": 59.382,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Ai!",
+  "start": 59.382,
+  "end": 59.689,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Tem",
+  "start": 59.689,
+  "end": 59.996,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "alguém",
+  "start": 59.996,
+  "end": 60.61,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "lá",
+  "start": 60.61,
+  "end": 60.814,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "fora?",
+  "start": 60.814,
+  "end": 61.326,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Não",
+  "start": 61.326,
+  "end": 61.632,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "enxergo",
+  "start": 61.632,
+  "end": 62.349,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "nada",
+  "start": 62.349,
+  "end": 62.758,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "nessa",
+  "start": 62.758,
+  "end": 63.269,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "chuva.",
+  "start": 63.269,
+  "end": 63.883,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Fica",
+  "start": 64.183,
+  "end": 64.593,
+  "speaker": "BIA"
+ },
+ {
+  "word": "longe",
+  "start": 64.593,
+  "end": 65.106,
+  "speaker": "BIA"
+ },
+ {
+  "word": "da",
+  "start": 65.106,
+  "end": 65.311,
+  "speaker": "BIA"
+ },
+ {
+  "word": "porta.",
+  "start": 65.311,
+  "end": 65.927,
+  "speaker": "BIA"
+ },
+ {
+  "word": "A",
+  "start": 65.927,
+  "end": 66.029,
+  "speaker": "BIA"
+ },
+ {
+  "word": "varanda",
+  "start": 66.029,
+  "end": 66.747,
+  "speaker": "BIA"
+ },
+ {
+  "word": "caiu",
+  "start": 66.747,
+  "end": 67.158,
+  "speaker": "BIA"
+ },
+ {
+  "word": "na",
+  "start": 67.158,
+  "end": 67.363,
+  "speaker": "BIA"
+ },
+ {
+  "word": "última",
+  "start": 67.363,
+  "end": 67.978,
+  "speaker": "BIA"
+ },
+ {
+  "word": "tempestade.",
+  "start": 67.978,
+  "end": 69.107,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Então",
+  "start": 69.107,
+  "end": 69.599,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "quem",
+  "start": 69.599,
+  "end": 69.992,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "está",
+  "start": 69.992,
+  "end": 70.385,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "batendo?",
+  "start": 70.385,
+  "end": 71.172,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Veio",
+  "start": 71.172,
+  "end": 71.566,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "do",
+  "start": 71.566,
+  "end": 71.762,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "vidro,",
+  "start": 71.762,
+  "end": 72.353,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Bia!",
+  "start": 72.353,
+  "end": 72.746,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Eu",
+  "start": 72.746,
+  "end": 72.945,
+  "speaker": "BIA"
+ },
+ {
+  "word": "sei.",
+  "start": 72.945,
+  "end": 73.341,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Olha",
+  "start": 73.341,
+  "end": 73.738,
+  "speaker": "BIA"
+ },
+ {
+  "word": "a",
+  "start": 73.738,
+  "end": 73.837,
+  "speaker": "BIA"
+ },
+ {
+  "word": "marca",
+  "start": 73.837,
+  "end": 74.333,
+  "speaker": "BIA"
+ },
+ {
+  "word": "dessa",
+  "start": 74.333,
+  "end": 74.829,
+  "speaker": "BIA"
+ },
+ {
+  "word": "mão,",
+  "start": 74.829,
+  "end": 75.226,
+  "speaker": "BIA"
+ },
+ {
+  "word": "perto",
+  "start": 75.226,
+  "end": 75.722,
+  "speaker": "BIA"
+ },
+ {
+  "word": "da",
+  "start": 75.722,
+  "end": 75.921,
+  "speaker": "BIA"
+ },
+ {
+  "word": "maçaneta.",
+  "start": 75.921,
+  "end": 76.814,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Ela",
+  "start": 76.814,
+  "end": 77.112,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "está",
+  "start": 77.112,
+  "end": 77.509,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "do",
+  "start": 77.509,
+  "end": 77.708,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "nosso",
+  "start": 77.708,
+  "end": 78.205,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "lado?",
+  "start": 78.205,
+  "end": 78.702,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Como",
+  "start": 78.702,
+  "end": 79.1,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "pode?",
+  "start": 79.1,
+  "end": 79.597,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Não",
+  "start": 79.597,
+  "end": 79.898,
+  "speaker": "BIA"
+ },
+ {
+  "word": "sei.",
+  "start": 79.898,
+  "end": 80.299,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Mas",
+  "start": 80.299,
+  "end": 80.6,
+  "speaker": "BIA"
+ },
+ {
+  "word": "a",
+  "start": 80.6,
+  "end": 80.7,
+  "speaker": "BIA"
+ },
+ {
+  "word": "maçaneta",
+  "start": 80.7,
+  "end": 81.503,
+  "speaker": "BIA"
+ },
+ {
+  "word": "está",
+  "start": 81.503,
+  "end": 81.905,
+  "speaker": "BIA"
+ },
+ {
+  "word": "girando",
+  "start": 81.905,
+  "end": 82.607,
+  "speaker": "BIA"
+ },
+ {
+  "word": "sozinha.",
+  "start": 82.607,
+  "end": 83.41,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Vem",
+  "start": 83.41,
+  "end": 83.711,
+  "speaker": "BIA"
+ },
+ {
+  "word": "comigo.",
+  "start": 83.711,
+  "end": 84.413,
+  "speaker": "BIA"
+ },
+ {
+  "word": "O",
+  "start": 84.413,
+  "end": 84.51,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "porão?",
+  "start": 84.51,
+  "end": 85.088,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Tá",
+  "start": 85.088,
+  "end": 85.28,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "bom.",
+  "start": 85.28,
+  "end": 85.666,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Eu",
+  "start": 85.666,
+  "end": 85.858,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "vou",
+  "start": 85.858,
+  "end": 86.147,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "atrás",
+  "start": 86.147,
+  "end": 86.629,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "de",
+  "start": 86.629,
+  "end": 86.822,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "você!",
+  "start": 86.822,
+  "end": 87.303,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "As",
+  "start": 88.003,
+  "end": 88.161,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "duas",
+  "start": 88.161,
+  "end": 88.476,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "descem.",
+  "start": 88.476,
+  "end": 89.027,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Lá",
+  "start": 89.027,
+  "end": 89.184,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "em",
+  "start": 89.184,
+  "end": 89.342,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "cima,",
+  "start": 89.342,
+  "end": 89.735,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 89.735,
+  "end": 89.814,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vidro",
+  "start": 89.814,
+  "end": 90.208,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "estala.",
+  "start": 90.208,
+  "end": 90.759,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Puxa",
+  "start": 90.759,
+  "end": 91.09,
+  "speaker": "BIA"
+ },
+ {
+  "word": "a",
+  "start": 91.09,
+  "end": 91.173,
+  "speaker": "BIA"
+ },
+ {
+  "word": "porta",
+  "start": 91.173,
+  "end": 91.587,
+  "speaker": "BIA"
+ },
+ {
+  "word": "quando",
+  "start": 91.587,
+  "end": 92.084,
+  "speaker": "BIA"
+ },
+ {
+  "word": "entrar.",
+  "start": 92.084,
+  "end": 92.663,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Tem",
+  "start": 92.663,
+  "end": 92.911,
+  "speaker": "BIA"
+ },
+ {
+  "word": "uma",
+  "start": 92.911,
+  "end": 93.16,
+  "speaker": "BIA"
+ },
+ {
+  "word": "tranca",
+  "start": 93.16,
+  "end": 93.657,
+  "speaker": "BIA"
+ },
+ {
+  "word": "pelo",
+  "start": 93.657,
+  "end": 93.988,
+  "speaker": "BIA"
+ },
+ {
+  "word": "lado",
+  "start": 93.988,
+  "end": 94.319,
+  "speaker": "BIA"
+ },
+ {
+  "word": "de",
+  "start": 94.319,
+  "end": 94.485,
+  "speaker": "BIA"
+ },
+ {
+  "word": "dentro.",
+  "start": 94.485,
+  "end": 95.064,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Achei!",
+  "start": 95.364,
+  "end": 96.065,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Mas",
+  "start": 96.065,
+  "end": 96.415,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "espera,",
+  "start": 96.415,
+  "end": 97.232,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "por",
+  "start": 97.232,
+  "end": 97.583,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "que",
+  "start": 97.583,
+  "end": 97.933,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "ainda",
+  "start": 97.933,
+  "end": 98.517,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "ouço",
+  "start": 98.517,
+  "end": 98.984,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "o",
+  "start": 98.984,
+  "end": 99.101,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "rádio?",
+  "start": 99.101,
+  "end": 99.801,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Não",
+  "start": 99.801,
+  "end": 100.157,
+  "speaker": "BIA"
+ },
+ {
+  "word": "é",
+  "start": 100.157,
+  "end": 100.276,
+  "speaker": "BIA"
+ },
+ {
+  "word": "o",
+  "start": 100.276,
+  "end": 100.394,
+  "speaker": "BIA"
+ },
+ {
+  "word": "rádio.",
+  "start": 100.394,
+  "end": 101.106,
+  "speaker": "BIA"
+ },
+ {
+  "word": "A",
+  "start": 101.106,
+  "end": 101.225,
+  "speaker": "BIA"
+ },
+ {
+  "word": "voz",
+  "start": 101.225,
+  "end": 101.58,
+  "speaker": "BIA"
+ },
+ {
+  "word": "vem",
+  "start": 101.58,
+  "end": 101.936,
+  "speaker": "BIA"
+ },
+ {
+  "word": "daquela",
+  "start": 101.936,
+  "end": 102.766,
+  "speaker": "BIA"
+ },
+ {
+  "word": "porta.",
+  "start": 102.766,
+  "end": 103.478,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Parece",
+  "start": 103.478,
+  "end": 104.2,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "sua",
+  "start": 104.2,
+  "end": 104.56,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "voz.",
+  "start": 104.56,
+  "end": 105.042,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Ela",
+  "start": 105.042,
+  "end": 105.402,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "está",
+  "start": 105.402,
+  "end": 105.884,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "pedindo",
+  "start": 105.884,
+  "end": 106.725,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "para",
+  "start": 106.725,
+  "end": 107.207,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "eu",
+  "start": 107.207,
+  "end": 107.447,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "abrir.",
+  "start": 107.447,
+  "end": 108.169,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Não",
+  "start": 108.169,
+  "end": 108.522,
+  "speaker": "BIA"
+ },
+ {
+  "word": "abre.",
+  "start": 108.522,
+  "end": 109.111,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Eu",
+  "start": 109.111,
+  "end": 109.346,
+  "speaker": "BIA"
+ },
+ {
+  "word": "estou",
+  "start": 109.346,
+  "end": 109.935,
+  "speaker": "BIA"
+ },
+ {
+  "word": "aqui",
+  "start": 109.935,
+  "end": 110.406,
+  "speaker": "BIA"
+ },
+ {
+  "word": "com",
+  "start": 110.406,
+  "end": 110.759,
+  "speaker": "BIA"
+ },
+ {
+  "word": "você,",
+  "start": 110.759,
+  "end": 111.347,
+  "speaker": "BIA"
+ },
+ {
+  "word": "bem",
+  "start": 111.347,
+  "end": 111.7,
+  "speaker": "BIA"
+ },
+ {
+  "word": "na",
+  "start": 111.7,
+  "end": 111.936,
+  "speaker": "BIA"
+ },
+ {
+  "word": "sua",
+  "start": 111.936,
+  "end": 112.289,
+  "speaker": "BIA"
+ },
+ {
+  "word": "frente.",
+  "start": 112.289,
+  "end": 113.113,
+  "speaker": "BIA"
+ },
+ {
+  "word": "Eu",
+  "start": 113.113,
+  "end": 113.354,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "sei.",
+  "start": 113.354,
+  "end": 113.837,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Só",
+  "start": 113.837,
+  "end": 114.078,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "que",
+  "start": 114.078,
+  "end": 114.44,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "agora",
+  "start": 114.44,
+  "end": 115.043,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "ela",
+  "start": 115.043,
+  "end": 115.404,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "está",
+  "start": 115.404,
+  "end": 115.887,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "imitando",
+  "start": 115.887,
+  "end": 116.852,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "a",
+  "start": 116.852,
+  "end": 116.972,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "minha",
+  "start": 116.972,
+  "end": 117.575,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "voz.",
+  "start": 117.575,
+  "end": 118.058,
+  "speaker": "LUNA"
+ },
+ {
+  "word": "Luna...",
+  "start": 118.058,
+  "end": 118.87,
+  "speaker": "BIA"
+ },
+ {
+  "word": "então",
+  "start": 118.87,
+  "end": 119.449,
+  "speaker": "BIA"
+ },
+ {
+  "word": "quem",
+  "start": 119.449,
+  "end": 119.913,
+  "speaker": "BIA"
+ },
+ {
+  "word": "acabou",
+  "start": 119.913,
+  "end": 120.609,
+  "speaker": "BIA"
+ },
+ {
+  "word": "de",
+  "start": 120.609,
+  "end": 120.841,
+  "speaker": "BIA"
+ },
+ {
+  "word": "dizer",
+  "start": 120.841,
+  "end": 121.421,
+  "speaker": "BIA"
+ },
+ {
+  "word": "meu",
+  "start": 121.421,
+  "end": 121.769,
+  "speaker": "BIA"
+ },
+ {
+  "word": "nome",
+  "start": 121.769,
+  "end": 122.233,
+  "speaker": "BIA"
+ },
+ {
+  "word": "atrás",
+  "start": 122.233,
+  "end": 122.813,
+  "speaker": "BIA"
+ },
+ {
+  "word": "de",
+  "start": 122.813,
+  "end": 123.045,
+  "speaker": "BIA"
+ },
+ {
+  "word": "nós?",
+  "start": 123.045,
+  "end": 123.509,
+  "speaker": "BIA"
+ }
+]
