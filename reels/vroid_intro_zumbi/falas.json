@@ -1,0 +1,389 @@
+[
+ {
+  "i": 1,
+  "speaker": "NARRADOR",
+  "text": "Às 23h12, a primeira mão bate no vidro.",
+  "parte": 1,
+  "cena": "sala — casa de vidro no alto da falésia, tempestade forte. Uma mão bate no vidro. Luna (cabelo rosa, uniforme escolar) assusta e olha em volta; Bia (cabelo preto, regata preta) aponta para o vidro.",
+  "start": 0.0,
+  "end": 2.887
+ },
+ {
+  "i": 2,
+  "speaker": "NARRADOR",
+  "text": "Você está numa casa de vidro sobre uma falésia.",
+  "parte": 1,
+  "cena": "sala — casa de vidro no alto da falésia, tempestade forte. Uma mão bate no vidro. Luna (cabelo rosa, uniforme escolar) assusta e olha em volta; Bia (cabelo preto, regata preta) aponta para o vidro.",
+  "start": 2.887,
+  "end": 6.545
+ },
+ {
+  "i": 3,
+  "speaker": "NARRADOR",
+  "text": "Você tem dois minutos antes da sala virar armadilha.",
+  "parte": 1,
+  "cena": "sala — casa de vidro no alto da falésia, tempestade forte. Uma mão bate no vidro. Luna (cabelo rosa, uniforme escolar) assusta e olha em volta; Bia (cabelo preto, regata preta) aponta para o vidro.",
+  "start": 6.545,
+  "end": 10.683
+ },
+ {
+  "i": 4,
+  "speaker": "NARRADOR",
+  "text": "Seis minutos antes, a tempestade parecia o único problema.",
+  "parte": 1,
+  "cena": "sala — seis minutos antes, tempestade lá fora. Luna ri e fala no sofá; Bia mexe no celular, olha em volta e fala; o rádio chia com alerta.",
+  "start": 10.683,
+  "end": 15.303
+ },
+ {
+  "i": 5,
+  "speaker": "LUNA",
+  "text": "Relaxa, Bia, a chuva já passa.",
+  "parte": 1,
+  "cena": "sala — seis minutos antes, tempestade lá fora. Luna ri e fala no sofá; Bia mexe no celular, olha em volta e fala; o rádio chia com alerta.",
+  "start": 15.303,
+  "end": 17.421
+ },
+ {
+  "i": 6,
+  "speaker": "BIA",
+  "text": "O celular morreu de sinal. Escuta o rádio.",
+  "parte": 1,
+  "cena": "sala — seis minutos antes, tempestade lá fora. Luna ri e fala no sofá; Bia mexe no celular, olha em volta e fala; o rádio chia com alerta.",
+  "start": 17.721,
+  "end": 20.649
+ },
+ {
+  "i": 7,
+  "speaker": "NARRADOR",
+  "text": "O aparelho chia com um alerta cortado.",
+  "parte": 1,
+  "cena": "sala — seis minutos antes, tempestade lá fora. Luna ri e fala no sofá; Bia mexe no celular, olha em volta e fala; o rádio chia com alerta.",
+  "start": 20.649,
+  "end": 23.399
+ },
+ {
+  "i": 8,
+  "speaker": "NARRADOR",
+  "text": "Tranque tudo e não abra para ninguém.",
+  "parte": 1,
+  "cena": "sala — seis minutos antes, tempestade lá fora. Luna ri e fala no sofá; Bia mexe no celular, olha em volta e fala; o rádio chia com alerta.",
+  "start": 23.399,
+  "end": 26.061
+ },
+ {
+  "i": 9,
+  "speaker": "NARRADOR",
+  "text": "Um relâmpago corta a chuva na varanda.",
+  "parte": 2,
+  "cena": "varanda — chuva forte e relâmpagos, uma figura cambaleia na varanda. Na sala, Luna anda até o vidro, ri e aponta; Bia olha em volta, assusta e discute com Luna.",
+  "start": 26.761,
+  "end": 29.516
+ },
+ {
+  "i": 10,
+  "speaker": "NARRADOR",
+  "text": "Uma figura cambaleia a oito metros de você.",
+  "parte": 2,
+  "cena": "varanda — chuva forte e relâmpagos, uma figura cambaleia na varanda. Na sala, Luna anda até o vidro, ri e aponta; Bia olha em volta, assusta e discute com Luna.",
+  "start": 29.516,
+  "end": 32.626
+ },
+ {
+  "i": 11,
+  "speaker": "NARRADOR",
+  "text": "Luna se aproxima do vidro sem medo.",
+  "parte": 2,
+  "cena": "varanda — chuva forte e relâmpagos, uma figura cambaleia na varanda. Na sala, Luna anda até o vidro, ri e aponta; Bia olha em volta, assusta e discute com Luna.",
+  "start": 32.626,
+  "end": 35.115
+ },
+ {
+  "i": 12,
+  "speaker": "LUNA",
+  "text": "É o vizinho bêbado de novo. Vou abrir.",
+  "parte": 2,
+  "cena": "varanda — chuva forte e relâmpagos, uma figura cambaleia na varanda. Na sala, Luna anda até o vidro, ri e aponta; Bia olha em volta, assusta e discute com Luna.",
+  "start": 35.115,
+  "end": 37.692
+ },
+ {
+  "i": 13,
+  "speaker": "BIA",
+  "text": "Para! Olha o pescoço dele.",
+  "parte": 2,
+  "cena": "varanda — chuva forte e relâmpagos, uma figura cambaleia na varanda. Na sala, Luna anda até o vidro, ri e aponta; Bia olha em volta, assusta e discute com Luna.",
+  "start": 37.992,
+  "end": 40.264
+ },
+ {
+  "i": 14,
+  "speaker": "NARRADOR",
+  "text": "Outro clarão revela pele cinza e braços tortos.",
+  "parte": 2,
+  "cena": "varanda — chuva forte e relâmpagos, uma figura cambaleia na varanda. Na sala, Luna anda até o vidro, ri e aponta; Bia olha em volta, assusta e discute com Luna.",
+  "start": 40.264,
+  "end": 44.695
+ },
+ {
+  "i": 15,
+  "speaker": "NARRADOR",
+  "text": "Ele não pede socorro. Só encara o vidro.",
+  "parte": 2,
+  "cena": "varanda — chuva forte e relâmpagos, uma figura cambaleia na varanda. Na sala, Luna anda até o vidro, ri e aponta; Bia olha em volta, assusta e discute com Luna.",
+  "start": 44.695,
+  "end": 48.217
+ },
+ {
+  "i": 16,
+  "speaker": "BIA",
+  "text": "Não é bêbado. Sai daí agora!",
+  "parte": 2,
+  "cena": "varanda — chuva forte e relâmpagos, uma figura cambaleia na varanda. Na sala, Luna anda até o vidro, ri e aponta; Bia olha em volta, assusta e discute com Luna.",
+  "start": 48.217,
+  "end": 50.602
+ },
+ {
+  "i": 17,
+  "speaker": "NARRADOR",
+  "text": "São 23h12. A palma bate seco no vidro.",
+  "parte": 3,
+  "cena": "sala — a mão bate forte e o vidro racha; três infectados encostam na varanda. Luna assusta e grita; Bia aponta para a cozinha e corre.",
+  "start": 51.302,
+  "end": 54.094
+ },
+ {
+  "i": 18,
+  "speaker": "NARRADOR",
+  "text": "Uma rachadura corta o painel de ponta a ponta.",
+  "parte": 3,
+  "cena": "sala — a mão bate forte e o vidro racha; três infectados encostam na varanda. Luna assusta e grita; Bia aponta para a cozinha e corre.",
+  "start": 54.094,
+  "end": 57.657
+ },
+ {
+  "i": 19,
+  "speaker": "NARRADOR",
+  "text": "Mais duas sombras avançam na chuva.",
+  "parte": 3,
+  "cena": "sala — a mão bate forte e o vidro racha; três infectados encostam na varanda. Luna assusta e grita; Bia aponta para a cozinha e corre.",
+  "start": 57.657,
+  "end": 60.449
+ },
+ {
+  "i": 20,
+  "speaker": "NARRADOR",
+  "text": "Agora você enfrenta três infectados atrás de um vidro fino.",
+  "parte": 3,
+  "cena": "sala — a mão bate forte e o vidro racha; três infectados encostam na varanda. Luna assusta e grita; Bia aponta para a cozinha e corre.",
+  "start": 60.449,
+  "end": 65.166
+ },
+ {
+  "i": 21,
+  "speaker": "LUNA",
+  "text": "Meu Deus, vai quebrar!",
+  "parte": 3,
+  "cena": "sala — a mão bate forte e o vidro racha; três infectados encostam na varanda. Luna assusta e grita; Bia aponta para a cozinha e corre.",
+  "start": 65.166,
+  "end": 66.803
+ },
+ {
+  "i": 22,
+  "speaker": "BIA",
+  "text": "Cozinha, corre!",
+  "parte": 3,
+  "cena": "sala — a mão bate forte e o vidro racha; três infectados encostam na varanda. Luna assusta e grita; Bia aponta para a cozinha e corre.",
+  "start": 67.103,
+  "end": 68.214
+ },
+ {
+  "i": 23,
+  "speaker": "NARRADOR",
+  "text": "Elas cruzam a cozinha e agacham atrás da bancada.",
+  "parte": 3,
+  "cena": "cozinha — Luna corre, agacha atrás da bancada e olha em volta; Bia anda agachada, agacha ao lado de Luna e fala.",
+  "start": 68.214,
+  "end": 71.918
+ },
+ {
+  "i": 24,
+  "speaker": "NARRADOR",
+  "text": "A regra é simples: qualquer barulho entrega vocês.",
+  "parte": 3,
+  "cena": "cozinha — Luna corre, agacha atrás da bancada e olha em volta; Bia anda agachada, agacha ao lado de Luna e fala.",
+  "start": 71.918,
+  "end": 75.714
+ },
+ {
+  "i": 25,
+  "speaker": "BIA",
+  "text": "Não faz barulho. Fica quieta.",
+  "parte": 3,
+  "cena": "cozinha — Luna corre, agacha atrás da bancada e olha em volta; Bia anda agachada, agacha ao lado de Luna e fala.",
+  "start": 75.714,
+  "end": 77.843
+ },
+ {
+  "i": 26,
+  "speaker": "NARRADOR",
+  "text": "O vidro estoura na sala.",
+  "parte": 4,
+  "cena": "cozinha — o vidro estoura na sala e um zumbi entra. Luna anda agachada, tropeça e grita; Bia levanta, puxa Luna e corre.",
+  "start": 78.543,
+  "end": 80.429
+ },
+ {
+  "i": 27,
+  "speaker": "NARRADOR",
+  "text": "Um zumbi entra, pisa nos cacos e vira para a cozinha.",
+  "parte": 4,
+  "cena": "cozinha — o vidro estoura na sala e um zumbi entra. Luna anda agachada, tropeça e grita; Bia levanta, puxa Luna e corre.",
+  "start": 80.429,
+  "end": 84.499
+ },
+ {
+  "i": 28,
+  "speaker": "NARRADOR",
+  "text": "Luna recua agachada, mas tropeça num banco.",
+  "parte": 4,
+  "cena": "cozinha — o vidro estoura na sala e um zumbi entra. Luna anda agachada, tropeça e grita; Bia levanta, puxa Luna e corre.",
+  "start": 84.499,
+  "end": 87.972
+ },
+ {
+  "i": 29,
+  "speaker": "LUNA",
+  "text": "Ai, droga!",
+  "parte": 4,
+  "cena": "cozinha — o vidro estoura na sala e um zumbi entra. Luna anda agachada, tropeça e grita; Bia levanta, puxa Luna e corre.",
+  "start": 87.972,
+  "end": 88.667
+ },
+ {
+  "i": 30,
+  "speaker": "NARRADOR",
+  "text": "O infectado dispara na direção delas.",
+  "parte": 4,
+  "cena": "cozinha — o vidro estoura na sala e um zumbi entra. Luna anda agachada, tropeça e grita; Bia levanta, puxa Luna e corre.",
+  "start": 88.667,
+  "end": 91.744
+ },
+ {
+  "i": 31,
+  "speaker": "BIA",
+  "text": "Levanta! Vem comigo!",
+  "parte": 4,
+  "cena": "cozinha — o vidro estoura na sala e um zumbi entra. Luna anda agachada, tropeça e grita; Bia levanta, puxa Luna e corre.",
+  "start": 92.044,
+  "end": 93.572
+ },
+ {
+  "i": 32,
+  "speaker": "NARRADOR",
+  "text": "Bia puxa a amiga pelo braço.",
+  "parte": 4,
+  "cena": "escada — Luna levanta, corre e desce escada; Bia desce escada atrás, olha em volta e aponta para a porta de aço.",
+  "start": 93.572,
+  "end": 95.673
+ },
+ {
+  "i": 33,
+  "speaker": "NARRADOR",
+  "text": "Você desce catorze degraus com passos pesados atrás.",
+  "parte": 4,
+  "cena": "escada — Luna levanta, corre e desce escada; Bia desce escada atrás, olha em volta e aponta para a porta de aço.",
+  "start": 95.673,
+  "end": 99.875
+ },
+ {
+  "i": 34,
+  "speaker": "LUNA",
+  "text": "Fecha! Fecha logo!",
+  "parte": 4,
+  "cena": "porao — Luna corre, grita e empurra porta de aço; Bia corre e empurra porta até fechar.",
+  "start": 100.175,
+  "end": 101.801
+ },
+ {
+  "i": 35,
+  "speaker": "NARRADOR",
+  "text": "Elas batem a porta de aço do porão.",
+  "parte": 4,
+  "cena": "porao — Luna corre, grita e empurra porta de aço; Bia corre e empurra porta até fechar.",
+  "start": 101.801,
+  "end": 104.938
+ },
+ {
+  "i": 36,
+  "speaker": "NARRADOR",
+  "text": "A trava desce no último segundo.",
+  "parte": 4,
+  "cena": "porao — Luna corre, grita e empurra porta de aço; Bia corre e empurra porta até fechar.",
+  "start": 104.938,
+  "end": 107.958
+ },
+ {
+  "i": 37,
+  "speaker": "NARRADOR",
+  "text": "Do lado de fora, algo soca o aço.",
+  "parte": 5,
+  "cena": "porao — escuro total, som de respiração atrás delas. Luna olha em volta, agacha e assusta; Bia olha em volta e assusta.",
+  "start": 108.658,
+  "end": 112.788
+ },
+ {
+  "i": 38,
+  "speaker": "NARRADOR",
+  "text": "A porta aguenta. Você acha que escapou.",
+  "parte": 5,
+  "cena": "porao — escuro total, som de respiração atrás delas. Luna olha em volta, agacha e assusta; Bia olha em volta e assusta.",
+  "start": 112.788,
+  "end": 118.122
+ },
+ {
+  "i": 39,
+  "speaker": "NARRADOR",
+  "text": "Então o silêncio pesa no escuro.",
+  "parte": 5,
+  "cena": "porao — escuro total, som de respiração atrás delas. Luna olha em volta, agacha e assusta; Bia olha em volta e assusta.",
+  "start": 118.122,
+  "end": 122.596
+ },
+ {
+  "i": 40,
+  "speaker": "NARRADOR",
+  "text": "Bem atrás de você, alguém respira fundo.",
+  "parte": 5,
+  "cena": "porao — escuro total, som de respiração atrás delas. Luna olha em volta, agacha e assusta; Bia olha em volta e assusta.",
+  "start": 122.596,
+  "end": 128.102
+ },
+ {
+  "i": 41,
+  "speaker": "LUNA",
+  "text": "Bia... você ouviu isso?",
+  "parte": 5,
+  "cena": "porao — escuro total, som de respiração atrás delas. Luna olha em volta, agacha e assusta; Bia olha em volta e assusta.",
+  "start": 128.102,
+  "end": 130.855
+ },
+ {
+  "i": 42,
+  "speaker": "NARRADOR",
+  "text": "Você trancou os zumbis lá fora.",
+  "parte": 5,
+  "cena": "porao — escuro total, som de respiração atrás delas. Luna olha em volta, agacha e assusta; Bia olha em volta e assusta.",
+  "start": 130.855,
+  "end": 135.156
+ },
+ {
+  "i": 43,
+  "speaker": "NARRADOR",
+  "text": "Mas aqui embaixo, vocês não estão sozinhas.",
+  "parte": 5,
+  "cena": "porao — escuro total, som de respiração atrás delas. Luna olha em volta, agacha e assusta; Bia olha em volta e assusta.",
+  "start": 135.156,
+  "end": 141.179
+ }
+]

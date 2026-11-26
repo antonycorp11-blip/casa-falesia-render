@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Luna e Bia · Intro Zumbi</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; width: 100%; height: 100%; overflow: hidden; background: #050910; }
+    body { display: grid; place-items: center; font-family: system-ui, -apple-system, sans-serif; color: #fff; }
+    #stage { position: relative; width: min(100vw, 177.77778vh); aspect-ratio: 16 / 9; overflow: hidden; background: #070d16; }
+    #c { width: 100%; height: 100%; display: block; }
+    #hud {
+      position: absolute;
+      top: 3.2%;
+      left: 2.8%;
+      z-index: 3;
+      display: flex;
+      flex-direction: column;
+      gap: 0.36em;
+      padding: 0.65em 0.95em;
+      border-radius: 10px;
+      background: rgba(6, 12, 22, 0.72);
+      border: 1px solid rgba(154, 198, 236, 0.28);
+      box-shadow: 0 8px 28px rgba(0, 0, 0, 0.55);
+      backdrop-filter: blur(6px);
+      pointer-events: none;
+      font-variant-numeric: tabular-nums;
+      min-width: clamp(180px, 21vw, 390px);
+    }
+    #hud.danger {
+      border-color: rgba(235, 76, 76, 0.55);
+      box-shadow: 0 8px 28px rgba(95, 10, 14, 0.45);
+    }
+    #hud-top {
+      display: flex;
+      align-items: center;
+      gap: 0.55em;
+      letter-spacing: 0.06em;
+    }
+    #hud-dot {
+      width: clamp(8px, 0.72vw, 13px);
+      height: clamp(8px, 0.72vw, 13px);
+      border-radius: 50%;
+      background: #4cd4ff;
+      box-shadow: 0 0 10px #4cd4ff;
+      flex: 0 0 auto;
+    }
+    #hud.danger #hud-dot {
+      background: #ff3b47;
+      box-shadow: 0 0 12px #ff3b47;
+    }
+    #hud-clock {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: clamp(17px, 2.05vw, 36px);
+      font-weight: 800;
+      color: #f4f8ff;
+      line-height: 1;
+    }
+    #hud-tag {
+      margin-left: auto;
+      font-size: clamp(10px, 0.9vw, 16px);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #9ec8ee;
+      padding: 0.18em 0.5em;
+      border-radius: 4px;
+      background: rgba(124, 178, 224, 0.14);
+    }
+    #hud.danger #hud-tag {
+      color: #ffadb3;
+      background: rgba(255, 59, 71, 0.22);
+    }
+    #hud-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35em 0.85em;
+      font-size: clamp(11px, 1.05vw, 19px);
+      font-weight: 600;
+      color: #d6e4f2;
+      border-top: 1px solid rgba(255, 255, 255, 0.12);
+      padding-top: 0.36em;
+    }
+    #hud-meta span {
+      white-space: nowrap;
+    }
+    #hud-meta b {
+      color: #f9cf8c;
+      font-weight: 700;
+    }
+    #hud.danger #hud-meta b {
+      color: #ff8e8e;
+    }
+    #play { position: absolute; inset: 0; z-index: 4; display: grid; place-items: center; width: 100%; border: 0; background: rgba(3, 8, 18, .58); color: #fff; cursor: pointer; font: 800 clamp(5rem, 13vw, 12rem)/1 system-ui, sans-serif; text-shadow: 0 0 35px #6bb9e8; }
+    #play[hidden] { display: none; }
+    #play span { display: grid; place-items: center; width: clamp(9rem, 22vw, 18rem); aspect-ratio: 1; border-radius: 50%; background: rgba(26, 49, 76, .83); border: 3px solid rgba(214, 237, 255, .85); padding-left: .1em; box-shadow: 0 0 85px rgba(101, 168, 233, .4); }
+    #legenda { position: absolute; left: 9%; right: 9%; bottom: 4.5%; z-index: 3; min-height: 8.5%; padding: .48em 1em; text-align: center; font-size: clamp(16px, 2.25vw, 39px); line-height: 1.3; font-weight: 650; text-shadow: 0 2px 6px #000, 0 0 14px #000, 0 0 4px #000; pointer-events: none; }
+    #legenda:empty { display: none; }
+    #legenda strong { color: #f9cf8c; margin-right: .38em; }
+    #erro { position: absolute; top: 2%; left: 3%; right: 3%; z-index: 6; color: #fff; background: rgba(87, 18, 24, .92); font-size: clamp(14px, 1.3vw, 23px); padding: .5em .8em; display: none; }
+    #erro:not(:empty) { display: block; }
+  </style>
+</head>
+<body>
+  <div id="stage">
+    <canvas id="c" width="1920" height="1080"></canvas>
+    <div id="hud" aria-live="off">
+      <div id="hud-top">
+        <span id="hud-dot"></span>
+        <span id="hud-clock">23:12</span>
+        <span id="hud-tag">SALA</span>
+      </div>
+      <div id="hud-meta"></div>
+    </div>
+    <div id="legenda" aria-live="off"></div>
+    <button id="play" type="button" aria-label="Iniciar áudio e cena"><span>▶</span></button>
+    <div id="erro" role="alert"></div>
+  </div>
+  <audio id="audio" preload="auto" src="./audio.mp3"></audio>
+  <script type="module" src="./cena_zumbi.js"></script>
+</body>
+</html>

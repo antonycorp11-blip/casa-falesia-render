@@ -1,0 +1,79 @@
+=== PARTE 1 — ÀS 23H12 ===
+
+[CENA: sala — casa de vidro no alto da falésia, tempestade forte. Uma mão bate no vidro. Luna (cabelo rosa, uniforme escolar) assusta e olha em volta; Bia (cabelo preto, regata preta) aponta para o vidro.]
+[HUD: Relógio: 23:12 | Tempo até a sala ceder: 2 min | Saídas: 1]
+NARRADOR: Às 23h12, a primeira mão bate no vidro.
+NARRADOR: Você está numa casa de vidro sobre uma falésia.
+NARRADOR: Você tem dois minutos antes da sala virar armadilha.
+
+[CENA: sala — seis minutos antes, tempestade lá fora. Luna ri e fala no sofá; Bia mexe no celular, olha em volta e fala; o rádio chia com alerta.]
+[HUD: Relógio: 23:06 | Sinal de celular: 0 | Rádio: alerta ativo]
+NARRADOR: Seis minutos antes, a tempestade parecia o único problema.
+LUNA: Relaxa, Bia, a chuva já passa.
+BIA: O celular morreu de sinal. Escuta o rádio.
+NARRADOR: O aparelho chia com um alerta cortado.
+NARRADOR: Tranque tudo e não abra para ninguém.
+
+=== PARTE 2 — SOMBRAS NA VARANDA ===
+
+[CENA: varanda — chuva forte e relâmpagos, uma figura cambaleia na varanda. Na sala, Luna anda até o vidro, ri e aponta; Bia olha em volta, assusta e discute com Luna.]
+[HUD: Relógio: 23:10 | Distância: 8 metros | Barreira: vidro]
+NARRADOR: Um relâmpago corta a chuva na varanda.
+NARRADOR: Uma figura cambaleia a oito metros de você.
+NARRADOR: Luna se aproxima do vidro sem medo.
+LUNA: É o vizinho bêbado de novo. Vou abrir.
+BIA: Para! Olha o pescoço dele.
+NARRADOR: Outro clarão revela pele cinza e braços tortos.
+NARRADOR: Ele não pede socorro. Só encara o vidro.
+BIA: Não é bêbado. Sai daí agora!
+
+=== PARTE 3 — O VIDRO RACHA ===
+
+[CENA: sala — a mão bate forte e o vidro racha; três infectados encostam na varanda. Luna assusta e grita; Bia aponta para a cozinha e corre.]
+[HUD: Relógio: 23:12 | Infectados: 3 | Vidro: rachando]
+NARRADOR: São 23h12. A palma bate seco no vidro.
+NARRADOR: Uma rachadura corta o painel de ponta a ponta.
+NARRADOR: Mais duas sombras avançam na chuva.
+NARRADOR: Agora você enfrenta três infectados atrás de um vidro fino.
+LUNA: Meu Deus, vai quebrar!
+BIA: Cozinha, corre!
+
+[CENA: cozinha — Luna corre, agacha atrás da bancada e olha em volta; Bia anda agachada, agacha ao lado de Luna e fala.]
+[HUD: Relógio: 23:13 | Ruído: 0 dB | Vidro: cedendo]
+NARRADOR: Elas cruzam a cozinha e agacham atrás da bancada.
+NARRADOR: A regra é simples: qualquer barulho entrega vocês.
+BIA: Não faz barulho. Fica quieta.
+
+=== PARTE 4 — A PORTA DE AÇO ===
+
+[CENA: cozinha — o vidro estoura na sala e um zumbi entra. Luna anda agachada, tropeça e grita; Bia levanta, puxa Luna e corre.]
+[HUD: Relógio: 23:13 | Infectados dentro: 1 | Distância: 3 metros]
+NARRADOR: O vidro estoura na sala.
+NARRADOR: Um zumbi entra, pisa nos cacos e vira para a cozinha.
+NARRADOR: Luna recua agachada, mas tropeça num banco.
+LUNA: Ai, droga!
+NARRADOR: O infectado dispara na direção delas.
+BIA: Levanta! Vem comigo!
+
+[CENA: escada — Luna levanta, corre e desce escada; Bia desce escada atrás, olha em volta e aponta para a porta de aço.]
+[HUD: Relógio: 23:14 | Degraus até o porão: 14 | Porta de aço: aberta]
+NARRADOR: Bia puxa a amiga pelo braço.
+NARRADOR: Você desce catorze degraus com passos pesados atrás.
+
+[CENA: porao — Luna corre, grita e empurra porta de aço; Bia corre e empurra porta até fechar.]
+[HUD: Relógio: 23:14 | Porta de aço: trancada]
+LUNA: Fecha! Fecha logo!
+NARRADOR: Elas batem a porta de aço do porão.
+NARRADOR: A trava desce no último segundo.
+
+=== PARTE 5 — NÃO ESTÃO SOZINHAS ===
+
+[CENA: porao — escuro total, som de respiração atrás delas. Luna olha em volta, agacha e assusta; Bia olha em volta e assusta.]
+[HUD: Relógio: 23:14 | Porta de aço: trancada | Pessoas no porão: 3]
+NARRADOR: Do lado de fora, algo soca o aço.
+NARRADOR: A porta aguenta. Você acha que escapou.
+NARRADOR: Então o silêncio pesa no escuro.
+NARRADOR: Bem atrás de você, alguém respira fundo.
+LUNA: Bia... você ouviu isso?
+NARRADOR: Você trancou os zumbis lá fora.
+NARRADOR: Mas aqui embaixo, vocês não estão sozinhas.
