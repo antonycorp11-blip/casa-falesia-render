@@ -1,0 +1,88 @@
+name: render-evoce-3d
+on:
+  workflow_dispatch:
+    inputs:
+      pasta:
+        description: "Pasta do site em reels/ (ex.: evoce_previa)"
+        required: true
+        default: "evoce_previa"
+      nome:
+        description: "Nome do arquivo MP4 de saída, sem extensão"
+        required: true
+        default: "evoce_previa"
+      release_tag:
+        description: "Tag da GitHub Release"
+        required: true
+        default: "evoce-previa"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Instalar Playwright + Chromium
+        run: npm init -y >/dev/null && npm i playwright@1.48.2 && npx playwright install --with-deps chromium
+      - name: Renderizar fatia 3D (1920x1080, 30 fps)
+        env:
+          SHARD: ${{ matrix.shard }}
+          SHARDS: 20
+          PASTA: ${{ inputs.pasta }}
+        run: node render_evoce_ci.mjs "reels/${PASTA}" frames 2
+      - uses: actions/upload-artifact@v4
+        with:
+          name: "evoce-${{ matrix.shard }}"
+          path: frames/
+          retention-days: 2
+
+  finish:
+    needs: render
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: "evoce-*"
+          path: frames
+          merge-multiple: true
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Encodar vídeo com áudio
+        env:
+          PASTA: ${{ inputs.pasta }}
+          NOME: ${{ inputs.nome }}
+        run: |
+          mkdir -p out
+          ffmpeg -v error -y -framerate 30 -i frames/f_%06d.jpg -i "reels/${PASTA}/audio.mp3" \
+            -map 0:v -map 1:a \
+            -c:v libx264 -pix_fmt yuv420p -crf 20 -preset medium \
+            -c:a aac -b:a 192k -shortest -movflags +faststart "out/${NOME}.mp4"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: evoce-mp4
+          path: out/*.mp4
+          retention-days: 14
+      - name: Publicar na GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ inputs.release_tag }}
+          NOME: ${{ inputs.nome }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release edit "$TAG" --prerelease
+            gh release upload "$TAG" "out/${NOME}.mp4" --clobber
+          else
+            gh release create "$TAG" "out/${NOME}.mp4" \
+              --title "E SE VOCÊ…" --notes "Render 3D 1080p30" --prerelease
+          fi

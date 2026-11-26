@@ -1,0 +1,254 @@
+[
+ {
+  "i": 1,
+  "speaker": "NARRADOR",
+  "text": "A sirene dispara.",
+  "parte": 1,
+  "cena": "POV · varanda · amanhecer cinza. Mãos enluvadas e manga laranja vibram sobre o vidro; a neblina apaga a borda da falésia.",
+  "start": 0.0,
+  "end": 1.116
+ },
+ {
+  "i": 2,
+  "speaker": "NARRADOR",
+  "text": "Oito minutos para você descer ao bunker ou abrir para a vizinha que bate no vidro.",
+  "parte": 1,
+  "cena": "POV · varanda · amanhecer cinza. Mãos enluvadas e manga laranja vibram sobre o vidro; a neblina apaga a borda da falésia.",
+  "start": 1.116,
+  "end": 6.379
+ },
+ {
+  "i": 3,
+  "speaker": "VIZINHA",
+  "text": "Abre, por favor! Eles estão vindo!",
+  "parte": 1,
+  "cena": "POV · varanda · amanhecer cinza. Mãos enluvadas e manga laranja vibram sobre o vidro; a neblina apaga a borda da falésia.",
+  "start": 6.379,
+  "end": 8.452
+ },
+ {
+  "i": 4,
+  "speaker": "NARRADOR",
+  "text": "Se você parar para ajudá-la, talvez a porta feche antes de chegarem ao abrigo.",
+  "parte": 1,
+  "cena": "POV · varanda · amanhecer cinza. Mãos enluvadas e manga laranja vibram sobre o vidro; a neblina apaga a borda da falésia.",
+  "start": 8.452,
+  "end": 13.395
+ },
+ {
+  "i": 5,
+  "speaker": "NARRADOR",
+  "text": "Lá fora, a neblina sobe da falésia e esconde quase todo o corpo dela.",
+  "parte": 1,
+  "cena": "POV · varanda · amanhecer cinza. Mãos enluvadas e manga laranja vibram sobre o vidro; a neblina apaga a borda da falésia.",
+  "start": 13.395,
+  "end": 17.701
+ },
+ {
+  "i": 6,
+  "speaker": "NARRADOR",
+  "text": "Pela sala, você segue o dono e aponta para a vizinha contornando a casa.",
+  "parte": 2,
+  "cena": "3ª PESSOA · sala · luz fria. O dono atravessa a sala; você segue, enquanto a silhueta contorna o vidro em direção à garagem.",
+  "start": 18.401,
+  "end": 23.586
+ },
+ {
+  "i": 7,
+  "speaker": "NARRADOR",
+  "text": "A silhueta desaparece na direção da garagem.",
+  "parte": 2,
+  "cena": "3ª PESSOA · sala · luz fria. O dono atravessa a sala; você segue, enquanto a silhueta contorna o vidro em direção à garagem.",
+  "start": 23.586,
+  "end": 26.951
+ },
+ {
+  "i": 8,
+  "speaker": "DONO",
+  "text": "Desce. Eu abro a garagem para ela.",
+  "parte": 2,
+  "cena": "3ª PESSOA · sala · luz fria. O dono atravessa a sala; você segue, enquanto a silhueta contorna o vidro em direção à garagem.",
+  "start": 26.951,
+  "end": 29.317
+ },
+ {
+  "i": 9,
+  "speaker": "NARRADOR",
+  "text": "A promessa dele permite que você corra para o porão, mas os passos lá em cima não param.",
+  "parte": 2,
+  "cena": "3ª PESSOA · sala · luz fria. O dono atravessa a sala; você segue, enquanto a silhueta contorna o vidro em direção à garagem.",
+  "start": 29.317,
+  "end": 35.593
+ },
+ {
+  "i": 10,
+  "speaker": "NARRADOR",
+  "text": "No fim da escada, a porta redonda espera no escuro.",
+  "parte": 2,
+  "cena": "POV · porao · luz fraca. A porta redonda aparece abaixo da escada.",
+  "start": 35.593,
+  "end": 39.232
+ },
+ {
+  "i": 11,
+  "speaker": "NARRADOR",
+  "text": "Sua mão encontra o volante de aço.",
+  "parte": 2,
+  "cena": "POV · porao · luz fraca. A porta redonda aparece abaixo da escada.",
+  "start": 39.232,
+  "end": 41.688
+ },
+ {
+  "i": 12,
+  "speaker": "NARRADOR",
+  "text": "Antes de girá-lo, você lembra da vizinha batendo no vidro.",
+  "parte": 2,
+  "cena": "POV · porao · luz fraca. A porta redonda aparece abaixo da escada.",
+  "start": 41.688,
+  "end": 45.873
+ },
+ {
+  "i": 13,
+  "speaker": "NARRADOR",
+  "text": "Alguém ainda se move pela casa, e o dono não voltou.",
+  "parte": 2,
+  "cena": "POV · porao · luz fraca. A porta redonda aparece abaixo da escada.",
+  "start": 45.873,
+  "end": 49.511
+ },
+ {
+  "i": 14,
+  "speaker": "NARRADOR",
+  "text": "Dentro do bunker, você vê beliches, comida, rádio e gerador.",
+  "parte": 3,
+  "cena": "POV · bunker · luz de emergência. O monitor mostra a garagem vazia; o dono toca no volante da porta.",
+  "start": 50.211,
+  "end": 54.829
+ },
+ {
+  "i": 15,
+  "speaker": "NARRADOR",
+  "text": "No monitor, a garagem parece vazia.",
+  "parte": 3,
+  "cena": "POV · bunker · luz de emergência. O monitor mostra a garagem vazia; o dono toca no volante da porta.",
+  "start": 54.829,
+  "end": 57.579
+ },
+ {
+  "i": 16,
+  "speaker": "NARRADOR",
+  "text": "Uma pancada no andar de cima faz você olhar para o teto.",
+  "parte": 3,
+  "cena": "POV · bunker · luz de emergência. O monitor mostra a garagem vazia; o dono toca no volante da porta.",
+  "start": 57.579,
+  "end": 61.902
+ },
+ {
+  "i": 17,
+  "speaker": "NARRADOR",
+  "text": "O horário da câmera mostra uma gravação de dez minutos atrás.",
+  "parte": 3,
+  "cena": "POV · bunker · luz de emergência. O monitor mostra a garagem vazia; o dono toca no volante da porta.",
+  "start": 61.902,
+  "end": 66.814
+ },
+ {
+  "i": 18,
+  "speaker": "NARRADOR",
+  "text": "A câmera da garagem está travada; por isso, a vizinha pode estar lá sem aparecer na tela.",
+  "parte": 3,
+  "cena": "POV · bunker · luz de emergência. O monitor mostra a garagem vazia; o dono toca no volante da porta.",
+  "start": 66.814,
+  "end": 73.691
+ },
+ {
+  "i": 19,
+  "speaker": "NARRADOR",
+  "text": "O dono põe as mãos no volante para fechar a porta do bunker.",
+  "parte": 3,
+  "cena": "POV · bunker · luz de emergência. O monitor mostra a garagem vazia; o dono toca no volante da porta.",
+  "start": 73.691,
+  "end": 78.308
+ },
+ {
+  "i": 20,
+  "speaker": "NARRADOR",
+  "text": "Você impede o giro.",
+  "parte": 3,
+  "cena": "POV · bunker · luz de emergência. O monitor mostra a garagem vazia; o dono toca no volante da porta.",
+  "start": 78.308,
+  "end": 79.782
+ },
+ {
+  "i": 21,
+  "speaker": "NARRADOR",
+  "text": "Pelo porão, você corre de volta à cozinha.",
+  "parte": 4,
+  "cena": "POV · cozinha · luz pulsante. Pela fresta da porta da garagem, uma sombra arranha o vidro embaçado; o dono aperta a chave.",
+  "start": 80.482,
+  "end": 83.978
+ },
+ {
+  "i": 22,
+  "speaker": "NARRADOR",
+  "text": "A maçaneta da garagem não cede.",
+  "parte": 4,
+  "cena": "POV · cozinha · luz pulsante. Pela fresta da porta da garagem, uma sombra arranha o vidro embaçado; o dono aperta a chave.",
+  "start": 83.978,
+  "end": 86.626
+ },
+ {
+  "i": 23,
+  "speaker": "NARRADOR",
+  "text": "Do outro lado, a vizinha tosse e arranha o vidro embaçado.",
+  "parte": 4,
+  "cena": "POV · cozinha · luz pulsante. Pela fresta da porta da garagem, uma sombra arranha o vidro embaçado; o dono aperta a chave.",
+  "start": 86.626,
+  "end": 91.499
+ },
+ {
+  "i": 24,
+  "speaker": "VIZINHA",
+  "text": "Estou aqui! A porta não abre!",
+  "parte": 4,
+  "cena": "POV · cozinha · luz pulsante. Pela fresta da porta da garagem, uma sombra arranha o vidro embaçado; o dono aperta a chave.",
+  "start": 91.499,
+  "end": 93.829
+ },
+ {
+  "i": 25,
+  "speaker": "NARRADOR",
+  "text": "Ela conseguiu entrar na garagem, mas alguém trancou a passagem para a casa.",
+  "parte": 4,
+  "cena": "POV · cozinha · luz pulsante. Pela fresta da porta da garagem, uma sombra arranha o vidro embaçado; o dono aperta a chave.",
+  "start": 93.829,
+  "end": 100.291
+ },
+ {
+  "i": 26,
+  "speaker": "NARRADOR",
+  "text": "Na mão do dono, você vê a chave da porta interna.",
+  "parte": 4,
+  "cena": "POV · cozinha · luz pulsante. Pela fresta da porta da garagem, uma sombra arranha o vidro embaçado; o dono aperta a chave.",
+  "start": 100.291,
+  "end": 104.211
+ },
+ {
+  "i": 27,
+  "speaker": "NARRADOR",
+  "text": "Ele dispara para o porão enquanto você fica diante da vizinha presa.",
+  "parte": 4,
+  "cena": "POV · cozinha · luz pulsante. Pela fresta da porta da garagem, uma sombra arranha o vidro embaçado; o dono aperta a chave.",
+  "start": 104.211,
+  "end": 110.143
+ },
+ {
+  "i": 28,
+  "speaker": "NARRADOR",
+  "text": "Para alcançar a vizinha antes que o bunker feche, você precisa tomar a chave.",
+  "parte": 4,
+  "cena": "POV · cozinha · luz pulsante. Pela fresta da porta da garagem, uma sombra arranha o vidro embaçado; o dono aperta a chave.",
+  "start": 110.143,
+  "end": 116.711
+ }
+]

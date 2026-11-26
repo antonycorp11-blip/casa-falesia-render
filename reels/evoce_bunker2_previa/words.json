@@ -1,0 +1,1748 @@
+[
+ {
+  "word": "A",
+  "start": 0.0,
+  "end": 0.074,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "sirene",
+  "start": 0.074,
+  "end": 0.521,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "dispara.",
+  "start": 0.521,
+  "end": 1.116,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Oito",
+  "start": 1.116,
+  "end": 1.43,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "minutos",
+  "start": 1.43,
+  "end": 1.98,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "para",
+  "start": 1.98,
+  "end": 2.294,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 2.294,
+  "end": 2.609,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "descer",
+  "start": 2.609,
+  "end": 3.08,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "ao",
+  "start": 3.08,
+  "end": 3.237,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "bunker",
+  "start": 3.237,
+  "end": 3.708,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "ou",
+  "start": 3.708,
+  "end": 3.865,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "abrir",
+  "start": 3.865,
+  "end": 4.258,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "para",
+  "start": 4.258,
+  "end": 4.572,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 4.572,
+  "end": 4.651,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vizinha",
+  "start": 4.651,
+  "end": 5.2,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "que",
+  "start": 5.2,
+  "end": 5.436,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "bate",
+  "start": 5.436,
+  "end": 5.75,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "no",
+  "start": 5.75,
+  "end": 5.907,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vidro.",
+  "start": 5.907,
+  "end": 6.379,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Abre,",
+  "start": 6.379,
+  "end": 6.736,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "por",
+  "start": 6.736,
+  "end": 6.95,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "favor!",
+  "start": 6.95,
+  "end": 7.379,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "Eles",
+  "start": 7.379,
+  "end": 7.665,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "estão",
+  "start": 7.665,
+  "end": 8.023,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "vindo!",
+  "start": 8.023,
+  "end": 8.452,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "Se",
+  "start": 8.452,
+  "end": 8.604,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 8.604,
+  "end": 8.908,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "parar",
+  "start": 8.908,
+  "end": 9.288,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "para",
+  "start": 9.288,
+  "end": 9.592,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "ajudá-la,",
+  "start": 9.592,
+  "end": 10.277,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "talvez",
+  "start": 10.277,
+  "end": 10.733,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 10.733,
+  "end": 10.809,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "porta",
+  "start": 10.809,
+  "end": 11.19,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "feche",
+  "start": 11.19,
+  "end": 11.57,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "antes",
+  "start": 11.57,
+  "end": 11.95,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "de",
+  "start": 11.95,
+  "end": 12.102,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "chegarem",
+  "start": 12.102,
+  "end": 12.711,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "ao",
+  "start": 12.711,
+  "end": 12.863,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "abrigo.",
+  "start": 12.863,
+  "end": 13.395,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Lá",
+  "start": 13.395,
+  "end": 13.549,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "fora,",
+  "start": 13.549,
+  "end": 13.933,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 13.933,
+  "end": 14.01,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "neblina",
+  "start": 14.01,
+  "end": 14.548,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "sobe",
+  "start": 14.548,
+  "end": 14.856,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "da",
+  "start": 14.856,
+  "end": 15.01,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "falésia",
+  "start": 15.01,
+  "end": 15.548,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "e",
+  "start": 15.548,
+  "end": 15.625,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "esconde",
+  "start": 15.625,
+  "end": 16.163,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "quase",
+  "start": 16.163,
+  "end": 16.547,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "todo",
+  "start": 16.547,
+  "end": 16.855,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 16.855,
+  "end": 16.932,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "corpo",
+  "start": 16.932,
+  "end": 17.316,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "dela.",
+  "start": 17.316,
+  "end": 17.701,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Pela",
+  "start": 18.401,
+  "end": 18.752,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "sala,",
+  "start": 18.752,
+  "end": 19.192,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 19.192,
+  "end": 19.543,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "segue",
+  "start": 19.543,
+  "end": 19.982,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 19.982,
+  "end": 20.07,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "dono",
+  "start": 20.07,
+  "end": 20.422,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "e",
+  "start": 20.422,
+  "end": 20.51,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "aponta",
+  "start": 20.51,
+  "end": 21.037,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "para",
+  "start": 21.037,
+  "end": 21.389,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 21.389,
+  "end": 21.476,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vizinha",
+  "start": 21.476,
+  "end": 22.092,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "contornando",
+  "start": 22.092,
+  "end": 23.058,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 23.058,
+  "end": 23.146,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "casa.",
+  "start": 23.146,
+  "end": 23.586,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "A",
+  "start": 23.586,
+  "end": 23.674,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "silhueta",
+  "start": 23.674,
+  "end": 24.383,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "desaparece",
+  "start": 24.383,
+  "end": 25.269,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "na",
+  "start": 25.269,
+  "end": 25.446,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "direção",
+  "start": 25.446,
+  "end": 26.066,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "da",
+  "start": 26.066,
+  "end": 26.243,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "garagem.",
+  "start": 26.243,
+  "end": 26.951,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Desce.",
+  "start": 26.951,
+  "end": 27.458,
+  "speaker": "DONO"
+ },
+ {
+  "word": "Eu",
+  "start": 27.458,
+  "end": 27.627,
+  "speaker": "DONO"
+ },
+ {
+  "word": "abro",
+  "start": 27.627,
+  "end": 27.965,
+  "speaker": "DONO"
+ },
+ {
+  "word": "a",
+  "start": 27.965,
+  "end": 28.05,
+  "speaker": "DONO"
+ },
+ {
+  "word": "garagem",
+  "start": 28.05,
+  "end": 28.641,
+  "speaker": "DONO"
+ },
+ {
+  "word": "para",
+  "start": 28.641,
+  "end": 28.979,
+  "speaker": "DONO"
+ },
+ {
+  "word": "ela.",
+  "start": 28.979,
+  "end": 29.317,
+  "speaker": "DONO"
+ },
+ {
+  "word": "A",
+  "start": 29.317,
+  "end": 29.405,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "promessa",
+  "start": 29.405,
+  "end": 30.112,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "dele",
+  "start": 30.112,
+  "end": 30.466,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "permite",
+  "start": 30.466,
+  "end": 31.085,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "que",
+  "start": 31.085,
+  "end": 31.35,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 31.35,
+  "end": 31.703,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "corra",
+  "start": 31.703,
+  "end": 32.146,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "para",
+  "start": 32.146,
+  "end": 32.499,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 32.499,
+  "end": 32.588,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "porão,",
+  "start": 32.588,
+  "end": 33.118,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "mas",
+  "start": 33.118,
+  "end": 33.383,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "os",
+  "start": 33.383,
+  "end": 33.56,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "passos",
+  "start": 33.56,
+  "end": 34.09,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "lá",
+  "start": 34.09,
+  "end": 34.267,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "em",
+  "start": 34.267,
+  "end": 34.444,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "cima",
+  "start": 34.444,
+  "end": 34.798,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "não",
+  "start": 34.798,
+  "end": 35.063,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "param.",
+  "start": 35.063,
+  "end": 35.593,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "No",
+  "start": 35.593,
+  "end": 35.767,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "fim",
+  "start": 35.767,
+  "end": 36.026,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "da",
+  "start": 36.026,
+  "end": 36.2,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "escada,",
+  "start": 36.2,
+  "end": 36.806,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 36.806,
+  "end": 36.893,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "porta",
+  "start": 36.893,
+  "end": 37.326,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "redonda",
+  "start": 37.326,
+  "end": 37.932,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "espera",
+  "start": 37.932,
+  "end": 38.452,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "no",
+  "start": 38.452,
+  "end": 38.625,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "escuro.",
+  "start": 38.625,
+  "end": 39.232,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Sua",
+  "start": 39.232,
+  "end": 39.495,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "mão",
+  "start": 39.495,
+  "end": 39.758,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "encontra",
+  "start": 39.758,
+  "end": 40.46,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 40.46,
+  "end": 40.548,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "volante",
+  "start": 40.548,
+  "end": 41.162,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "de",
+  "start": 41.162,
+  "end": 41.337,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "aço.",
+  "start": 41.337,
+  "end": 41.688,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Antes",
+  "start": 41.688,
+  "end": 42.115,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "de",
+  "start": 42.115,
+  "end": 42.286,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "girá-lo,",
+  "start": 42.286,
+  "end": 42.969,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 42.969,
+  "end": 43.311,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "lembra",
+  "start": 43.311,
+  "end": 43.823,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "da",
+  "start": 43.823,
+  "end": 43.994,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vizinha",
+  "start": 43.994,
+  "end": 44.592,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "batendo",
+  "start": 44.592,
+  "end": 45.189,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "no",
+  "start": 45.189,
+  "end": 45.36,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vidro.",
+  "start": 45.36,
+  "end": 45.873,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Alguém",
+  "start": 45.873,
+  "end": 46.392,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "ainda",
+  "start": 46.392,
+  "end": 46.825,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "se",
+  "start": 46.825,
+  "end": 46.999,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "move",
+  "start": 46.999,
+  "end": 47.345,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "pela",
+  "start": 47.345,
+  "end": 47.692,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "casa,",
+  "start": 47.692,
+  "end": 48.125,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "e",
+  "start": 48.125,
+  "end": 48.212,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 48.212,
+  "end": 48.298,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "dono",
+  "start": 48.298,
+  "end": 48.645,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "não",
+  "start": 48.645,
+  "end": 48.905,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "voltou.",
+  "start": 48.905,
+  "end": 49.511,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Dentro",
+  "start": 50.211,
+  "end": 50.754,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "do",
+  "start": 50.754,
+  "end": 50.935,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "bunker,",
+  "start": 50.935,
+  "end": 51.569,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 51.569,
+  "end": 51.931,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vê",
+  "start": 51.931,
+  "end": 52.112,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "beliches,",
+  "start": 52.112,
+  "end": 52.927,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "comida,",
+  "start": 52.927,
+  "end": 53.561,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "rádio",
+  "start": 53.561,
+  "end": 54.014,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "e",
+  "start": 54.014,
+  "end": 54.104,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "gerador.",
+  "start": 54.104,
+  "end": 54.829,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "No",
+  "start": 54.829,
+  "end": 55.012,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "monitor,",
+  "start": 55.012,
+  "end": 55.745,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 55.745,
+  "end": 55.837,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "garagem",
+  "start": 55.837,
+  "end": 56.479,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "parece",
+  "start": 56.479,
+  "end": 57.029,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vazia.",
+  "start": 57.029,
+  "end": 57.579,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Uma",
+  "start": 57.579,
+  "end": 57.867,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "pancada",
+  "start": 57.867,
+  "end": 58.54,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "no",
+  "start": 58.54,
+  "end": 58.732,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "andar",
+  "start": 58.732,
+  "end": 59.212,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "de",
+  "start": 59.212,
+  "end": 59.404,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "cima",
+  "start": 59.404,
+  "end": 59.789,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "faz",
+  "start": 59.789,
+  "end": 60.077,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 60.077,
+  "end": 60.461,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "olhar",
+  "start": 60.461,
+  "end": 60.941,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "para",
+  "start": 60.941,
+  "end": 61.326,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 61.326,
+  "end": 61.422,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "teto.",
+  "start": 61.422,
+  "end": 61.902,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "O",
+  "start": 61.902,
+  "end": 61.998,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "horário",
+  "start": 61.998,
+  "end": 62.672,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "da",
+  "start": 62.672,
+  "end": 62.865,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "câmera",
+  "start": 62.865,
+  "end": 63.443,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "mostra",
+  "start": 63.443,
+  "end": 64.021,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "uma",
+  "start": 64.021,
+  "end": 64.31,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "gravação",
+  "start": 64.31,
+  "end": 65.08,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "de",
+  "start": 65.08,
+  "end": 65.273,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "dez",
+  "start": 65.273,
+  "end": 65.562,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "minutos",
+  "start": 65.562,
+  "end": 66.236,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "atrás.",
+  "start": 66.236,
+  "end": 66.814,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "A",
+  "start": 66.814,
+  "end": 66.908,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "câmera",
+  "start": 66.908,
+  "end": 67.473,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "da",
+  "start": 67.473,
+  "end": 67.662,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "garagem",
+  "start": 67.662,
+  "end": 68.321,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "está",
+  "start": 68.321,
+  "end": 68.698,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "travada;",
+  "start": 68.698,
+  "end": 69.452,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "por",
+  "start": 69.452,
+  "end": 69.734,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "isso,",
+  "start": 69.734,
+  "end": 70.205,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 70.205,
+  "end": 70.299,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vizinha",
+  "start": 70.299,
+  "end": 70.959,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "pode",
+  "start": 70.959,
+  "end": 71.336,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "estar",
+  "start": 71.336,
+  "end": 71.807,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "lá",
+  "start": 71.807,
+  "end": 71.995,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "sem",
+  "start": 71.995,
+  "end": 72.278,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "aparecer",
+  "start": 72.278,
+  "end": 73.031,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "na",
+  "start": 73.031,
+  "end": 73.22,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "tela.",
+  "start": 73.22,
+  "end": 73.691,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "O",
+  "start": 73.691,
+  "end": 73.787,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "dono",
+  "start": 73.787,
+  "end": 74.172,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "põe",
+  "start": 74.172,
+  "end": 74.46,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "as",
+  "start": 74.46,
+  "end": 74.653,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "mãos",
+  "start": 74.653,
+  "end": 75.038,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "no",
+  "start": 75.038,
+  "end": 75.23,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "volante",
+  "start": 75.23,
+  "end": 75.903,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "para",
+  "start": 75.903,
+  "end": 76.288,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "fechar",
+  "start": 76.288,
+  "end": 76.865,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 76.865,
+  "end": 76.961,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "porta",
+  "start": 76.961,
+  "end": 77.442,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "do",
+  "start": 77.442,
+  "end": 77.635,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "bunker.",
+  "start": 77.635,
+  "end": 78.308,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Você",
+  "start": 78.308,
+  "end": 78.677,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "impede",
+  "start": 78.677,
+  "end": 79.229,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 79.229,
+  "end": 79.321,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "giro.",
+  "start": 79.321,
+  "end": 79.782,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Pelo",
+  "start": 80.482,
+  "end": 80.881,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "porão,",
+  "start": 80.881,
+  "end": 81.481,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 81.481,
+  "end": 81.88,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "corre",
+  "start": 81.88,
+  "end": 82.379,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "de",
+  "start": 82.379,
+  "end": 82.579,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "volta",
+  "start": 82.579,
+  "end": 83.079,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "à",
+  "start": 83.079,
+  "end": 83.178,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "cozinha.",
+  "start": 83.178,
+  "end": 83.978,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "A",
+  "start": 83.978,
+  "end": 84.079,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "maçaneta",
+  "start": 84.079,
+  "end": 84.894,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "da",
+  "start": 84.894,
+  "end": 85.098,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "garagem",
+  "start": 85.098,
+  "end": 85.811,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "não",
+  "start": 85.811,
+  "end": 86.117,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "cede.",
+  "start": 86.117,
+  "end": 86.626,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Do",
+  "start": 86.626,
+  "end": 86.829,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "outro",
+  "start": 86.829,
+  "end": 87.336,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "lado,",
+  "start": 87.336,
+  "end": 87.844,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 87.844,
+  "end": 87.946,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vizinha",
+  "start": 87.946,
+  "end": 88.656,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "tosse",
+  "start": 88.656,
+  "end": 89.164,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "e",
+  "start": 89.164,
+  "end": 89.265,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "arranha",
+  "start": 89.265,
+  "end": 89.976,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 89.976,
+  "end": 90.077,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vidro",
+  "start": 90.077,
+  "end": 90.585,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "embaçado.",
+  "start": 90.585,
+  "end": 91.499,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Estou",
+  "start": 91.499,
+  "end": 91.984,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "aqui!",
+  "start": 91.984,
+  "end": 92.47,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "A",
+  "start": 92.47,
+  "end": 92.567,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "porta",
+  "start": 92.567,
+  "end": 93.052,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "não",
+  "start": 93.052,
+  "end": 93.344,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "abre!",
+  "start": 93.344,
+  "end": 93.829,
+  "speaker": "VIZINHA"
+ },
+ {
+  "word": "Ela",
+  "start": 93.829,
+  "end": 94.137,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "conseguiu",
+  "start": 94.137,
+  "end": 95.06,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "entrar",
+  "start": 95.06,
+  "end": 95.676,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "na",
+  "start": 95.676,
+  "end": 95.881,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "garagem,",
+  "start": 95.881,
+  "end": 96.701,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "mas",
+  "start": 96.701,
+  "end": 97.009,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "alguém",
+  "start": 97.009,
+  "end": 97.624,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "trancou",
+  "start": 97.624,
+  "end": 98.342,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 98.342,
+  "end": 98.445,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "passagem",
+  "start": 98.445,
+  "end": 99.265,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "para",
+  "start": 99.265,
+  "end": 99.676,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 99.676,
+  "end": 99.778,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "casa.",
+  "start": 99.778,
+  "end": 100.291,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Na",
+  "start": 100.291,
+  "end": 100.492,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "mão",
+  "start": 100.492,
+  "end": 100.794,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "do",
+  "start": 100.794,
+  "end": 100.995,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "dono,",
+  "start": 100.995,
+  "end": 101.497,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 101.497,
+  "end": 101.899,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vê",
+  "start": 101.899,
+  "end": 102.1,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 102.1,
+  "end": 102.201,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "chave",
+  "start": 102.201,
+  "end": 102.703,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "da",
+  "start": 102.703,
+  "end": 102.904,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "porta",
+  "start": 102.904,
+  "end": 103.407,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "interna.",
+  "start": 103.407,
+  "end": 104.211,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Ele",
+  "start": 104.211,
+  "end": 104.523,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "dispara",
+  "start": 104.523,
+  "end": 105.251,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "para",
+  "start": 105.251,
+  "end": 105.668,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 105.668,
+  "end": 105.772,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "porão",
+  "start": 105.772,
+  "end": 106.292,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "enquanto",
+  "start": 106.292,
+  "end": 107.125,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 107.125,
+  "end": 107.541,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "fica",
+  "start": 107.541,
+  "end": 107.957,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "diante",
+  "start": 107.957,
+  "end": 108.582,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "da",
+  "start": 108.582,
+  "end": 108.79,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vizinha",
+  "start": 108.79,
+  "end": 109.518,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "presa.",
+  "start": 109.518,
+  "end": 110.143,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "Para",
+  "start": 110.143,
+  "end": 110.553,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "alcançar",
+  "start": 110.553,
+  "end": 111.374,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 111.374,
+  "end": 111.477,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "vizinha",
+  "start": 111.477,
+  "end": 112.195,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "antes",
+  "start": 112.195,
+  "end": 112.708,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "que",
+  "start": 112.708,
+  "end": 113.016,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "o",
+  "start": 113.016,
+  "end": 113.119,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "bunker",
+  "start": 113.119,
+  "end": 113.735,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "feche,",
+  "start": 113.735,
+  "end": 114.35,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "você",
+  "start": 114.35,
+  "end": 114.761,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "precisa",
+  "start": 114.761,
+  "end": 115.479,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "tomar",
+  "start": 115.479,
+  "end": 115.992,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "a",
+  "start": 115.992,
+  "end": 116.095,
+  "speaker": "NARRADOR"
+ },
+ {
+  "word": "chave.",
+  "start": 116.095,
+  "end": 116.711,
+  "speaker": "NARRADOR"
+ }
+]
