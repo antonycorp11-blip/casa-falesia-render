@@ -1,0 +1,49 @@
+=== PARTE 1 — O ALERTA ===
+
+[CENA: sala — noite de chuva forte na casa de vidro na falésia; Luna (cabelo rosa) encosta no vidro olhando a tempestade, Bia (cabelo preto) ajusta o rádio na mesa]
+[SFX: trovao]
+[TEXTO: NÃO ABRA A PORTA]
+NARRADOR: Se você ouvir isso no rádio, não abra a porta.
+
+[SFX: estatica]
+RADIO: Alerta de emergência: infectados na costa. Tranque todas as entradas.
+
+LUNA: Que loucura é essa, Bia?
+BIA: Fica calma, Luna. Afasta da janela.
+
+[CENA: varanda — sob a chuva, a garota zumbi surge do nada do lado de fora e bate com força no vidro; Luna recua impulsiva enquanto Bia observa sem entrar em pânico]
+[SFX: batida_vidro]
+[TEXTO: ELA JÁ ESTÁ NO VIDRO]
+NARRADOR: Você vira devagar. Uma garota zumbi encara você pelo vidro.
+
+=== PARTE 2 — A INVASÃO ===
+
+[CENA: cozinha — Luna corre até o balcão e pega uma faca pronta para reagir; Bia continua calma e aponta para a varanda, onde o policial zumbi e o corredor surgem atrás da garota zumbi]
+LUNA: Ela tá sozinha, eu resolvo.
+BIA: Não tá, não. Olha atrás dela.
+
+[CENA: sala — os três zumbis avançam contra a parede de vidro e estilhaçam tudo; Luna trava por um segundo e Bia a puxa pelo braço rumo à saída]
+[SFX: vidro_quebra]
+[TEXTO: TRÊS CONTRA DUAS]
+NARRADOR: O vidro explode. O policial zumbi e o corredor invadem a casa.
+
+[SFX: grito_zumbi]
+NARRADOR: Você não tem saída aqui em cima. Só resta correr.
+
+LUNA: Bora, corre pro porão!
+
+=== PARTE 3 — O BUNKER ===
+
+[CENA: escada — Luna e Bia descem correndo os degraus no escuro; o corredor salta logo atrás delas, seguido pelo policial zumbi e pela garota zumbi]
+[SFX: passos_correndo]
+[TEXTO: ELES NÃO PARAM]
+NARRADOR: Você desce correndo. O corredor quase agarra o seu ombro.
+
+[CENA: porao — Bia abre o bunker, empurra Luna para dentro e trava a porta pesada enquanto os três zumbis batem do lado de fora; na escuridão atrás das duas, algo se move]
+[SFX: porta_aco]
+NARRADOR: A porta de aço fecha. Por um segundo, você respira.
+
+BIA: Conseguimos... espera. Quem tá aí no escuro?
+
+[TEXTO: O BUNKER NÃO ESTAVA VAZIO]
+NARRADOR: Você se trancou com algo lá dentro. Assista ao episódio completo.

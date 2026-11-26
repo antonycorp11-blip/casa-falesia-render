@@ -1,0 +1,128 @@
+[
+ {
+  "i": 1,
+  "speaker": "NARRADOR",
+  "text": "Se você ouvir isso no rádio, não abra a porta.",
+  "parte": 1,
+  "cena": "sala — noite de chuva forte na casa de vidro na falésia; Luna (cabelo rosa) encosta no vidro olhando a tempestade, Bia (cabelo preto) ajusta o rádio na mesa",
+  "start": 0.0,
+  "end": 3.207
+ },
+ {
+  "i": 2,
+  "speaker": "RADIO",
+  "text": "Alerta de emergência: infectados na costa. Tranque todas as entradas.",
+  "parte": 1,
+  "cena": "sala — noite de chuva forte na casa de vidro na falésia; Luna (cabelo rosa) encosta no vidro olhando a tempestade, Bia (cabelo preto) ajusta o rádio na mesa",
+  "start": 3.207,
+  "end": 8.431
+ },
+ {
+  "i": 3,
+  "speaker": "LUNA",
+  "text": "Que loucura é essa, Bia?",
+  "parte": 1,
+  "cena": "sala — noite de chuva forte na casa de vidro na falésia; Luna (cabelo rosa) encosta no vidro olhando a tempestade, Bia (cabelo preto) ajusta o rádio na mesa",
+  "start": 8.731,
+  "end": 11.014
+ },
+ {
+  "i": 4,
+  "speaker": "BIA",
+  "text": "Fica calma, Luna. Afasta da janela.",
+  "parte": 1,
+  "cena": "sala — noite de chuva forte na casa de vidro na falésia; Luna (cabelo rosa) encosta no vidro olhando a tempestade, Bia (cabelo preto) ajusta o rádio na mesa",
+  "start": 11.014,
+  "end": 14.439
+ },
+ {
+  "i": 5,
+  "speaker": "NARRADOR",
+  "text": "Você vira devagar. Uma garota zumbi encara você pelo vidro.",
+  "parte": 1,
+  "cena": "varanda — sob a chuva, a garota zumbi surge do nada do lado de fora e bate com força no vidro; Luna recua impulsiva enquanto Bia observa sem entrar em pânico",
+  "start": 14.739,
+  "end": 19.899
+ },
+ {
+  "i": 6,
+  "speaker": "LUNA",
+  "text": "Ela tá sozinha, eu resolvo.",
+  "parte": 2,
+  "cena": "cozinha — Luna corre até o balcão e pega uma faca pronta para reagir; Bia continua calma e aponta para a varanda, onde o policial zumbi e o corredor surgem atrás da garota zumbi",
+  "start": 20.599,
+  "end": 22.96
+ },
+ {
+  "i": 7,
+  "speaker": "BIA",
+  "text": "Não tá, não. Olha atrás dela.",
+  "parte": 2,
+  "cena": "cozinha — Luna corre até o balcão e pega uma faca pronta para reagir; Bia continua calma e aponta para a varanda, onde o policial zumbi e o corredor surgem atrás da garota zumbi",
+  "start": 22.96,
+  "end": 25.32
+ },
+ {
+  "i": 8,
+  "speaker": "NARRADOR",
+  "text": "O vidro explode. O policial zumbi e o corredor invadem a casa.",
+  "parte": 2,
+  "cena": "sala — os três zumbis avançam contra a parede de vidro e estilhaçam tudo; Luna trava por um segundo e Bia a puxa pelo braço rumo à saída",
+  "start": 25.62,
+  "end": 30.889
+ },
+ {
+  "i": 9,
+  "speaker": "NARRADOR",
+  "text": "Você não tem saída aqui em cima. Só resta correr.",
+  "parte": 2,
+  "cena": "sala — os três zumbis avançam contra a parede de vidro e estilhaçam tudo; Luna trava por um segundo e Bia a puxa pelo braço rumo à saída",
+  "start": 30.889,
+  "end": 34.975
+ },
+ {
+  "i": 10,
+  "speaker": "LUNA",
+  "text": "Bora, corre pro porão!",
+  "parte": 2,
+  "cena": "sala — os três zumbis avançam contra a parede de vidro e estilhaçam tudo; Luna trava por um segundo e Bia a puxa pelo braço rumo à saída",
+  "start": 34.975,
+  "end": 36.803
+ },
+ {
+  "i": 11,
+  "speaker": "NARRADOR",
+  "text": "Você desce correndo. O corredor quase agarra o seu ombro.",
+  "parte": 3,
+  "cena": "escada — Luna e Bia descem correndo os degraus no escuro; o corredor salta logo atrás delas, seguido pelo policial zumbi e pela garota zumbi",
+  "start": 37.503,
+  "end": 43.014
+ },
+ {
+  "i": 12,
+  "speaker": "NARRADOR",
+  "text": "A porta de aço fecha. Por um segundo, você respira.",
+  "parte": 3,
+  "cena": "porao — Bia abre o bunker, empurra Luna para dentro e trava a porta pesada enquanto os três zumbis batem do lado de fora; na escuridão atrás das duas, algo se move",
+  "start": 43.014,
+  "end": 47.687
+ },
+ {
+  "i": 13,
+  "speaker": "BIA",
+  "text": "Conseguimos... espera. Quem tá aí no escuro?",
+  "parte": 3,
+  "cena": "porao — Bia abre o bunker, empurra Luna para dentro e trava a porta pesada enquanto os três zumbis batem do lado de fora; na escuridão atrás das duas, algo se move",
+  "start": 47.687,
+  "end": 51.641
+ },
+ {
+  "i": 14,
+  "speaker": "NARRADOR",
+  "text": "Você se trancou com algo lá dentro. Assista ao episódio completo.",
+  "parte": 3,
+  "cena": "porao — Bia abre o bunker, empurra Luna para dentro e trava a porta pesada enquanto os três zumbis batem do lado de fora; na escuridão atrás das duas, algo se move",
+  "start": 51.641,
+  "end": 57.991
+ }
+]
