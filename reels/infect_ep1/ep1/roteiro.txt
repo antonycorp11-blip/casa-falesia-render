@@ -1,0 +1,404 @@
+=== PARTE 1 — DEZ SEGUNDOS ===
+
+[HUD: Relógio: 23:12]
+[CENA: sala · lareira, sofá, vidro da varanda e chuva na falésia · Luna olha em volta; Bia aponta para a varanda; garota infectada bate no vidro]
+[SFX: batida_vidro]
+[TEXTO: DEZ SEGUNDOS PARA SAIR DO VIDRO]
+NARRADOR: Você tem dez segundos para sair da frente daquele vidro.
+NARRADOR: Uma garota infectada bate na rachadura, olhando para a lareira.
+
+LUNA: Ela viu a gente?
+BIA: Cozinha. Agora.
+
+[CENA: cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala]
+[SFX: trovao]
+NARRADOR: Você corre pela passagem aberta, com a falésia escura atrás do vidro.
+NARRADOR: Um relâmpago revela mais sombras na chuva.
+NARRADOR: Luna estava perto demais. Bia escolheu a passagem mais próxima.
+NARRADOR: Então o problema ainda tem uma direção.
+NARRADOR: Você pode fugir enquanto elas seguem a luz.
+NARRADOR: Só que a casa inteira é feita para ser vista.
+
+LUNA: Você contou dez segundos ou tava me assustando?
+BIA: Olha a rachadura. Ela já tá na porta.
+LUNA: A gente devia ter escolhido uma casa com parede.
+BIA: Anda, Luna. Atrás da bancada.
+LUNA: Se ela entrar, eu corro pra onde?
+BIA: Garagem. O carro fica antes da escada.
+
+[SFX: estatica]
+RADIO: Alerta costeiro. Evitem luzes. Ruídos atraem os infectados.
+
+[TEXTO: A LUZ CHAMA]
+NARRADOR: Você entende a regra quando a garota muda de lado no vidro.
+NARRADOR: Ela acompanha o reflexo de Luna, mesmo sem ouvir sua voz.
+NARRADOR: Bia se esconde agachada atrás da bancada. Luna faz o mesmo.
+NARRADOR: Por um instante, o vidro mostra apenas a cozinha vazia.
+NARRADOR: A garota para. Talvez tenha perdido as duas.
+
+LUNA: Ela foi embora?
+BIA: Não levanta. Espera o próximo relâmpago.
+LUNA: Essa é sua ideia de uma noite tranquila?
+BIA: Minha ideia era você ficar quieta.
+LUNA: Eu tô quieta por fora. Por dentro, tô berrando.
+BIA: Ótimo. Mantém essa divisão.
+
+[CENA: cozinha · vista da sala pelo vidro rachado · Luna e Bia ficam imóveis atrás da bancada; policial infectado anda na varanda; garota infectada bate no vidro da sala]
+[SFX: batida_vidro]
+NARRADOR: O relâmpago mostra um policial atrás da garota.
+NARRADOR: Ele anda devagar, mas cada batida dele afunda a moldura.
+NARRADOR: Você ganhou distância. A porta da sala perdeu força.
+NARRADOR: A próxima pancada decide se a cozinha ainda é esconderijo.
+[SFX: vidro_quebra]
+[TEXTO: ELES ENTRARAM]
+
+=== PARTE 2 — O CARRO ESCURO ===
+
+[HUD: Relógio: 23:14]
+[CENA: cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala]
+[SFX: passos_correndo]
+NARRADOR: Você vê a garota entrar pela abertura do vidro quebrado.
+NARRADOR: Ela atravessa a sala sem um grito.
+NARRADOR: A bancada esconde as duas só até ela virar.
+NARRADOR: Bia aponta para a porta da garagem.
+NARRADOR: Lá, o carro oferece sombra. Aqui, só existe vidro.
+
+LUNA: Ela corre. O grandão mal anda.
+BIA: Então acompanha a garota. Esquece o grandão por enquanto.
+LUNA: Ela tá olhando pra cá?
+BIA: Ainda não. Vai agachada.
+LUNA: O policial também entrou?
+BIA: Não. O vidro ainda segura o peso dele.
+LUNA: Se ele entrar, a gente vai ter dois caminhos fechados.
+BIA: Então usa o que tá livre agora.
+
+[CENA: garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha]
+[SFX: respiracao]
+[TEXTO: O SOM ENTREGA]
+NARRADOR: Você entra na garagem antes da garota alcançar a bancada.
+NARRADOR: Bia empurra a porta. Ela não encaixa completamente.
+NARRADOR: Uma fresta fina deixa passar a luz da cozinha.
+NARRADOR: Do outro lado, a garota para diante daquela linha clara.
+NARRADOR: A sombra do corpo dela corta a fresta.
+NARRADOR: Luna cobre a boca. Bia também fica imóvel.
+
+[SFX: telefone]
+NARRADOR: O telefone de Luna toca atrás do carro.
+NARRADOR: A garota corre para a porta da garagem no primeiro toque.
+NARRADOR: Você aprende a segunda regra no pior momento.
+NARRADOR: A luz apontou a casa. O som apontou o esconderijo.
+
+LUNA: É o Antony. Eu desligo?
+BIA: Atende. Sem viva voz. Rápido.
+LUNA: Antony? Fala baixo.
+ANTONY: Tô ouvindo sirenes. Onde você tá?
+LUNA: Presa na garagem. Tem gente infectada dentro.
+ANTONY: A porta do porão é de aço. Usa ela.
+LUNA: Eu sei. Só falta chegar lá.
+
+[CENA: garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem]
+NARRADOR: Você vê a porta abrir antes da ligação terminar.
+NARRADOR: A garota segue o brilho do telefone pelo chão.
+NARRADOR: Bia aponta para a escada, longe da porta.
+NARRADOR: O policial bate no vidro quebrado da sala.
+NARRADOR: São duas ameaças em velocidades diferentes.
+NARRADOR: Nenhuma permite voltar pelo caminho usado.
+
+BIA: Luna. Escada. Agora.
+LUNA: Antony, preciso ir.
+ANTONY: Luna? Luna!
+LUNA: Ele não ouviu o que aconteceu.
+BIA: Melhor assim. Fala com ele quando sairmos.
+
+[TEXTO: A ESCADA É A ÚNICA SAÍDA]
+NARRADOR: Você sai da sombra, mas a garota já virou para Bia.
+
+=== PARTE 3 — NÃO FOI NADA ===
+
+[HUD: Relógio: 23:16]
+[CENA: garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria]
+[SFX: grito_zumbi]
+NARRADOR: Você vê a garota contornar o carro mais rápido que Bia.
+NARRADOR: Ela ataca junto ao acesso da escada.
+NARRADOR: Bia cai no último espaço de sombra.
+NARRADOR: Por um segundo, as duas somem atrás da carroceria.
+NARRADOR: Luna ouve um grito curto. Não sabe de qual boca veio.
+NARRADOR: Quando Bia levanta, o braço esquerdo fica junto ao corpo.
+NARRADOR: A garota ainda está entre elas e a cozinha.
+
+LUNA: Bia! Ela pegou você?
+BIA: Me arranhou. Escada, Luna.
+LUNA: Deixa eu ver seu braço.
+BIA: Depois. Ela tá vindo.
+LUNA: Você tá tremendo.
+BIA: Eu tô correndo. Vai.
+LUNA: Se foi só arranhão, mostra quando descermos.
+BIA: Mostro. Mas não me faz parar aqui.
+LUNA: Eu não vou te deixar sozinha com ela.
+BIA: Então fica na minha frente e abre caminho.
+
+[CENA: escada · sala acima e porta de aço do porão abaixo · Luna desce escada; Bia desce escada; garota infectada corre atrás delas]
+[SFX: passos_correndo]
+[TEXTO: O BRAÇO DE BIA]
+NARRADOR: Você desce para longe da garota, contando degraus pela respiração.
+NARRADOR: Bia conhece a casa. A porta de aço fica no fim.
+NARRADOR: A luz da sala não alcança os últimos degraus.
+NARRADOR: No escuro, o braço de Bia encosta na parede.
+NARRADOR: Ela para por meio segundo, como se a dor tivesse endereço.
+NARRADOR: Luna olha para trás. A garota já desce.
+NARRADOR: Você não tem tempo para perguntar outra vez.
+
+[CENA: escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela]
+[SFX: porta_aco]
+NARRADOR: Você empurra a porta de aço. Ela não cede.
+NARRADOR: Bia empurra também, usando o ombro direito.
+NARRADOR: O lado esquerdo continua duro, protegido pela sombra.
+NARRADOR: O aço vibra, mas o batente permanece preso.
+NARRADOR: A garota segue o estrondo e bate na porta à frente delas.
+
+LUNA: Tá emperrada. Mais forte!
+BIA: Não é força. O batente entortou.
+LUNA: O que a gente faz?
+BIA: Volta pela escada. Ela tá na porta, do lado esquerdo.
+LUNA: Você enlouqueceu?
+BIA: O lado direito tá livre. Agora!
+LUNA: Ela vai ver a gente sair daqui.
+BIA: Se continuar batendo, vai olhar pro aço.
+LUNA: Você tem certeza?
+BIA: Não. É o que temos.
+
+[TEXTO: O PORÃO NÃO ABRE]
+NARRADOR: Você perdeu o abrigo. Só resta subir pelo lado livre.
+
+=== PARTE 4 — MORTE FINGIDA ===
+
+[HUD: Relógio: 23:18]
+[CENA: escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas]
+[SFX: respiracao]
+NARRADOR: Você sobe enquanto a garota continua batendo na porta abaixo.
+NARRADOR: Ela olha para o aço, sem notar as duas no escuro.
+NARRADOR: Bia acerta: o som distrai a garota por segundos.
+NARRADOR: Luna chega à sala primeiro. O policial está perto da lareira.
+NARRADOR: Ele anda devagar, mas bloqueia a passagem para a cozinha.
+
+LUNA: Tem o policial na sala.
+BIA: Atrás do sofá. Sem correr.
+LUNA: Ele vai ver meu cabelo até no escuro.
+BIA: Então fica imóvel. Igual eu.
+LUNA: Você ficou com alguma coisa no braço?
+BIA: Luna, olha pra frente. Tem um sofá.
+LUNA: Você desviou da pergunta de novo.
+BIA: Porque agora a resposta faz barulho.
+
+[CENA: sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira]
+[TEXTO: FINGIR DE MORTA]
+NARRADOR: Você cai atrás do sofá e fica imóvel como um corpo morto.
+NARRADOR: O policial segue o estalo da escada, não o cabelo rosa.
+NARRADOR: Bia fica ao lado de Luna. O braço esquerdo não encosta no chão.
+NARRADOR: Luna prende o riso nervoso antes de virar som.
+NARRADOR: Ele fareja o ar. Você percebe o risco novo.
+NARRADOR: Se Bia estiver sangrando, silêncio talvez não baste.
+
+[SFX: grito_zumbi]
+NARRADOR: A garota grita lá embaixo, diante da porta presa.
+NARRADOR: O policial muda de direção e anda para a escada.
+NARRADOR: As duas continuam imóveis até o último passo dele desaparecer.
+NARRADOR: O truque funcionou uma vez. O sangue pode anulá-lo na próxima.
+
+LUNA: Você tá sangrando?
+BIA: Foi só um arranhão. Quase nada.
+LUNA: Você fala isso como se eu fosse acreditar.
+BIA: Acredita depois. Agora olha a cozinha.
+LUNA: O policial vai descer?
+BIA: Vai seguir o grito. A gente segue pro outro lado.
+LUNA: Se ele voltar, eu fico parada outra vez?
+BIA: Só se ele não estiver farejando.
+LUNA: Como eu vou saber a diferença?
+BIA: Se chegar perto, você vai saber.
+
+[CENA: sala · passagem livre para cozinha e escada atrás do sofá · Luna espia a cozinha; Bia olha em volta; policial infectado anda pela escada; corredor corre na varanda]
+[SFX: passos_correndo]
+NARRADOR: Você vê a cozinha livre pela primeira vez em minutos.
+NARRADOR: Então outra sombra corta a varanda.
+NARRADOR: Ela corre mais rápido que a garota e mira o vidro quebrado.
+NARRADOR: A saída pela cozinha vai desaparecer em segundos.
+[TEXTO: O CORREDOR CHEGOU]
+
+=== PARTE 5 — A LUZ ERRADA ===
+
+[HUD: Relógio: 23:20]
+[CENA: sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado]
+[SFX: vidro_quebra]
+NARRADOR: Você corre para a cozinha antes do corredor atravessar a abertura.
+NARRADOR: Ele ataca o sofá onde as duas estavam imóveis.
+NARRADOR: O sofá compra distância, mas o corredor já fareja a sala.
+NARRADOR: Luna vê uma mancha escura na regata preta.
+NARRADOR: Naquela luz, sangue parece apenas chuva.
+
+LUNA: Sua blusa tá molhada.
+BIA: A casa inteira tá molhada.
+LUNA: Não foi isso que eu perguntei.
+BIA: Depois. Primeiro a garagem.
+LUNA: Você disse isso lá embaixo.
+BIA: Porque ainda estamos correndo.
+LUNA: A sua voz tá diferente.
+BIA: A sua também. A gente conversa com a porta fechada.
+
+[CENA: cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha]
+[SFX: passos_correndo]
+[TEXTO: ELE CORRE MAIS RÁPIDO]
+NARRADOR: Você volta à bancada, agora sem a proteção do vidro intacto.
+NARRADOR: O corredor entra pela passagem atrás delas.
+NARRADOR: O telefone de Luna ilumina a porta da garagem por um instante.
+NARRADOR: Ele muda de direção para aquele quadrado de luz.
+NARRADOR: Luna olha para Bia. Bia aponta para a sombra atrás da bancada.
+NARRADOR: As duas ficam imóveis enquanto ele investiga a porta iluminada.
+
+LUNA: Eu vou chamar ele pra garagem.
+BIA: Não. Ele já foi. Espera passar.
+LUNA: Você sempre tem uma ordem pronta?
+BIA: Só quando tô com medo.
+LUNA: Ah. Finalmente uma frase sincera.
+LUNA: Achei que você não sentia nada.
+BIA: Sinto. Só faço as contas primeiro.
+
+[CENA: cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro]
+NARRADOR: Você ouve a porta abrir e os passos sumirem na garagem.
+NARRADOR: O corredor seguiu o brilho, longe das duas.
+NARRADOR: Mas a escada também se abre pela garagem.
+NARRADOR: O caminho até o porão continua sob os pés dele.
+NARRADOR: Bia tosse uma vez e cobre a boca depressa.
+NARRADOR: Luna olha. Bia nega com a cabeça, imóvel no escuro.
+
+LUNA: Isso é tosse de medo?
+BIA: É poeira. Fica baixa.
+LUNA: Bia, olha pra mim.
+BIA: Olha pra sala. O policial pode voltar.
+
+[SFX: estatica]
+RADIO: Mordidos podem mudar entre oito e doze minutos. Mantenham distância.
+LUNA: Você ouviu? Oito minutos.
+BIA: Ouvi. A gente precisa fechar aquela porta.
+
+[SFX: porta_aco]
+NARRADOR: Você ouve aço bater no fim da escada.
+NARRADOR: O policial encontrou a porta presa.
+NARRADOR: Talvez a força dele resolva o que as duas não conseguiram.
+NARRADOR: Mas o corredor ouviu a mesma batida.
+[TEXTO: A PORTA PODE ABRIR]
+
+=== PARTE 6 — A PORTA CEDE ===
+
+[HUD: Relógio: 23:22]
+[CENA: cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada]
+[SFX: passos_correndo]
+NARRADOR: Você espera o corredor abandonar a garagem pelo acesso da escada.
+NARRADOR: Ele segue a pancada de aço até o porão.
+NARRADOR: A garagem fica livre, mas a sala não.
+NARRADOR: Bia aponta para a garagem. Luna entende sem outra ordem.
+NARRADOR: Elas terão poucos segundos antes de alguém voltar.
+
+LUNA: Se ele tá na escada, a gente fica presa.
+BIA: Ele desce rápido. Depois olhamos o caminho.
+LUNA: Você tá pálida.
+BIA: É o relâmpago. Anda.
+LUNA: Você tá me pedindo pra acreditar em muita coisa.
+BIA: Então acredita no que vê. A garagem tá vazia.
+LUNA: E a escada tá cheia deles.
+BIA: Por enquanto.
+
+[CENA: garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço]
+[SFX: porta_aco]
+[TEXTO: MAIS UMA BATIDA]
+NARRADOR: Você chega ao carro. O policial bate outra vez lá embaixo.
+NARRADOR: O metal responde com um rangido diferente.
+NARRADOR: A garota grita, e o corredor desce atrás dela.
+NARRADOR: Três infectados ficam concentrados no fim da escada.
+NARRADOR: Isso deixa o topo livre. Também fecha o porão para vocês.
+NARRADOR: Luna olha para o vidro da sala, cheio de sombras.
+
+LUNA: Eles tão todos no porão. Ótimo plano.
+BIA: Ainda não entraram. Espera a próxima batida.
+LUNA: Você tá contando com o policial?
+BIA: Tô contando com o peso dele.
+LUNA: E se ele abrir antes da gente descer?
+BIA: A gente espera eles entrarem.
+LUNA: E fecha a porta atrás deles?
+BIA: Essa é a conta.
+
+[CENA: escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial]
+[SFX: porta_aco]
+NARRADOR: Você escuta o batente soltar na terceira pancada.
+NARRADOR: A porta abre para dentro do porão.
+NARRADOR: O policial entra primeiro, atraído pelo eco do próprio golpe.
+NARRADOR: A garota corre atrás dele. O corredor fareja junto à entrada.
+NARRADOR: Bia fica imóvel. Luna cobre a boca.
+NARRADOR: O cheiro do braço esquerdo quase entrega o esconderijo.
+NARRADOR: Uma batida de trovão leva o corredor para dentro.
+NARRADOR: Você ganhou passagem, mas somente enquanto eles investigam o porão.
+
+[SFX: trovao]
+LUNA: A porta abriu. E agora?
+BIA: Espera eles entrarem. A gente fecha pelo lado da escada.
+LUNA: Você tá mal, Bia.
+BIA: Eu sei. Desce quando eu apontar.
+
+[TEXTO: A ARMADILHA É DELES]
+NARRADOR: Você segue Bia até a porta, sem saber por que ela admitiu.
+
+=== PARTE 7 — O TEMPO DA MORDIDA ===
+
+[HUD: Relógio: 23:24]
+[CENA: escada · porta de aço aberta para o porão e sombras no fundo · Bia desce escada; Luna desce escada atrás dela; policial infectado anda no fundo do porão; garota infectada corre para o fundo; corredor fareja longe da porta]
+[SFX: respiracao]
+NARRADOR: Você chega à porta do porão que parecia impossível.
+NARRADOR: Os três infectados perseguem o eco até o fundo escuro.
+NARRADOR: Luna e Bia ficam do lado da escada, fora do caminho deles.
+NARRADOR: Por um segundo, a porta está livre.
+NARRADOR: Bia aponta para a chapa. Luna entende: empurrar, depois subir.
+
+LUNA: Você ainda consegue empurrar?
+BIA: Com o braço direito, consigo.
+
+[CENA: escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão]
+[SFX: passos_correndo]
+[TEXTO: A PORTA FECHA]
+NARRADOR: Você sobe os degraus enquanto o corredor corre para a porta.
+NARRADOR: Luna empurra a porta de aço pelo lado da escada.
+NARRADOR: O batente torto encaixa com um golpe seco.
+NARRADOR: O corredor ataca a chapa tarde demais.
+NARRADOR: O policial bate atrás dele. A chapa permanece firme.
+NARRADOR: Você venceu a corrida pela casa inteira.
+NARRADOR: Bia perde o passo e tosse novamente.
+NARRADOR: O esquerdo aparece sob um relâmpago da sala.
+
+[HUD: Relógio: 23:26]
+[SFX: trovao]
+NARRADOR: Você vê duas marcas curvas no alto do braço.
+NARRADOR: Não parecem arranhões. São dentes, afundados na pele.
+NARRADOR: A garota alcançou Bia atrás do carro, dez minutos atrás.
+NARRADOR: O rádio falou em oito a doze minutos para a mudança começar.
+NARRADOR: Bia já tosse. A dor já venceu o disfarce.
+NARRADOR: O aço protege as duas dos infectados no porão.
+NARRADOR: Agora você está presa do mesmo lado que uma mordida.
+
+LUNA: Foi mordida. Você mentiu pra mim.
+BIA: Se eu contasse, você ia parar na garagem.
+BIA: Eu sei. Tô começando a perder a força.
+LUNA: Não fala como se já tivesse acabado.
+BIA: Então me ajuda a decidir antes que acabe.
+
+[SFX: telefone]
+ANTONY: Luna? Vocês tão bem?
+LUNA: Antony, a Bia foi mordida.
+ANTONY: Quanto tempo faz?
+LUNA: Uns dez minutos.
+
+[TEXTO: DEZ MINUTOS DESDE A MORDIDA]
+NARRADOR: Você tem talvez dois minutos para escolher onde Bia fica.
+NARRADOR: Atrás da porta, três infectados batem. Diante dela, Bia espera.
+NARRADOR: Luna olha para a escada que leva à sala de vidro.
+NARRADOR: Bia olha para a porta de aço, sem pedir perdão.
+NARRADOR: A primeira escolha do próximo episódio já chegou.
+
+BIA: Luna... se eu mudar, pra qual lado você corre?

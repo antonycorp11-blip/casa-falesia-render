@@ -1,0 +1,2441 @@
+[
+  {
+    "i": 1,
+    "speaker": "NARRADOR",
+    "text": "Você tem dez segundos para sair da frente daquele vidro.",
+    "parte": 1,
+    "cena": "sala · lareira, sofá, vidro da varanda e chuva na falésia · Luna olha em volta; Bia aponta para a varanda; garota infectada bate no vidro",
+    "start": 0.0,
+    "end": 3.79
+  },
+  {
+    "i": 2,
+    "speaker": "NARRADOR",
+    "text": "Uma garota infectada bate na rachadura, olhando para a lareira.",
+    "parte": 1,
+    "cena": "sala · lareira, sofá, vidro da varanda e chuva na falésia · Luna olha em volta; Bia aponta para a varanda; garota infectada bate no vidro",
+    "start": 3.95,
+    "end": 8.11
+  },
+  {
+    "i": 3,
+    "speaker": "LUNA",
+    "text": "Ela viu a gente?",
+    "parte": 1,
+    "cena": "sala · lareira, sofá, vidro da varanda e chuva na falésia · Luna olha em volta; Bia aponta para a varanda; garota infectada bate no vidro",
+    "start": 8.39,
+    "end": 9.408
+  },
+  {
+    "i": 4,
+    "speaker": "BIA",
+    "text": "Cozinha. Agora.",
+    "parte": 1,
+    "cena": "sala · lareira, sofá, vidro da varanda e chuva na falésia · Luna olha em volta; Bia aponta para a varanda; garota infectada bate no vidro",
+    "start": 9.688,
+    "end": 11.238
+  },
+  {
+    "i": 5,
+    "speaker": "NARRADOR",
+    "text": "Você corre pela passagem aberta, com a falésia escura atrás do vidro.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 11.788,
+    "end": 16.58
+  },
+  {
+    "i": 6,
+    "speaker": "NARRADOR",
+    "text": "Um relâmpago revela mais sombras na chuva.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 16.74,
+    "end": 19.66
+  },
+  {
+    "i": 7,
+    "speaker": "NARRADOR",
+    "text": "Luna estava perto demais. Bia escolheu a passagem mais próxima.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 19.82,
+    "end": 23.9
+  },
+  {
+    "i": 8,
+    "speaker": "NARRADOR",
+    "text": "Então o problema ainda tem uma direção.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 24.06,
+    "end": 26.47
+  },
+  {
+    "i": 9,
+    "speaker": "NARRADOR",
+    "text": "Você pode fugir enquanto elas seguem a luz.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 26.63,
+    "end": 29.27
+  },
+  {
+    "i": 10,
+    "speaker": "NARRADOR",
+    "text": "Só que a casa inteira é feita para ser vista.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 29.43,
+    "end": 32.36
+  },
+  {
+    "i": 11,
+    "speaker": "LUNA",
+    "text": "Você contou dez segundos ou tava me assustando?",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 32.64,
+    "end": 35.663
+  },
+  {
+    "i": 12,
+    "speaker": "BIA",
+    "text": "Olha a rachadura. Ela já tá na porta.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 35.943,
+    "end": 38.301
+  },
+  {
+    "i": 13,
+    "speaker": "LUNA",
+    "text": "A gente devia ter escolhido uma casa com parede.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 38.581,
+    "end": 41.619
+  },
+  {
+    "i": 14,
+    "speaker": "BIA",
+    "text": "Anda, Luna. Atrás da bancada.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 41.899,
+    "end": 43.743
+  },
+  {
+    "i": 15,
+    "speaker": "LUNA",
+    "text": "Se ela entrar, eu corro pra onde?",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 44.023,
+    "end": 45.909
+  },
+  {
+    "i": 16,
+    "speaker": "BIA",
+    "text": "Garagem. O carro fica antes da escada.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 46.189,
+    "end": 48.718
+  },
+  {
+    "i": 17,
+    "speaker": "RADIO",
+    "text": "Alerta costeiro. Evitem luzes. Ruídos atraem os infectados.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 48.998,
+    "end": 52.768
+  },
+  {
+    "i": 18,
+    "speaker": "NARRADOR",
+    "text": "Você entende a regra quando a garota muda de lado no vidro.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 53.048,
+    "end": 56.568
+  },
+  {
+    "i": 19,
+    "speaker": "NARRADOR",
+    "text": "Ela acompanha o reflexo de Luna, mesmo sem ouvir sua voz.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 56.728,
+    "end": 60.528
+  },
+  {
+    "i": 20,
+    "speaker": "NARRADOR",
+    "text": "Bia se esconde agachada atrás da bancada. Luna faz o mesmo.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 60.688,
+    "end": 64.838
+  },
+  {
+    "i": 21,
+    "speaker": "NARRADOR",
+    "text": "Por um instante, o vidro mostra apenas a cozinha vazia.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 64.998,
+    "end": 68.548
+  },
+  {
+    "i": 22,
+    "speaker": "NARRADOR",
+    "text": "A garota para. Talvez tenha perdido as duas.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 68.708,
+    "end": 71.598
+  },
+  {
+    "i": 23,
+    "speaker": "LUNA",
+    "text": "Ela foi embora?",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 71.878,
+    "end": 72.722
+  },
+  {
+    "i": 24,
+    "speaker": "BIA",
+    "text": "Não levanta. Espera o próximo relâmpago.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 73.002,
+    "end": 75.582
+  },
+  {
+    "i": 25,
+    "speaker": "LUNA",
+    "text": "Essa é sua ideia de uma noite tranquila?",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 75.862,
+    "end": 78.156
+  },
+  {
+    "i": 26,
+    "speaker": "BIA",
+    "text": "Minha ideia era você ficar quieta.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 78.436,
+    "end": 80.396
+  },
+  {
+    "i": 27,
+    "speaker": "LUNA",
+    "text": "Eu tô quieta por fora. Por dentro, tô berrando.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 80.676,
+    "end": 83.586
+  },
+  {
+    "i": 28,
+    "speaker": "BIA",
+    "text": "Ótimo. Mantém essa divisão.",
+    "parte": 1,
+    "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+    "start": 83.866,
+    "end": 85.726
+  },
+  {
+    "i": 29,
+    "speaker": "NARRADOR",
+    "text": "O relâmpago mostra um policial atrás da garota.",
+    "parte": 1,
+    "cena": "cozinha · vista da sala pelo vidro rachado · Luna e Bia ficam imóveis atrás da bancada; policial infectado anda na varanda; garota infectada bate no vidro da sala",
+    "start": 86.276,
+    "end": 89.226
+  },
+  {
+    "i": 30,
+    "speaker": "NARRADOR",
+    "text": "Ele anda devagar, mas cada batida dele afunda a moldura.",
+    "parte": 1,
+    "cena": "cozinha · vista da sala pelo vidro rachado · Luna e Bia ficam imóveis atrás da bancada; policial infectado anda na varanda; garota infectada bate no vidro da sala",
+    "start": 89.386,
+    "end": 93.226
+  },
+  {
+    "i": 31,
+    "speaker": "NARRADOR",
+    "text": "Você ganhou distância. A porta da sala perdeu força.",
+    "parte": 1,
+    "cena": "cozinha · vista da sala pelo vidro rachado · Luna e Bia ficam imóveis atrás da bancada; policial infectado anda na varanda; garota infectada bate no vidro da sala",
+    "start": 93.386,
+    "end": 97.016
+  },
+  {
+    "i": 32,
+    "speaker": "NARRADOR",
+    "text": "A próxima pancada decide se a cozinha ainda é esconderijo.",
+    "parte": 1,
+    "cena": "cozinha · vista da sala pelo vidro rachado · Luna e Bia ficam imóveis atrás da bancada; policial infectado anda na varanda; garota infectada bate no vidro da sala",
+    "start": 97.176,
+    "end": 101.096
+  },
+  {
+    "i": 33,
+    "speaker": "NARRADOR",
+    "text": "Você vê a garota entrar pela abertura do vidro quebrado.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 101.946,
+    "end": 105.366
+  },
+  {
+    "i": 34,
+    "speaker": "NARRADOR",
+    "text": "Ela atravessa a sala sem um grito.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 105.526,
+    "end": 107.596
+  },
+  {
+    "i": 35,
+    "speaker": "NARRADOR",
+    "text": "A bancada esconde as duas só até ela virar.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 107.756,
+    "end": 110.506
+  },
+  {
+    "i": 36,
+    "speaker": "NARRADOR",
+    "text": "Bia aponta para a porta da garagem.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 110.666,
+    "end": 112.786
+  },
+  {
+    "i": 37,
+    "speaker": "NARRADOR",
+    "text": "Lá, o carro oferece sombra. Aqui, só existe vidro.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 112.946,
+    "end": 116.326
+  },
+  {
+    "i": 38,
+    "speaker": "LUNA",
+    "text": "Ela corre. O grandão mal anda.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 116.606,
+    "end": 118.485
+  },
+  {
+    "i": 39,
+    "speaker": "BIA",
+    "text": "Então acompanha a garota. Esquece o grandão por enquanto.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 118.765,
+    "end": 122.165
+  },
+  {
+    "i": 40,
+    "speaker": "LUNA",
+    "text": "Ela tá olhando pra cá?",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 122.445,
+    "end": 124.036
+  },
+  {
+    "i": 41,
+    "speaker": "BIA",
+    "text": "Ainda não. Vai agachada.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 124.316,
+    "end": 126.016
+  },
+  {
+    "i": 42,
+    "speaker": "LUNA",
+    "text": "O policial também entrou?",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 126.296,
+    "end": 127.809
+  },
+  {
+    "i": 43,
+    "speaker": "BIA",
+    "text": "Não. O vidro ainda segura o peso dele.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 128.089,
+    "end": 130.589
+  },
+  {
+    "i": 44,
+    "speaker": "LUNA",
+    "text": "Se ele entrar, a gente vai ter dois caminhos fechados.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 130.869,
+    "end": 134.243
+  },
+  {
+    "i": 45,
+    "speaker": "BIA",
+    "text": "Então usa o que tá livre agora.",
+    "parte": 2,
+    "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+    "start": 134.523,
+    "end": 136.283
+  },
+  {
+    "i": 46,
+    "speaker": "NARRADOR",
+    "text": "Você entra na garagem antes da garota alcançar a bancada.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 136.833,
+    "end": 140.413
+  },
+  {
+    "i": 47,
+    "speaker": "NARRADOR",
+    "text": "Bia empurra a porta. Ela não encaixa completamente.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 140.573,
+    "end": 143.823
+  },
+  {
+    "i": 48,
+    "speaker": "NARRADOR",
+    "text": "Uma fresta fina deixa passar a luz da cozinha.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 143.983,
+    "end": 146.923
+  },
+  {
+    "i": 49,
+    "speaker": "NARRADOR",
+    "text": "Do outro lado, a garota para diante daquela linha clara.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 147.083,
+    "end": 150.813
+  },
+  {
+    "i": 50,
+    "speaker": "NARRADOR",
+    "text": "A sombra do corpo dela corta a fresta.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 150.973,
+    "end": 153.453
+  },
+  {
+    "i": 51,
+    "speaker": "NARRADOR",
+    "text": "Luna cobre a boca. Bia também fica imóvel.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 153.613,
+    "end": 156.443
+  },
+  {
+    "i": 52,
+    "speaker": "NARRADOR",
+    "text": "O telefone de Luna toca atrás do carro.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 156.603,
+    "end": 159.153
+  },
+  {
+    "i": 53,
+    "speaker": "NARRADOR",
+    "text": "A garota corre para a porta da garagem no primeiro toque.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 159.313,
+    "end": 163.043
+  },
+  {
+    "i": 54,
+    "speaker": "NARRADOR",
+    "text": "Você aprende a segunda regra no pior momento.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 163.203,
+    "end": 165.783
+  },
+  {
+    "i": 55,
+    "speaker": "NARRADOR",
+    "text": "A luz apontou a casa. O som apontou o esconderijo.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 165.943,
+    "end": 169.263
+  },
+  {
+    "i": 56,
+    "speaker": "LUNA",
+    "text": "É o Antony. Eu desligo?",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 169.543,
+    "end": 171.203
+  },
+  {
+    "i": 57,
+    "speaker": "BIA",
+    "text": "Atende. Sem viva voz. Rápido.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 171.483,
+    "end": 173.423
+  },
+  {
+    "i": 58,
+    "speaker": "LUNA",
+    "text": "Antony? Fala baixo.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 173.703,
+    "end": 175.213
+  },
+  {
+    "i": 59,
+    "speaker": "ANTONY",
+    "text": "Tô ouvindo sirenes. Onde você tá?",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 175.493,
+    "end": 177.313
+  },
+  {
+    "i": 60,
+    "speaker": "LUNA",
+    "text": "Presa na garagem. Tem gente infectada dentro.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 177.593,
+    "end": 180.463
+  },
+  {
+    "i": 61,
+    "speaker": "ANTONY",
+    "text": "A porta do porão é de aço. Usa ela.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 180.743,
+    "end": 182.493
+  },
+  {
+    "i": 62,
+    "speaker": "LUNA",
+    "text": "Eu sei. Só falta chegar lá.",
+    "parte": 2,
+    "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+    "start": 182.773,
+    "end": 184.593
+  },
+  {
+    "i": 63,
+    "speaker": "NARRADOR",
+    "text": "Você vê a porta abrir antes da ligação terminar.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 185.143,
+    "end": 187.873
+  },
+  {
+    "i": 64,
+    "speaker": "NARRADOR",
+    "text": "A garota segue o brilho do telefone pelo chão.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 188.033,
+    "end": 190.993
+  },
+  {
+    "i": 65,
+    "speaker": "NARRADOR",
+    "text": "Bia aponta para a escada, longe da porta.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 191.153,
+    "end": 193.763
+  },
+  {
+    "i": 66,
+    "speaker": "NARRADOR",
+    "text": "O policial bate no vidro quebrado da sala.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 193.923,
+    "end": 196.633
+  },
+  {
+    "i": 67,
+    "speaker": "NARRADOR",
+    "text": "São duas ameaças em velocidades diferentes.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 196.793,
+    "end": 199.85
+  },
+  {
+    "i": 68,
+    "speaker": "NARRADOR",
+    "text": "Nenhuma permite voltar pelo caminho usado.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 200.01,
+    "end": 202.969
+  },
+  {
+    "i": 69,
+    "speaker": "BIA",
+    "text": "Luna. Escada. Agora.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 203.249,
+    "end": 204.909
+  },
+  {
+    "i": 70,
+    "speaker": "LUNA",
+    "text": "Antony, preciso ir.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 205.189,
+    "end": 206.449
+  },
+  {
+    "i": 71,
+    "speaker": "ANTONY",
+    "text": "Luna? Luna!",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 206.729,
+    "end": 207.995
+  },
+  {
+    "i": 72,
+    "speaker": "LUNA",
+    "text": "Ele não ouviu o que aconteceu.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 208.275,
+    "end": 210.035
+  },
+  {
+    "i": 73,
+    "speaker": "BIA",
+    "text": "Melhor assim. Fala com ele quando sairmos.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 210.315,
+    "end": 212.955
+  },
+  {
+    "i": 74,
+    "speaker": "NARRADOR",
+    "text": "Você sai da sombra, mas a garota já virou para Bia.",
+    "parte": 2,
+    "cena": "garagem · porta entreaberta e carro na sombra · Luna fala ao telefone; Bia aponta para a escada; garota infectada bate na porta da cozinha e anda na garagem",
+    "start": 213.235,
+    "end": 216.415
+  },
+  {
+    "i": 75,
+    "speaker": "NARRADOR",
+    "text": "Você vê a garota contornar o carro mais rápido que Bia.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 217.265,
+    "end": 220.595
+  },
+  {
+    "i": 76,
+    "speaker": "NARRADOR",
+    "text": "Ela ataca junto ao acesso da escada.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 220.755,
+    "end": 222.895
+  },
+  {
+    "i": 77,
+    "speaker": "NARRADOR",
+    "text": "Bia cai no último espaço de sombra.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 223.055,
+    "end": 225.095
+  },
+  {
+    "i": 78,
+    "speaker": "NARRADOR",
+    "text": "Por um segundo, as duas somem atrás da carroceria.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 225.255,
+    "end": 228.535
+  },
+  {
+    "i": 79,
+    "speaker": "NARRADOR",
+    "text": "Luna ouve um grito curto. Não sabe de qual boca veio.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 228.695,
+    "end": 232.165
+  },
+  {
+    "i": 80,
+    "speaker": "NARRADOR",
+    "text": "Quando Bia levanta, o braço esquerdo fica junto ao corpo.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 232.325,
+    "end": 235.985
+  },
+  {
+    "i": 81,
+    "speaker": "NARRADOR",
+    "text": "A garota ainda está entre elas e a cozinha.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 236.145,
+    "end": 238.855
+  },
+  {
+    "i": 82,
+    "speaker": "LUNA",
+    "text": "Bia! Ela pegou você?",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 239.135,
+    "end": 240.78
+  },
+  {
+    "i": 83,
+    "speaker": "BIA",
+    "text": "Me arranhou. Escada, Luna.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 241.06,
+    "end": 242.89
+  },
+  {
+    "i": 84,
+    "speaker": "LUNA",
+    "text": "Deixa eu ver seu braço.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 243.17,
+    "end": 244.53
+  },
+  {
+    "i": 85,
+    "speaker": "BIA",
+    "text": "Depois. Ela tá vindo.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 244.81,
+    "end": 246.577
+  },
+  {
+    "i": 86,
+    "speaker": "LUNA",
+    "text": "Você tá tremendo.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 246.857,
+    "end": 247.934
+  },
+  {
+    "i": 87,
+    "speaker": "BIA",
+    "text": "Eu tô correndo. Vai.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 248.214,
+    "end": 249.864
+  },
+  {
+    "i": 88,
+    "speaker": "LUNA",
+    "text": "Se foi só arranhão, mostra quando descermos.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 250.144,
+    "end": 252.844
+  },
+  {
+    "i": 89,
+    "speaker": "BIA",
+    "text": "Mostro. Mas não me faz parar aqui.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 253.124,
+    "end": 255.334
+  },
+  {
+    "i": 90,
+    "speaker": "LUNA",
+    "text": "Eu não vou te deixar sozinha com ela.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 255.614,
+    "end": 257.464
+  },
+  {
+    "i": 91,
+    "speaker": "BIA",
+    "text": "Então fica na minha frente e abre caminho.",
+    "parte": 3,
+    "cena": "garagem · carro entre a porta da cozinha e a escada · Luna corre para a escada; Bia corre para longe da garota; garota infectada corre ao redor do carro, ataca e morde Bia atrás da carroceria",
+    "start": 257.744,
+    "end": 260.634
+  },
+  {
+    "i": 92,
+    "speaker": "NARRADOR",
+    "text": "Você desce para longe da garota, contando degraus pela respiração.",
+    "parte": 3,
+    "cena": "escada · sala acima e porta de aço do porão abaixo · Luna desce escada; Bia desce escada; garota infectada corre atrás delas",
+    "start": 261.184,
+    "end": 265.494
+  },
+  {
+    "i": 93,
+    "speaker": "NARRADOR",
+    "text": "Bia conhece a casa. A porta de aço fica no fim.",
+    "parte": 3,
+    "cena": "escada · sala acima e porta de aço do porão abaixo · Luna desce escada; Bia desce escada; garota infectada corre atrás delas",
+    "start": 265.654,
+    "end": 268.694
+  },
+  {
+    "i": 94,
+    "speaker": "NARRADOR",
+    "text": "A luz da sala não alcança os últimos degraus.",
+    "parte": 3,
+    "cena": "escada · sala acima e porta de aço do porão abaixo · Luna desce escada; Bia desce escada; garota infectada corre atrás delas",
+    "start": 268.854,
+    "end": 271.704
+  },
+  {
+    "i": 95,
+    "speaker": "NARRADOR",
+    "text": "No escuro, o braço de Bia encosta na parede.",
+    "parte": 3,
+    "cena": "escada · sala acima e porta de aço do porão abaixo · Luna desce escada; Bia desce escada; garota infectada corre atrás delas",
+    "start": 271.864,
+    "end": 274.674
+  },
+  {
+    "i": 96,
+    "speaker": "NARRADOR",
+    "text": "Ela para por meio segundo, como se a dor tivesse endereço.",
+    "parte": 3,
+    "cena": "escada · sala acima e porta de aço do porão abaixo · Luna desce escada; Bia desce escada; garota infectada corre atrás delas",
+    "start": 274.834,
+    "end": 278.514
+  },
+  {
+    "i": 97,
+    "speaker": "NARRADOR",
+    "text": "Luna olha para trás. A garota já desce.",
+    "parte": 3,
+    "cena": "escada · sala acima e porta de aço do porão abaixo · Luna desce escada; Bia desce escada; garota infectada corre atrás delas",
+    "start": 278.674,
+    "end": 281.284
+  },
+  {
+    "i": 98,
+    "speaker": "NARRADOR",
+    "text": "Você não tem tempo para perguntar outra vez.",
+    "parte": 3,
+    "cena": "escada · sala acima e porta de aço do porão abaixo · Luna desce escada; Bia desce escada; garota infectada corre atrás delas",
+    "start": 281.444,
+    "end": 284.394
+  },
+  {
+    "i": 99,
+    "speaker": "NARRADOR",
+    "text": "Você empurra a porta de aço. Ela não cede.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 284.944,
+    "end": 287.354
+  },
+  {
+    "i": 100,
+    "speaker": "NARRADOR",
+    "text": "Bia empurra também, usando o ombro direito.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 287.514,
+    "end": 290.354
+  },
+  {
+    "i": 101,
+    "speaker": "NARRADOR",
+    "text": "O lado esquerdo continua duro, protegido pela sombra.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 290.514,
+    "end": 294.184
+  },
+  {
+    "i": 102,
+    "speaker": "NARRADOR",
+    "text": "O aço vibra, mas o batente permanece preso.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 294.344,
+    "end": 297.324
+  },
+  {
+    "i": 103,
+    "speaker": "NARRADOR",
+    "text": "A garota segue o estrondo e bate na porta à frente delas.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 297.484,
+    "end": 301.064
+  },
+  {
+    "i": 104,
+    "speaker": "LUNA",
+    "text": "Tá emperrada. Mais forte!",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 301.344,
+    "end": 303.074
+  },
+  {
+    "i": 105,
+    "speaker": "BIA",
+    "text": "Não é força. O batente entortou.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 303.354,
+    "end": 305.244
+  },
+  {
+    "i": 106,
+    "speaker": "LUNA",
+    "text": "O que a gente faz?",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 305.524,
+    "end": 306.608
+  },
+  {
+    "i": 107,
+    "speaker": "BIA",
+    "text": "Volta pela escada. Ela tá na porta, do lado esquerdo.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 306.888,
+    "end": 310.278
+  },
+  {
+    "i": 108,
+    "speaker": "LUNA",
+    "text": "Você enlouqueceu?",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 310.558,
+    "end": 311.691
+  },
+  {
+    "i": 109,
+    "speaker": "BIA",
+    "text": "O lado direito tá livre. Agora!",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 311.971,
+    "end": 313.931
+  },
+  {
+    "i": 110,
+    "speaker": "LUNA",
+    "text": "Ela vai ver a gente sair daqui.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 314.211,
+    "end": 316.027
+  },
+  {
+    "i": 111,
+    "speaker": "BIA",
+    "text": "Se continuar batendo, vai olhar pro aço.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 316.307,
+    "end": 318.917
+  },
+  {
+    "i": 112,
+    "speaker": "LUNA",
+    "text": "Você tem certeza?",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 319.197,
+    "end": 320.287
+  },
+  {
+    "i": 113,
+    "speaker": "BIA",
+    "text": "Não. É o que temos.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 320.567,
+    "end": 322.107
+  },
+  {
+    "i": 114,
+    "speaker": "NARRADOR",
+    "text": "Você perdeu o abrigo. Só resta subir pelo lado livre.",
+    "parte": 3,
+    "cena": "escada · porta de aço no fim da escada · Luna empurra a porta e se esconde agachada atrás do corrimão; Bia empurra a porta e se esconde agachada atrás do corrimão; garota infectada corre para a porta de aço e bate nela",
+    "start": 322.387,
+    "end": 326.067
+  },
+  {
+    "i": 115,
+    "speaker": "NARRADOR",
+    "text": "Você sobe enquanto a garota continua batendo na porta abaixo.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 326.917,
+    "end": 330.927
+  },
+  {
+    "i": 116,
+    "speaker": "NARRADOR",
+    "text": "Ela olha para o aço, sem notar as duas no escuro.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 331.087,
+    "end": 334.327
+  },
+  {
+    "i": 117,
+    "speaker": "NARRADOR",
+    "text": "Bia acerta: o som distrai a garota por segundos.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 334.487,
+    "end": 337.657
+  },
+  {
+    "i": 118,
+    "speaker": "NARRADOR",
+    "text": "Luna chega à sala primeiro. O policial está perto da lareira.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 337.817,
+    "end": 341.727
+  },
+  {
+    "i": 119,
+    "speaker": "NARRADOR",
+    "text": "Ele anda devagar, mas bloqueia a passagem para a cozinha.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 341.887,
+    "end": 345.847
+  },
+  {
+    "i": 120,
+    "speaker": "LUNA",
+    "text": "Tem o policial na sala.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 346.127,
+    "end": 347.427
+  },
+  {
+    "i": 121,
+    "speaker": "BIA",
+    "text": "Atrás do sofá. Sem correr.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 347.707,
+    "end": 349.377
+  },
+  {
+    "i": 122,
+    "speaker": "LUNA",
+    "text": "Ele vai ver meu cabelo até no escuro.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 349.657,
+    "end": 351.807
+  },
+  {
+    "i": 123,
+    "speaker": "BIA",
+    "text": "Então fica imóvel. Igual eu.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 352.087,
+    "end": 353.996
+  },
+  {
+    "i": 124,
+    "speaker": "LUNA",
+    "text": "Você ficou com alguma coisa no braço?",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 354.276,
+    "end": 355.78
+  },
+  {
+    "i": 125,
+    "speaker": "BIA",
+    "text": "Luna, olha pra frente. Tem um sofá.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 356.06,
+    "end": 358.31
+  },
+  {
+    "i": 126,
+    "speaker": "LUNA",
+    "text": "Você desviou da pergunta de novo.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 358.59,
+    "end": 360.589
+  },
+  {
+    "i": 127,
+    "speaker": "BIA",
+    "text": "Porque agora a resposta faz barulho.",
+    "parte": 4,
+    "cena": "escada · porta de aço abaixo e sala acima · Luna sobe escada pelo lado direito; Bia sobe escada pelo lado direito; garota infectada bate na porta de aço abaixo delas",
+    "start": 360.869,
+    "end": 362.699
+  },
+  {
+    "i": 128,
+    "speaker": "NARRADOR",
+    "text": "Você cai atrás do sofá e fica imóvel como um corpo morto.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 363.249,
+    "end": 367.049
+  },
+  {
+    "i": 129,
+    "speaker": "NARRADOR",
+    "text": "O policial segue o estalo da escada, não o cabelo rosa.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 367.209,
+    "end": 370.609
+  },
+  {
+    "i": 130,
+    "speaker": "NARRADOR",
+    "text": "Bia fica ao lado de Luna. O braço esquerdo não encosta no chão.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 370.769,
+    "end": 375.069
+  },
+  {
+    "i": 131,
+    "speaker": "NARRADOR",
+    "text": "Luna prende o riso nervoso antes de virar som.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 375.229,
+    "end": 378.009
+  },
+  {
+    "i": 132,
+    "speaker": "NARRADOR",
+    "text": "Ele fareja o ar. Você percebe o risco novo.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 378.169,
+    "end": 380.979
+  },
+  {
+    "i": 133,
+    "speaker": "NARRADOR",
+    "text": "Se Bia estiver sangrando, silêncio talvez não baste.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 381.139,
+    "end": 384.769
+  },
+  {
+    "i": 134,
+    "speaker": "NARRADOR",
+    "text": "A garota grita lá embaixo, diante da porta presa.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 384.929,
+    "end": 387.919
+  },
+  {
+    "i": 135,
+    "speaker": "NARRADOR",
+    "text": "O policial muda de direção e anda para a escada.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 388.079,
+    "end": 391.209
+  },
+  {
+    "i": 136,
+    "speaker": "NARRADOR",
+    "text": "As duas continuam imóveis até o último passo dele desaparecer.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 391.369,
+    "end": 395.359
+  },
+  {
+    "i": 137,
+    "speaker": "NARRADOR",
+    "text": "O truque funcionou uma vez. O sangue pode anulá-lo na próxima.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 395.519,
+    "end": 399.688
+  },
+  {
+    "i": 138,
+    "speaker": "LUNA",
+    "text": "Você tá sangrando?",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 399.968,
+    "end": 401.112
+  },
+  {
+    "i": 139,
+    "speaker": "BIA",
+    "text": "Foi só um arranhão. Quase nada.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 401.392,
+    "end": 403.482
+  },
+  {
+    "i": 140,
+    "speaker": "LUNA",
+    "text": "Você fala isso como se eu fosse acreditar.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 403.762,
+    "end": 406.362
+  },
+  {
+    "i": 141,
+    "speaker": "BIA",
+    "text": "Acredita depois. Agora olha a cozinha.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 406.642,
+    "end": 409.181
+  },
+  {
+    "i": 142,
+    "speaker": "LUNA",
+    "text": "O policial vai descer?",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 409.461,
+    "end": 410.881
+  },
+  {
+    "i": 143,
+    "speaker": "BIA",
+    "text": "Vai seguir o grito. A gente segue pro outro lado.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 411.161,
+    "end": 413.981
+  },
+  {
+    "i": 144,
+    "speaker": "LUNA",
+    "text": "Se ele voltar, eu fico parada outra vez?",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 414.261,
+    "end": 416.63
+  },
+  {
+    "i": 145,
+    "speaker": "BIA",
+    "text": "Só se ele não estiver farejando.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 416.91,
+    "end": 418.7
+  },
+  {
+    "i": 146,
+    "speaker": "LUNA",
+    "text": "Como eu vou saber a diferença?",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 418.98,
+    "end": 420.66
+  },
+  {
+    "i": 147,
+    "speaker": "BIA",
+    "text": "Se chegar perto, você vai saber.",
+    "parte": 4,
+    "cena": "sala · sofá entre escada e policial · Luna cai atrás do sofá e fica imóvel; Bia cai atrás do sofá e fica imóvel; policial infectado anda perto da lareira",
+    "start": 420.94,
+    "end": 422.8
+  },
+  {
+    "i": 148,
+    "speaker": "NARRADOR",
+    "text": "Você vê a cozinha livre pela primeira vez em minutos.",
+    "parte": 4,
+    "cena": "sala · passagem livre para cozinha e escada atrás do sofá · Luna espia a cozinha; Bia olha em volta; policial infectado anda pela escada; corredor corre na varanda",
+    "start": 423.35,
+    "end": 427.05
+  },
+  {
+    "i": 149,
+    "speaker": "NARRADOR",
+    "text": "Então outra sombra corta a varanda.",
+    "parte": 4,
+    "cena": "sala · passagem livre para cozinha e escada atrás do sofá · Luna espia a cozinha; Bia olha em volta; policial infectado anda pela escada; corredor corre na varanda",
+    "start": 427.21,
+    "end": 429.5
+  },
+  {
+    "i": 150,
+    "speaker": "NARRADOR",
+    "text": "Ela corre mais rápido que a garota e mira o vidro quebrado.",
+    "parte": 4,
+    "cena": "sala · passagem livre para cozinha e escada atrás do sofá · Luna espia a cozinha; Bia olha em volta; policial infectado anda pela escada; corredor corre na varanda",
+    "start": 429.66,
+    "end": 433.41
+  },
+  {
+    "i": 151,
+    "speaker": "NARRADOR",
+    "text": "A saída pela cozinha vai desaparecer em segundos.",
+    "parte": 4,
+    "cena": "sala · passagem livre para cozinha e escada atrás do sofá · Luna espia a cozinha; Bia olha em volta; policial infectado anda pela escada; corredor corre na varanda",
+    "start": 433.57,
+    "end": 436.82
+  },
+  {
+    "i": 152,
+    "speaker": "NARRADOR",
+    "text": "Você corre para a cozinha antes do corredor atravessar a abertura.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 437.67,
+    "end": 442.12
+  },
+  {
+    "i": 153,
+    "speaker": "NARRADOR",
+    "text": "Ele ataca o sofá onde as duas estavam imóveis.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 442.28,
+    "end": 445.27
+  },
+  {
+    "i": 154,
+    "speaker": "NARRADOR",
+    "text": "O sofá compra distância, mas o corredor já fareja a sala.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 445.43,
+    "end": 449.15
+  },
+  {
+    "i": 155,
+    "speaker": "NARRADOR",
+    "text": "Luna vê uma mancha escura na regata preta.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 449.31,
+    "end": 452.01
+  },
+  {
+    "i": 156,
+    "speaker": "NARRADOR",
+    "text": "Naquela luz, sangue parece apenas chuva.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 452.17,
+    "end": 454.86
+  },
+  {
+    "i": 157,
+    "speaker": "LUNA",
+    "text": "Sua blusa tá molhada.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 455.14,
+    "end": 456.71
+  },
+  {
+    "i": 158,
+    "speaker": "BIA",
+    "text": "A casa inteira tá molhada.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 456.99,
+    "end": 458.32
+  },
+  {
+    "i": 159,
+    "speaker": "LUNA",
+    "text": "Não foi isso que eu perguntei.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 458.6,
+    "end": 460.27
+  },
+  {
+    "i": 160,
+    "speaker": "BIA",
+    "text": "Depois. Primeiro a garagem.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 460.55,
+    "end": 462.56
+  },
+  {
+    "i": 161,
+    "speaker": "LUNA",
+    "text": "Você disse isso lá embaixo.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 462.84,
+    "end": 464.558
+  },
+  {
+    "i": 162,
+    "speaker": "BIA",
+    "text": "Porque ainda estamos correndo.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 464.838,
+    "end": 466.518
+  },
+  {
+    "i": 163,
+    "speaker": "LUNA",
+    "text": "A sua voz tá diferente.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 466.798,
+    "end": 468.158
+  },
+  {
+    "i": 164,
+    "speaker": "BIA",
+    "text": "A sua também. A gente conversa com a porta fechada.",
+    "parte": 5,
+    "cena": "sala · vidro quebrado da varanda e sofá · Luna corre pela passagem para a cozinha; Bia corre atrás; corredor corre na varanda e ataca pelo vidro quebrado",
+    "start": 468.438,
+    "end": 471.654
+  },
+  {
+    "i": 165,
+    "speaker": "NARRADOR",
+    "text": "Você volta à bancada, agora sem a proteção do vidro intacto.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 472.204,
+    "end": 476.124
+  },
+  {
+    "i": 166,
+    "speaker": "NARRADOR",
+    "text": "O corredor entra pela passagem atrás delas.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 476.284,
+    "end": 479.134
+  },
+  {
+    "i": 167,
+    "speaker": "NARRADOR",
+    "text": "O telefone de Luna ilumina a porta da garagem por um instante.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 479.294,
+    "end": 483.124
+  },
+  {
+    "i": 168,
+    "speaker": "NARRADOR",
+    "text": "Ele muda de direção para aquele quadrado de luz.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 483.284,
+    "end": 486.194
+  },
+  {
+    "i": 169,
+    "speaker": "NARRADOR",
+    "text": "Luna olha para Bia. Bia aponta para a sombra atrás da bancada.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 486.354,
+    "end": 490.454
+  },
+  {
+    "i": 170,
+    "speaker": "NARRADOR",
+    "text": "As duas ficam imóveis enquanto ele investiga a porta iluminada.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 490.614,
+    "end": 495.094
+  },
+  {
+    "i": 171,
+    "speaker": "LUNA",
+    "text": "Eu vou chamar ele pra garagem.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 495.374,
+    "end": 497.241
+  },
+  {
+    "i": 172,
+    "speaker": "BIA",
+    "text": "Não. Ele já foi. Espera passar.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 497.521,
+    "end": 499.461
+  },
+  {
+    "i": 173,
+    "speaker": "LUNA",
+    "text": "Você sempre tem uma ordem pronta?",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 499.741,
+    "end": 501.485
+  },
+  {
+    "i": 174,
+    "speaker": "BIA",
+    "text": "Só quando tô com medo.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 501.765,
+    "end": 502.915
+  },
+  {
+    "i": 175,
+    "speaker": "LUNA",
+    "text": "Ah. Finalmente uma frase sincera.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 503.195,
+    "end": 505.235
+  },
+  {
+    "i": 176,
+    "speaker": "LUNA",
+    "text": "Achei que você não sentia nada.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 505.395,
+    "end": 507.065
+  },
+  {
+    "i": 177,
+    "speaker": "BIA",
+    "text": "Sinto. Só faço as contas primeiro.",
+    "parte": 5,
+    "cena": "cozinha · bancada, passagem da sala e porta da garagem · Luna anda agachada atrás da bancada; Bia anda agachada e aponta para a garagem; corredor corre da sala para a cozinha",
+    "start": 507.345,
+    "end": 509.705
+  },
+  {
+    "i": 178,
+    "speaker": "NARRADOR",
+    "text": "Você ouve a porta abrir e os passos sumirem na garagem.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 510.255,
+    "end": 513.755
+  },
+  {
+    "i": 179,
+    "speaker": "NARRADOR",
+    "text": "O corredor seguiu o brilho, longe das duas.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 513.915,
+    "end": 516.725
+  },
+  {
+    "i": 180,
+    "speaker": "NARRADOR",
+    "text": "Mas a escada também se abre pela garagem.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 516.885,
+    "end": 519.235
+  },
+  {
+    "i": 181,
+    "speaker": "NARRADOR",
+    "text": "O caminho até o porão continua sob os pés dele.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 519.395,
+    "end": 522.295
+  },
+  {
+    "i": 182,
+    "speaker": "NARRADOR",
+    "text": "Bia tosse uma vez e cobre a boca depressa.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 522.455,
+    "end": 525.025
+  },
+  {
+    "i": 183,
+    "speaker": "NARRADOR",
+    "text": "Luna olha. Bia nega com a cabeça, imóvel no escuro.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 525.185,
+    "end": 528.605
+  },
+  {
+    "i": 184,
+    "speaker": "LUNA",
+    "text": "Isso é tosse de medo?",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 528.885,
+    "end": 530.275
+  },
+  {
+    "i": 185,
+    "speaker": "BIA",
+    "text": "É poeira. Fica baixa.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 530.555,
+    "end": 532.245
+  },
+  {
+    "i": 186,
+    "speaker": "LUNA",
+    "text": "Bia, olha pra mim.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 532.525,
+    "end": 534.087
+  },
+  {
+    "i": 187,
+    "speaker": "BIA",
+    "text": "Olha pra sala. O policial pode voltar.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 534.367,
+    "end": 536.777
+  },
+  {
+    "i": 188,
+    "speaker": "RADIO",
+    "text": "Mordidos podem mudar entre oito e doze minutos. Mantenham distância.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 537.057,
+    "end": 540.707
+  },
+  {
+    "i": 189,
+    "speaker": "LUNA",
+    "text": "Você ouviu? Oito minutos.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 540.987,
+    "end": 542.816
+  },
+  {
+    "i": 190,
+    "speaker": "BIA",
+    "text": "Ouvi. A gente precisa fechar aquela porta.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 543.096,
+    "end": 545.846
+  },
+  {
+    "i": 191,
+    "speaker": "NARRADOR",
+    "text": "Você ouve aço bater no fim da escada.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 546.126,
+    "end": 548.456
+  },
+  {
+    "i": 192,
+    "speaker": "NARRADOR",
+    "text": "O policial encontrou a porta presa.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 548.616,
+    "end": 550.636
+  },
+  {
+    "i": 193,
+    "speaker": "NARRADOR",
+    "text": "Talvez a força dele resolva o que as duas não conseguiram.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 550.796,
+    "end": 554.836
+  },
+  {
+    "i": 194,
+    "speaker": "NARRADOR",
+    "text": "Mas o corredor ouviu a mesma batida.",
+    "parte": 5,
+    "cena": "cozinha · bancada entre as jovens e a garagem · Luna e Bia ficam imóveis atrás da bancada; corredor ataca a porta da garagem e corre para dentro",
+    "start": 554.996,
+    "end": 557.366
+  },
+  {
+    "i": 195,
+    "speaker": "NARRADOR",
+    "text": "Você espera o corredor abandonar a garagem pelo acesso da escada.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 558.216,
+    "end": 562.564
+  },
+  {
+    "i": 196,
+    "speaker": "NARRADOR",
+    "text": "Ele segue a pancada de aço até o porão.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 562.724,
+    "end": 565.074
+  },
+  {
+    "i": 197,
+    "speaker": "NARRADOR",
+    "text": "A garagem fica livre, mas a sala não.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 565.234,
+    "end": 567.594
+  },
+  {
+    "i": 198,
+    "speaker": "NARRADOR",
+    "text": "Bia aponta para a garagem. Luna entende sem outra ordem.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 567.754,
+    "end": 571.504
+  },
+  {
+    "i": 199,
+    "speaker": "NARRADOR",
+    "text": "Elas terão poucos segundos antes de alguém voltar.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 571.664,
+    "end": 574.594
+  },
+  {
+    "i": 200,
+    "speaker": "LUNA",
+    "text": "Se ele tá na escada, a gente fica presa.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 574.874,
+    "end": 577.14
+  },
+  {
+    "i": 201,
+    "speaker": "BIA",
+    "text": "Ele desce rápido. Depois olhamos o caminho.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 577.42,
+    "end": 580.19
+  },
+  {
+    "i": 202,
+    "speaker": "LUNA",
+    "text": "Você tá pálida.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 580.47,
+    "end": 581.47
+  },
+  {
+    "i": 203,
+    "speaker": "BIA",
+    "text": "É o relâmpago. Anda.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 581.75,
+    "end": 583.28
+  },
+  {
+    "i": 204,
+    "speaker": "LUNA",
+    "text": "Você tá me pedindo pra acreditar em muita coisa.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 583.56,
+    "end": 586.589
+  },
+  {
+    "i": 205,
+    "speaker": "BIA",
+    "text": "Então acredita no que vê. A garagem tá vazia.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 586.869,
+    "end": 589.649
+  },
+  {
+    "i": 206,
+    "speaker": "LUNA",
+    "text": "E a escada tá cheia deles.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 589.929,
+    "end": 591.679
+  },
+  {
+    "i": 207,
+    "speaker": "BIA",
+    "text": "Por enquanto.",
+    "parte": 6,
+    "cena": "cozinha · bancada e passagens para sala e garagem · Luna espia a garagem; Bia espia a sala; corredor corre da garagem para a escada",
+    "start": 591.959,
+    "end": 592.819
+  },
+  {
+    "i": 208,
+    "speaker": "NARRADOR",
+    "text": "Você chega ao carro. O policial bate outra vez lá embaixo.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 593.369,
+    "end": 597.319
+  },
+  {
+    "i": 209,
+    "speaker": "NARRADOR",
+    "text": "O metal responde com um rangido diferente.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 597.479,
+    "end": 600.539
+  },
+  {
+    "i": 210,
+    "speaker": "NARRADOR",
+    "text": "A garota grita, e o corredor desce atrás dela.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 600.699,
+    "end": 603.499
+  },
+  {
+    "i": 211,
+    "speaker": "NARRADOR",
+    "text": "Três infectados ficam concentrados no fim da escada.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 603.659,
+    "end": 606.879
+  },
+  {
+    "i": 212,
+    "speaker": "NARRADOR",
+    "text": "Isso deixa o topo livre. Também fecha o porão para vocês.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 607.039,
+    "end": 610.789
+  },
+  {
+    "i": 213,
+    "speaker": "NARRADOR",
+    "text": "Luna olha para o vidro da sala, cheio de sombras.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 610.949,
+    "end": 614.169
+  },
+  {
+    "i": 214,
+    "speaker": "LUNA",
+    "text": "Eles tão todos no porão. Ótimo plano.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 614.449,
+    "end": 616.705
+  },
+  {
+    "i": 215,
+    "speaker": "BIA",
+    "text": "Ainda não entraram. Espera a próxima batida.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 616.985,
+    "end": 619.965
+  },
+  {
+    "i": 216,
+    "speaker": "LUNA",
+    "text": "Você tá contando com o policial?",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 620.245,
+    "end": 622.024
+  },
+  {
+    "i": 217,
+    "speaker": "BIA",
+    "text": "Tô contando com o peso dele.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 622.304,
+    "end": 623.844
+  },
+  {
+    "i": 218,
+    "speaker": "LUNA",
+    "text": "E se ele abrir antes da gente descer?",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 624.124,
+    "end": 626.204
+  },
+  {
+    "i": 219,
+    "speaker": "BIA",
+    "text": "A gente espera eles entrarem.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 626.484,
+    "end": 628.084
+  },
+  {
+    "i": 220,
+    "speaker": "LUNA",
+    "text": "E fecha a porta atrás deles?",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 628.364,
+    "end": 630.084
+  },
+  {
+    "i": 221,
+    "speaker": "BIA",
+    "text": "Essa é a conta.",
+    "parte": 6,
+    "cena": "garagem · carro e acesso à escada · Luna anda agachada atrás do carro; Bia anda agachada atrás do carro; corredor corre pela escada; policial infectado bate na porta de aço",
+    "start": 630.364,
+    "end": 631.914
+  },
+  {
+    "i": 222,
+    "speaker": "NARRADOR",
+    "text": "Você escuta o batente soltar na terceira pancada.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 632.464,
+    "end": 635.354
+  },
+  {
+    "i": 223,
+    "speaker": "NARRADOR",
+    "text": "A porta abre para dentro do porão.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 635.514,
+    "end": 637.694
+  },
+  {
+    "i": 224,
+    "speaker": "NARRADOR",
+    "text": "O policial entra primeiro, atraído pelo eco do próprio golpe.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 637.854,
+    "end": 641.854
+  },
+  {
+    "i": 225,
+    "speaker": "NARRADOR",
+    "text": "A garota corre atrás dele. O corredor fareja junto à entrada.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 642.014,
+    "end": 645.924
+  },
+  {
+    "i": 226,
+    "speaker": "NARRADOR",
+    "text": "Bia fica imóvel. Luna cobre a boca.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 646.084,
+    "end": 648.274
+  },
+  {
+    "i": 227,
+    "speaker": "NARRADOR",
+    "text": "O cheiro do braço esquerdo quase entrega o esconderijo.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 648.434,
+    "end": 652.194
+  },
+  {
+    "i": 228,
+    "speaker": "NARRADOR",
+    "text": "Uma batida de trovão leva o corredor para dentro.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 652.354,
+    "end": 655.311
+  },
+  {
+    "i": 229,
+    "speaker": "NARRADOR",
+    "text": "Você ganhou passagem, mas somente enquanto eles investigam o porão.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 655.471,
+    "end": 659.911
+  },
+  {
+    "i": 230,
+    "speaker": "LUNA",
+    "text": "A porta abriu. E agora?",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 660.191,
+    "end": 661.861
+  },
+  {
+    "i": 231,
+    "speaker": "BIA",
+    "text": "Espera eles entrarem. A gente fecha pelo lado da escada.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 662.141,
+    "end": 665.611
+  },
+  {
+    "i": 232,
+    "speaker": "LUNA",
+    "text": "Você tá mal, Bia.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 665.891,
+    "end": 667.411
+  },
+  {
+    "i": 233,
+    "speaker": "BIA",
+    "text": "Eu sei. Desce quando eu apontar.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 667.691,
+    "end": 669.731
+  },
+  {
+    "i": 234,
+    "speaker": "NARRADOR",
+    "text": "Você segue Bia até a porta, sem saber por que ela admitiu.",
+    "parte": 6,
+    "cena": "escada · porta de aço no fim e acesso à garagem acima · Luna se esconde agachada atrás do corrimão; Bia se esconde agachada atrás do corrimão; policial infectado bate na porta de aço; corredor fareja perto do policial",
+    "start": 670.011,
+    "end": 673.801
+  },
+  {
+    "i": 235,
+    "speaker": "NARRADOR",
+    "text": "Você chega à porta do porão que parecia impossível.",
+    "parte": 7,
+    "cena": "escada · porta de aço aberta para o porão e sombras no fundo · Bia desce escada; Luna desce escada atrás dela; policial infectado anda no fundo do porão; garota infectada corre para o fundo; corredor fareja longe da porta",
+    "start": 674.651,
+    "end": 678.121
+  },
+  {
+    "i": 236,
+    "speaker": "NARRADOR",
+    "text": "Os três infectados perseguem o eco até o fundo escuro.",
+    "parte": 7,
+    "cena": "escada · porta de aço aberta para o porão e sombras no fundo · Bia desce escada; Luna desce escada atrás dela; policial infectado anda no fundo do porão; garota infectada corre para o fundo; corredor fareja longe da porta",
+    "start": 678.281,
+    "end": 682.001
+  },
+  {
+    "i": 237,
+    "speaker": "NARRADOR",
+    "text": "Luna e Bia ficam do lado da escada, fora do caminho deles.",
+    "parte": 7,
+    "cena": "escada · porta de aço aberta para o porão e sombras no fundo · Bia desce escada; Luna desce escada atrás dela; policial infectado anda no fundo do porão; garota infectada corre para o fundo; corredor fareja longe da porta",
+    "start": 682.161,
+    "end": 685.961
+  },
+  {
+    "i": 238,
+    "speaker": "NARRADOR",
+    "text": "Por um segundo, a porta está livre.",
+    "parte": 7,
+    "cena": "escada · porta de aço aberta para o porão e sombras no fundo · Bia desce escada; Luna desce escada atrás dela; policial infectado anda no fundo do porão; garota infectada corre para o fundo; corredor fareja longe da porta",
+    "start": 686.121,
+    "end": 688.231
+  },
+  {
+    "i": 239,
+    "speaker": "NARRADOR",
+    "text": "Bia aponta para a chapa. Luna entende: empurrar, depois subir.",
+    "parte": 7,
+    "cena": "escada · porta de aço aberta para o porão e sombras no fundo · Bia desce escada; Luna desce escada atrás dela; policial infectado anda no fundo do porão; garota infectada corre para o fundo; corredor fareja longe da porta",
+    "start": 688.391,
+    "end": 692.301
+  },
+  {
+    "i": 240,
+    "speaker": "LUNA",
+    "text": "Você ainda consegue empurrar?",
+    "parte": 7,
+    "cena": "escada · porta de aço aberta para o porão e sombras no fundo · Bia desce escada; Luna desce escada atrás dela; policial infectado anda no fundo do porão; garota infectada corre para o fundo; corredor fareja longe da porta",
+    "start": 692.581,
+    "end": 694.011
+  },
+  {
+    "i": 241,
+    "speaker": "BIA",
+    "text": "Com o braço direito, consigo.",
+    "parte": 7,
+    "cena": "escada · porta de aço aberta para o porão e sombras no fundo · Bia desce escada; Luna desce escada atrás dela; policial infectado anda no fundo do porão; garota infectada corre para o fundo; corredor fareja longe da porta",
+    "start": 694.291,
+    "end": 695.912
+  },
+  {
+    "i": 242,
+    "speaker": "NARRADOR",
+    "text": "Você sobe os degraus enquanto o corredor corre para a porta.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 696.462,
+    "end": 700.622
+  },
+  {
+    "i": 243,
+    "speaker": "NARRADOR",
+    "text": "Luna empurra a porta de aço pelo lado da escada.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 700.782,
+    "end": 703.642
+  },
+  {
+    "i": 244,
+    "speaker": "NARRADOR",
+    "text": "O batente torto encaixa com um golpe seco.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 703.802,
+    "end": 706.642
+  },
+  {
+    "i": 245,
+    "speaker": "NARRADOR",
+    "text": "O corredor ataca a chapa tarde demais.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 706.802,
+    "end": 709.102
+  },
+  {
+    "i": 246,
+    "speaker": "NARRADOR",
+    "text": "O policial bate atrás dele. A chapa permanece firme.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 709.262,
+    "end": 712.852
+  },
+  {
+    "i": 247,
+    "speaker": "NARRADOR",
+    "text": "Você venceu a corrida pela casa inteira.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 713.012,
+    "end": 715.592
+  },
+  {
+    "i": 248,
+    "speaker": "NARRADOR",
+    "text": "Bia perde o passo e tosse novamente.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 715.752,
+    "end": 718.042
+  },
+  {
+    "i": 249,
+    "speaker": "NARRADOR",
+    "text": "O esquerdo aparece sob um relâmpago da sala.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 718.202,
+    "end": 720.952
+  },
+  {
+    "i": 250,
+    "speaker": "NARRADOR",
+    "text": "Você vê duas marcas curvas no alto do braço.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 721.112,
+    "end": 723.982
+  },
+  {
+    "i": 251,
+    "speaker": "NARRADOR",
+    "text": "Não parecem arranhões. São dentes, afundados na pele.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 724.142,
+    "end": 727.562
+  },
+  {
+    "i": 252,
+    "speaker": "NARRADOR",
+    "text": "A garota alcançou Bia atrás do carro, dez minutos atrás.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 727.722,
+    "end": 731.422
+  },
+  {
+    "i": 253,
+    "speaker": "NARRADOR",
+    "text": "O rádio falou em oito a doze minutos para a mudança começar.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 731.582,
+    "end": 735.332
+  },
+  {
+    "i": 254,
+    "speaker": "NARRADOR",
+    "text": "Bia já tosse. A dor já venceu o disfarce.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 735.492,
+    "end": 738.202
+  },
+  {
+    "i": 255,
+    "speaker": "NARRADOR",
+    "text": "O aço protege as duas dos infectados no porão.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 738.362,
+    "end": 741.212
+  },
+  {
+    "i": 256,
+    "speaker": "NARRADOR",
+    "text": "Agora você está presa do mesmo lado que uma mordida.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 741.372,
+    "end": 744.302
+  },
+  {
+    "i": 257,
+    "speaker": "LUNA",
+    "text": "Foi mordida. Você mentiu pra mim.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 744.582,
+    "end": 746.672
+  },
+  {
+    "i": 258,
+    "speaker": "BIA",
+    "text": "Se eu contasse, você ia parar na garagem.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 746.952,
+    "end": 749.525
+  },
+  {
+    "i": 259,
+    "speaker": "BIA",
+    "text": "Eu sei. Tô começando a perder a força.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 749.685,
+    "end": 752.085
+  },
+  {
+    "i": 260,
+    "speaker": "LUNA",
+    "text": "Não fala como se já tivesse acabado.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 752.365,
+    "end": 754.379
+  },
+  {
+    "i": 261,
+    "speaker": "BIA",
+    "text": "Então me ajuda a decidir antes que acabe.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 754.659,
+    "end": 757.139
+  },
+  {
+    "i": 262,
+    "speaker": "ANTONY",
+    "text": "Luna? Vocês tão bem?",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 757.419,
+    "end": 758.719
+  },
+  {
+    "i": 263,
+    "speaker": "LUNA",
+    "text": "Antony, a Bia foi mordida.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 758.999,
+    "end": 760.729
+  },
+  {
+    "i": 264,
+    "speaker": "ANTONY",
+    "text": "Quanto tempo faz?",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 761.009,
+    "end": 761.889
+  },
+  {
+    "i": 265,
+    "speaker": "LUNA",
+    "text": "Uns dez minutos.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 762.169,
+    "end": 763.319
+  },
+  {
+    "i": 266,
+    "speaker": "NARRADOR",
+    "text": "Você tem talvez dois minutos para escolher onde Bia fica.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 763.599,
+    "end": 767.249
+  },
+  {
+    "i": 267,
+    "speaker": "NARRADOR",
+    "text": "Atrás da porta, três infectados batem. Diante dela, Bia espera.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 767.409,
+    "end": 771.809
+  },
+  {
+    "i": 268,
+    "speaker": "NARRADOR",
+    "text": "Luna olha para a escada que leva à sala de vidro.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 771.969,
+    "end": 774.759
+  },
+  {
+    "i": 269,
+    "speaker": "NARRADOR",
+    "text": "Bia olha para a porta de aço, sem pedir perdão.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 774.919,
+    "end": 777.649
+  },
+  {
+    "i": 270,
+    "speaker": "NARRADOR",
+    "text": "A primeira escolha do próximo episódio já chegou.",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 777.809,
+    "end": 781.059
+  },
+  {
+    "i": 271,
+    "speaker": "BIA",
+    "text": "Luna... se eu mudar, pra qual lado você corre?",
+    "parte": 7,
+    "cena": "escada · porta de aço entre a escada e o porão · Luna empurra a porta e sobe escada; Bia empurra a porta e sobe escada; corredor corre no fundo do porão; policial infectado anda no porão",
+    "start": 781.339,
+    "end": 783.839
+  }
+]

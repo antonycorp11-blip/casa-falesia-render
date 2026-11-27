@@ -1,0 +1,44 @@
+[
+  {
+    "parte": 1,
+    "titulo": "DEZ SEGUNDOS",
+    "start": 0.0,
+    "end": 101.096
+  },
+  {
+    "parte": 2,
+    "titulo": "O CARRO ESCURO",
+    "start": 101.946,
+    "end": 216.415
+  },
+  {
+    "parte": 3,
+    "titulo": "NÃO FOI NADA",
+    "start": 217.265,
+    "end": 326.067
+  },
+  {
+    "parte": 4,
+    "titulo": "MORTE FINGIDA",
+    "start": 326.917,
+    "end": 436.82
+  },
+  {
+    "parte": 5,
+    "titulo": "A LUZ ERRADA",
+    "start": 437.67,
+    "end": 557.366
+  },
+  {
+    "parte": 6,
+    "titulo": "A PORTA CEDE",
+    "start": 558.216,
+    "end": 673.801
+  },
+  {
+    "parte": 7,
+    "titulo": "O TEMPO DA MORDIDA",
+    "start": 674.651,
+    "end": 783.839
+  }
+]

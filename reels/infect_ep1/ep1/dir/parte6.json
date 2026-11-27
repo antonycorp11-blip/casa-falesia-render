@@ -1,0 +1,773 @@
+{
+  "beats": [
+    {
+      "t0": 558.22,
+      "t1": 562.65,
+      "local": "cozinha",
+      "luz": "emergencia",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "olha": "cozinha_porta", "emocao": "medo" },
+        { "nome": "BIA", "acao": "espiar", "olha": "sala_arco", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "garagem_porta" }
+      ],
+      "cam": { "plano": "medio", "alvo": "LUNA", "lado": "esq" },
+      "fx": ["chuva", "vidro_quebrado"]
+    },
+    {
+      "t0": 562.65,
+      "t1": 565.15,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "espiar", "olha": "cozinha_porta", "emocao": "medo" },
+        { "nome": "BIA", "acao": "espiar", "olha": "sala_arco", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "correr", "para": "garagem_porta", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "medio", "alvo": "zumbi3", "lado": "dir" },
+      "fx": ["escuro", "tremor", "vidro_quebrado"]
+    },
+    {
+      "t0": 565.15,
+      "t1": 567.65,
+      "local": "cozinha",
+      "luz": "emergencia",
+      "atores": [
+        { "nome": "LUNA", "acao": "espiar", "olha": "cozinha_porta", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "espiar", "olha": "sala_arco", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "destaque", "alvo": "BIA", "lado": "esq", "texto": "A SALA NÃO" },
+      "fx": ["chuva", "vidro_quebrado"]
+    },
+    {
+      "t0": 567.65,
+      "t1": 571.60,
+      "local": "cozinha",
+      "luz": "emergencia",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "cozinha_porta", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "apontar", "olha": "cozinha_porta", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "medio", "alvo": "BIA", "lado": "dir" },
+      "fx": ["chuva", "vidro_quebrado"]
+    },
+    {
+      "t0": 571.60,
+      "t1": 574.75,
+      "local": "cozinha",
+      "luz": "emergencia",
+      "atores": [
+        { "nome": "LUNA", "acao": "olhar_em_volta", "olha": "sala_arco", "emocao": "medo" },
+        { "nome": "BIA", "acao": "espiar", "olha": "sala_arco", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "ombro", "alvo": "LUNA", "lado": "esq" },
+      "fx": ["chuva", "relampago", "vidro_quebrado"]
+    },
+    {
+      "t0": 574.75,
+      "t1": 577.30,
+      "local": "cozinha",
+      "luz": "emergencia",
+      "atores": [
+        { "nome": "LUNA", "acao": "falar", "olha": "BIA", "emocao": "medo" },
+        { "nome": "BIA", "acao": "ouvir", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "dir" },
+      "fx": ["chuva", "vidro_quebrado"]
+    },
+    {
+      "t0": 577.30,
+      "t1": 580.35,
+      "local": "cozinha",
+      "luz": "emergencia",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "falar", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "close", "alvo": "BIA", "lado": "esq" },
+      "fx": ["chuva", "vidro_quebrado"]
+    },
+    {
+      "t0": 580.35,
+      "t1": 581.65,
+      "local": "cozinha",
+      "luz": "tempestade",
+      "atores": [
+        { "nome": "LUNA", "acao": "falar", "olha": "BIA", "emocao": "medo" },
+        { "nome": "BIA", "acao": "ouvir", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "dir" },
+      "fx": ["chuva", "relampago", "vidro_quebrado"]
+    },
+    {
+      "t0": 581.65,
+      "t1": 583.40,
+      "local": "cozinha",
+      "luz": "tempestade",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "apontar", "olha": "cozinha_porta", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "close", "alvo": "BIA", "lado": "esq" },
+      "fx": ["chuva", "relampago", "vidro_quebrado"]
+    },
+    {
+      "t0": 583.40,
+      "t1": 586.70,
+      "local": "cozinha",
+      "luz": "emergencia",
+      "atores": [
+        { "nome": "LUNA", "acao": "falar", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "ouvir", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "destaque", "alvo": "LUNA", "lado": "dir", "texto": "ACREDITAR EM MUITA COISA" },
+      "fx": ["chuva", "vidro_quebrado"]
+    },
+    {
+      "t0": 586.70,
+      "t1": 589.80,
+      "local": "cozinha",
+      "luz": "emergencia",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "falar", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "medio", "alvo": "BIA", "lado": "esq" },
+      "fx": ["chuva", "vidro_quebrado"]
+    },
+    {
+      "t0": 589.80,
+      "t1": 591.80,
+      "local": "cozinha",
+      "luz": "emergencia",
+      "atores": [
+        { "nome": "LUNA", "acao": "falar", "olha": "BIA", "emocao": "medo" },
+        { "nome": "BIA", "acao": "ouvir", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "dir" },
+      "fx": ["chuva", "vidro_quebrado"]
+    },
+    {
+      "t0": 591.80,
+      "t1": 592.90,
+      "local": "cozinha",
+      "luz": "emergencia",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "falar", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_porta_garagem" }
+      ],
+      "cam": { "plano": "close", "alvo": "BIA", "lado": "esq" },
+      "fx": ["chuva", "vidro_quebrado"]
+    },
+    {
+      "t0": 592.90,
+      "t1": 594.00,
+      "local": "garagem",
+      "luz": "apagao",
+      "texto": "GARAGEM",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "para": "garagem_carro", "olha": "garagem_porta", "emocao": "medo" },
+        { "nome": "BIA", "acao": "esconder", "para": "garagem_porta", "olha": "garagem_porta", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "para": "porao_escada_saida", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "para": "porao_porta_aco_fora", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "para": "porao_escada_patamar", "olha": "porao_escada_saida" }
+      ],
+      "cam": { "plano": "medio", "alvo": "LUNA", "lado": "dir" },
+      "fx": ["corte_preto", "vidro_quebrado"]
+    },
+    {
+      "t0": 594.00,
+      "t1": 597.40,
+      "local": "porao_entrada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "olha": "garagem_porta", "emocao": "medo" },
+        { "nome": "BIA", "acao": "esconder", "olha": "garagem_porta", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "parado", "olha": "porao_escada_saida" }
+      ],
+      "cam": { "plano": "destaque", "alvo": "zumbi2", "lado": "esq", "texto": "MAIS UMA BATIDA" },
+      "fx": ["escuro", "tremor", "vidro_quebrado"]
+    },
+    {
+      "t0": 597.40,
+      "t1": 600.60,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "cobrir_boca", "olha": "garagem_porta", "emocao": "medo" },
+        { "nome": "BIA", "acao": "espiar", "olha": "garagem_porta", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_escada_saida" }
+      ],
+      "cam": { "plano": "close", "alvo": "BIA", "lado": "dir" },
+      "fx": ["escuro", "tremor", "vidro_quebrado"]
+    },
+    {
+      "t0": 600.60,
+      "t1": 603.55,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "olha": "garagem_porta", "emocao": "medo" },
+        { "nome": "BIA", "acao": "esconder", "olha": "garagem_porta", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "gritar", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "correr", "para": "porao_escada_meio2", "olha": "porao_escada_saida" }
+      ],
+      "cam": { "plano": "medio", "alvo": "zumbi1", "lado": "esq" },
+      "fx": ["escuro", "tremor", "vidro_quebrado"]
+    },
+    {
+      "t0": 603.55,
+      "t1": 606.95,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "olha": "garagem_porta", "emocao": "medo" },
+        { "nome": "BIA", "acao": "esconder", "olha": "garagem_porta", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "destaque", "alvo": "zumbi3", "lado": "dir", "texto": "TRÊS NA ESCADA" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 606.95,
+      "t1": 610.85,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "espiar", "olha": "garagem_porta", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "medio", "alvo": "BIA", "lado": "esq" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 610.85,
+      "t1": 614.30,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "olhar_em_volta", "olha": "garagem_frente", "emocao": "medo" },
+        { "nome": "BIA", "acao": "espiar", "olha": "garagem_porta", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "dir" },
+      "fx": ["escuro", "relampago", "vidro_quebrado"]
+    },
+    {
+      "t0": 614.30,
+      "t1": 616.85,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "falar", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "ouvir", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "esq" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 616.85,
+      "t1": 620.10,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "falar", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "close", "alvo": "BIA", "lado": "dir" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 620.10,
+      "t1": 622.15,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "falar", "olha": "BIA", "emocao": "medo" },
+        { "nome": "BIA", "acao": "ouvir", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "esq" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 622.15,
+      "t1": 624.00,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "falar", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "close", "alvo": "BIA", "lado": "dir" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 624.00,
+      "t1": 626.35,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "falar", "olha": "BIA", "emocao": "medo" },
+        { "nome": "BIA", "acao": "ouvir", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "medio", "alvo": "LUNA", "lado": "esq" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 626.35,
+      "t1": 628.20,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "falar", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "close", "alvo": "BIA", "lado": "dir" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 628.20,
+      "t1": 630.20,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "falar", "olha": "BIA", "emocao": "medo" },
+        { "nome": "BIA", "acao": "ouvir", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "esq" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 630.20,
+      "t1": 632.00,
+      "local": "garagem",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "falar", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "destaque", "alvo": "BIA", "lado": "dir", "texto": "ESSA É A CONTA" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 632.00,
+      "t1": 633.10,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "texto": "ESCADA DO PORÃO",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "para": "porao_escada_meio1", "olha": "porao_porta_aco_fora", "emocao": "medo" },
+        { "nome": "BIA", "acao": "esconder", "para": "porao_escada_patamar", "olha": "porao_porta_aco_fora", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "medio", "alvo": "BIA", "lado": "esq" },
+      "fx": ["corte_preto", "vidro_quebrado"]
+    },
+    {
+      "t0": 633.10,
+      "t1": 635.40,
+      "local": "porao_entrada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "olha": "porao_porta_aco_fora", "emocao": "medo" },
+        { "nome": "BIA", "acao": "esconder", "olha": "porao_porta_aco_fora", "emocao": "medo" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_fora" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "bater_porta", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_porta_aco_fora" }
+      ],
+      "cam": { "plano": "close", "alvo": "zumbi2", "lado": "dir" },
+      "fx": ["escuro", "tremor", "vidro_quebrado"]
+    },
+    {
+      "t0": 635.40,
+      "t1": 636.60,
+      "local": "porao",
+      "luz": "apagao",
+      "texto": "A PORTA CEDE",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "olha": "porao_porta_aco_fora", "emocao": "medo" },
+        { "nome": "BIA", "acao": "esconder", "olha": "porao_porta_aco_fora", "emocao": "medo" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "correr", "para": "porao_porta_aco_fora", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "andar", "para": "porao_porta_aco_dentro", "olha": "porao_centro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "para": "porao_escada_saida", "olha": "porao_escada_patamar" }
+      ],
+      "cam": { "plano": "medio", "alvo": "zumbi2", "lado": "esq" },
+      "fx": ["corte_preto", "vidro_quebrado"]
+    },
+    {
+      "t0": 636.60,
+      "t1": 637.55,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "espiar", "olha": "porao_porta_aco_fora", "emocao": "medo" },
+        { "nome": "BIA", "acao": "espiar", "olha": "porao_porta_aco_fora", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "parado", "olha": "porao_centro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_escada_patamar" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "esq" },
+      "fx": ["escuro", "tremor", "vidro_quebrado"]
+    },
+    {
+      "t0": 637.55,
+      "t1": 642.05,
+      "local": "porao",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "espiar", "olha": "porao_porta_aco_fora", "emocao": "medo" },
+        { "nome": "BIA", "acao": "espiar", "olha": "porao_porta_aco_fora", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "parado", "olha": "porao_porta_aco_dentro" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "andar", "para": "porao_centro", "olha": "porao_centro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_escada_patamar" }
+      ],
+      "cam": { "plano": "medio", "alvo": "zumbi2", "lado": "dir" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 642.05,
+      "t1": 643.95,
+      "local": "porao",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "olha": "zumbi3", "emocao": "medo" },
+        { "nome": "BIA", "acao": "esconder", "olha": "zumbi3", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "correr", "para": "porao_porta_aco_dentro", "olha": "porao_centro" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "olha": "porao_adega" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "BIA" }
+      ],
+      "cam": { "plano": "medio", "alvo": "zumbi1", "lado": "esq" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 643.95,
+      "t1": 646.00,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "cobrir_boca", "olha": "zumbi3", "emocao": "medo" },
+        { "nome": "BIA", "acao": "imovel", "olha": "zumbi3", "emocao": "medo" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "correr", "para": "porao_centro", "olha": "porao_adega" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "olha": "porao_adega" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "BIA" }
+      ],
+      "cam": { "plano": "close", "alvo": "zumbi3", "lado": "dir" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 646.00,
+      "t1": 648.35,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "cobrir_boca", "olha": "zumbi3", "emocao": "medo" },
+        { "nome": "BIA", "acao": "imovel", "olha": "zumbi3", "emocao": "medo" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "farejar", "olha": "porao_canto_escuro" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "olha": "porao_adega" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "BIA" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "esq" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 648.35,
+      "t1": 652.25,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "cobrir_boca", "olha": "BIA", "emocao": "medo" },
+        { "nome": "BIA", "acao": "imovel", "olha": "zumbi3", "emocao": "medo" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "farejar", "olha": "porao_canto_escuro" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "andar", "para": "porao_adega", "olha": "porao_canto_escuro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "BIA" }
+      ],
+      "cam": { "plano": "destaque", "alvo": "BIA", "lado": "dir", "texto": "O CHEIRO DO BRAÇO" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 652.25,
+      "t1": 655.40,
+      "local": "porao_escada",
+      "luz": "tempestade",
+      "atores": [
+        { "nome": "LUNA", "acao": "espiar", "olha": "porao_porta_aco_fora", "emocao": "medo" },
+        { "nome": "BIA", "acao": "espiar", "olha": "porao_porta_aco_fora", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "farejar", "olha": "porao_canto_escuro" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "olha": "porao_canto_escuro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "correr", "para": "porao_porta_aco_dentro", "olha": "porao_centro" }
+      ],
+      "cam": { "plano": "medio", "alvo": "BIA", "lado": "esq" },
+      "fx": ["escuro", "relampago", "tremor", "vidro_quebrado"]
+    },
+    {
+      "t0": 655.40,
+      "t1": 660.05,
+      "local": "porao",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "espiar", "olha": "porao_porta_aco_fora", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "espiar", "olha": "porao_porta_aco_fora", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "correr", "para": "porao_canto_escuro", "olha": "porao_canto_escuro" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "olha": "porao_canto_escuro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "correr", "para": "porao_centro", "olha": "porao_quadro_luz" }
+      ],
+      "cam": { "plano": "medio", "alvo": "zumbi3", "lado": "dir" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 660.05,
+      "t1": 662.00,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "falar", "olha": "BIA", "emocao": "medo" },
+        { "nome": "BIA", "acao": "ouvir", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "farejar", "olha": "porao_adega" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "olha": "porao_canto_escuro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_quadro_luz" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "dir" },
+      "fx": ["escuro", "relampago", "vidro_quebrado"]
+    },
+    {
+      "t0": 662.00,
+      "t1": 665.75,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "BIA", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "falar", "olha": "LUNA", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "farejar", "olha": "porao_adega" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "olha": "porao_canto_escuro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_quadro_luz" }
+      ],
+      "cam": { "plano": "close", "alvo": "BIA", "lado": "esq" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 665.75,
+      "t1": 667.55,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "falar", "olha": "BIA", "emocao": "triste" },
+        { "nome": "BIA", "acao": "ouvir", "olha": "LUNA", "emocao": "triste" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "farejar", "olha": "porao_adega" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "olha": "porao_canto_escuro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_quadro_luz" }
+      ],
+      "cam": { "plano": "close", "alvo": "LUNA", "lado": "dir" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 667.55,
+      "t1": 669.90,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "ouvir", "olha": "BIA", "emocao": "medo" },
+        { "nome": "BIA", "acao": "apontar", "olha": "porao_porta_aco_fora", "emocao": "triste" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "farejar", "olha": "porao_adega" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "olha": "porao_canto_escuro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_quadro_luz" }
+      ],
+      "cam": { "plano": "close", "alvo": "BIA", "lado": "esq" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 669.90,
+      "t1": 673.65,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "atores": [
+        { "nome": "LUNA", "acao": "imovel", "olha": "BIA", "emocao": "triste" },
+        { "nome": "BIA", "acao": "espiar", "olha": "porao_porta_aco_fora", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "farejar", "olha": "porao_adega" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "olha": "porao_canto_escuro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "olha": "porao_quadro_luz" }
+      ],
+      "cam": { "plano": "destaque", "alvo": "LUNA", "lado": "dir", "texto": "A ARMADILHA É DELES" },
+      "fx": ["escuro", "vidro_quebrado"]
+    },
+    {
+      "t0": 673.65,
+      "t1": 674.65,
+      "local": "porao_escada",
+      "luz": "apagao",
+      "texto": "23:24 · A PORTA",
+      "atores": [
+        { "nome": "LUNA", "acao": "esconder", "para": "porao_escada_meio2", "olha": "porao_porta_aco_fora", "emocao": "tensa" },
+        { "nome": "BIA", "acao": "esconder", "para": "porao_escada_saida", "olha": "porao_porta_aco_fora", "emocao": "tensa" }
+      ],
+      "zumbis": [
+        { "id": "zumbi1", "modelo": "zombiegirl", "acao": "farejar", "para": "porao_canto_escuro", "olha": "porao_adega" },
+        { "id": "zumbi2", "modelo": "copzombie", "acao": "farejar", "para": "porao_adega", "olha": "porao_canto_escuro" },
+        { "id": "zumbi3", "modelo": "yaku", "acao": "farejar", "para": "porao_quadro_luz", "olha": "porao_centro" }
+      ],
+      "cam": { "plano": "medio", "alvo": "BIA", "lado": "esq" },
+      "fx": ["corte_preto", "vidro_quebrado"]
+    }
+  ]
+}
