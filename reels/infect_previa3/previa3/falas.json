@@ -1,0 +1,443 @@
+[
+ {
+  "i": 1,
+  "speaker": "NARRADOR",
+  "text": "Você tem dez segundos para sair da frente daquele vidro.",
+  "parte": 1,
+  "cena": "sala · lareira, sofá, vidro da varanda e chuva na falésia · Luna olha em volta; Bia aponta para a varanda; garota infectada bate no vidro",
+  "start": 0.0,
+  "end": 3.79
+ },
+ {
+  "i": 2,
+  "speaker": "NARRADOR",
+  "text": "Uma garota infectada bate na rachadura, olhando para a lareira.",
+  "parte": 1,
+  "cena": "sala · lareira, sofá, vidro da varanda e chuva na falésia · Luna olha em volta; Bia aponta para a varanda; garota infectada bate no vidro",
+  "start": 3.95,
+  "end": 8.11
+ },
+ {
+  "i": 3,
+  "speaker": "LUNA",
+  "text": "Ela viu a gente?",
+  "parte": 1,
+  "cena": "sala · lareira, sofá, vidro da varanda e chuva na falésia · Luna olha em volta; Bia aponta para a varanda; garota infectada bate no vidro",
+  "start": 8.39,
+  "end": 9.408
+ },
+ {
+  "i": 4,
+  "speaker": "BIA",
+  "text": "Cozinha. Agora.",
+  "parte": 1,
+  "cena": "sala · lareira, sofá, vidro da varanda e chuva na falésia · Luna olha em volta; Bia aponta para a varanda; garota infectada bate no vidro",
+  "start": 9.688,
+  "end": 11.238
+ },
+ {
+  "i": 5,
+  "speaker": "NARRADOR",
+  "text": "Você corre pela passagem aberta, com a falésia escura atrás do vidro.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 11.788,
+  "end": 16.58
+ },
+ {
+  "i": 6,
+  "speaker": "NARRADOR",
+  "text": "Um relâmpago revela mais sombras na chuva.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 16.74,
+  "end": 19.66
+ },
+ {
+  "i": 7,
+  "speaker": "NARRADOR",
+  "text": "Luna estava perto demais. Bia escolheu a passagem mais próxima.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 19.82,
+  "end": 23.9
+ },
+ {
+  "i": 8,
+  "speaker": "NARRADOR",
+  "text": "Então o problema ainda tem uma direção.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 24.06,
+  "end": 26.47
+ },
+ {
+  "i": 9,
+  "speaker": "NARRADOR",
+  "text": "Você pode fugir enquanto elas seguem a luz.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 26.63,
+  "end": 29.27
+ },
+ {
+  "i": 10,
+  "speaker": "NARRADOR",
+  "text": "Só que a casa inteira é feita para ser vista.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 29.43,
+  "end": 32.36
+ },
+ {
+  "i": 11,
+  "speaker": "LUNA",
+  "text": "Você contou dez segundos ou tava me assustando?",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 32.64,
+  "end": 35.663
+ },
+ {
+  "i": 12,
+  "speaker": "BIA",
+  "text": "Olha a rachadura. Ela já tá na porta.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 35.943,
+  "end": 38.301
+ },
+ {
+  "i": 13,
+  "speaker": "LUNA",
+  "text": "A gente devia ter escolhido uma casa com parede.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 38.581,
+  "end": 41.619
+ },
+ {
+  "i": 14,
+  "speaker": "BIA",
+  "text": "Anda, Luna. Atrás da bancada.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 41.899,
+  "end": 43.743
+ },
+ {
+  "i": 15,
+  "speaker": "LUNA",
+  "text": "Se ela entrar, eu corro pra onde?",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 44.023,
+  "end": 45.909
+ },
+ {
+  "i": 16,
+  "speaker": "BIA",
+  "text": "Garagem. O carro fica antes da escada.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 46.189,
+  "end": 48.718
+ },
+ {
+  "i": 17,
+  "speaker": "RADIO",
+  "text": "Alerta costeiro. Evitem luzes. Ruídos atraem os infectados.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 48.998,
+  "end": 52.768
+ },
+ {
+  "i": 18,
+  "speaker": "NARRADOR",
+  "text": "Você entende a regra quando a garota muda de lado no vidro.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 53.048,
+  "end": 56.568
+ },
+ {
+  "i": 19,
+  "speaker": "NARRADOR",
+  "text": "Ela acompanha o reflexo de Luna, mesmo sem ouvir sua voz.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 56.728,
+  "end": 60.528
+ },
+ {
+  "i": 20,
+  "speaker": "NARRADOR",
+  "text": "Bia se esconde agachada atrás da bancada. Luna faz o mesmo.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 60.688,
+  "end": 64.838
+ },
+ {
+  "i": 21,
+  "speaker": "NARRADOR",
+  "text": "Por um instante, o vidro mostra apenas a cozinha vazia.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 64.998,
+  "end": 68.548
+ },
+ {
+  "i": 22,
+  "speaker": "NARRADOR",
+  "text": "A garota para. Talvez tenha perdido as duas.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 68.708,
+  "end": 71.598
+ },
+ {
+  "i": 23,
+  "speaker": "LUNA",
+  "text": "Ela foi embora?",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 71.878,
+  "end": 72.722
+ },
+ {
+  "i": 24,
+  "speaker": "BIA",
+  "text": "Não levanta. Espera o próximo relâmpago.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 73.002,
+  "end": 75.582
+ },
+ {
+  "i": 25,
+  "speaker": "LUNA",
+  "text": "Essa é sua ideia de uma noite tranquila?",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 75.862,
+  "end": 78.156
+ },
+ {
+  "i": 26,
+  "speaker": "BIA",
+  "text": "Minha ideia era você ficar quieta.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 78.436,
+  "end": 80.396
+ },
+ {
+  "i": 27,
+  "speaker": "LUNA",
+  "text": "Eu tô quieta por fora. Por dentro, tô berrando.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 80.676,
+  "end": 83.586
+ },
+ {
+  "i": 28,
+  "speaker": "BIA",
+  "text": "Ótimo. Mantém essa divisão.",
+  "parte": 1,
+  "cena": "cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala",
+  "start": 83.866,
+  "end": 85.726
+ },
+ {
+  "i": 29,
+  "speaker": "NARRADOR",
+  "text": "O relâmpago mostra um policial atrás da garota.",
+  "parte": 1,
+  "cena": "cozinha · vista da sala pelo vidro rachado · Luna e Bia ficam imóveis atrás da bancada; policial infectado anda na varanda; garota infectada bate no vidro da sala",
+  "start": 86.276,
+  "end": 89.226
+ },
+ {
+  "i": 30,
+  "speaker": "NARRADOR",
+  "text": "Ele anda devagar, mas cada batida dele afunda a moldura.",
+  "parte": 1,
+  "cena": "cozinha · vista da sala pelo vidro rachado · Luna e Bia ficam imóveis atrás da bancada; policial infectado anda na varanda; garota infectada bate no vidro da sala",
+  "start": 89.386,
+  "end": 93.226
+ },
+ {
+  "i": 31,
+  "speaker": "NARRADOR",
+  "text": "Você ganhou distância. A porta da sala perdeu força.",
+  "parte": 1,
+  "cena": "cozinha · vista da sala pelo vidro rachado · Luna e Bia ficam imóveis atrás da bancada; policial infectado anda na varanda; garota infectada bate no vidro da sala",
+  "start": 93.386,
+  "end": 97.016
+ },
+ {
+  "i": 32,
+  "speaker": "NARRADOR",
+  "text": "A próxima pancada decide se a cozinha ainda é esconderijo.",
+  "parte": 1,
+  "cena": "cozinha · vista da sala pelo vidro rachado · Luna e Bia ficam imóveis atrás da bancada; policial infectado anda na varanda; garota infectada bate no vidro da sala",
+  "start": 97.176,
+  "end": 101.096
+ },
+ {
+  "i": 33,
+  "speaker": "NARRADOR",
+  "text": "Você vê a garota entrar pela abertura do vidro quebrado.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 101.946,
+  "end": 105.366
+ },
+ {
+  "i": 34,
+  "speaker": "NARRADOR",
+  "text": "Ela atravessa a sala sem um grito.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 105.526,
+  "end": 107.596
+ },
+ {
+  "i": 35,
+  "speaker": "NARRADOR",
+  "text": "A bancada esconde as duas só até ela virar.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 107.756,
+  "end": 110.506
+ },
+ {
+  "i": 36,
+  "speaker": "NARRADOR",
+  "text": "Bia aponta para a porta da garagem.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 110.666,
+  "end": 112.786
+ },
+ {
+  "i": 37,
+  "speaker": "NARRADOR",
+  "text": "Lá, o carro oferece sombra. Aqui, só existe vidro.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 112.946,
+  "end": 116.326
+ },
+ {
+  "i": 38,
+  "speaker": "LUNA",
+  "text": "Ela corre. O grandão mal anda.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 116.606,
+  "end": 118.485
+ },
+ {
+  "i": 39,
+  "speaker": "BIA",
+  "text": "Então acompanha a garota. Esquece o grandão por enquanto.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 118.765,
+  "end": 122.165
+ },
+ {
+  "i": 40,
+  "speaker": "LUNA",
+  "text": "Ela tá olhando pra cá?",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 122.445,
+  "end": 124.036
+ },
+ {
+  "i": 41,
+  "speaker": "BIA",
+  "text": "Ainda não. Vai agachada.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 124.316,
+  "end": 126.016
+ },
+ {
+  "i": 42,
+  "speaker": "LUNA",
+  "text": "O policial também entrou?",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 126.296,
+  "end": 127.809
+ },
+ {
+  "i": 43,
+  "speaker": "BIA",
+  "text": "Não. O vidro ainda segura o peso dele.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 128.089,
+  "end": 130.589
+ },
+ {
+  "i": 44,
+  "speaker": "LUNA",
+  "text": "Se ele entrar, a gente vai ter dois caminhos fechados.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 130.869,
+  "end": 134.243
+ },
+ {
+  "i": 45,
+  "speaker": "BIA",
+  "text": "Então usa o que tá livre agora.",
+  "parte": 2,
+  "cena": "cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala",
+  "start": 134.523,
+  "end": 136.283
+ },
+ {
+  "i": 46,
+  "speaker": "NARRADOR",
+  "text": "Você entra na garagem antes da garota alcançar a bancada.",
+  "parte": 2,
+  "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+  "start": 136.833,
+  "end": 140.413
+ },
+ {
+  "i": 47,
+  "speaker": "NARRADOR",
+  "text": "Bia empurra a porta. Ela não encaixa completamente.",
+  "parte": 2,
+  "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+  "start": 140.573,
+  "end": 143.823
+ },
+ {
+  "i": 48,
+  "speaker": "NARRADOR",
+  "text": "Uma fresta fina deixa passar a luz da cozinha.",
+  "parte": 2,
+  "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+  "start": 143.983,
+  "end": 146.923
+ },
+ {
+  "i": 49,
+  "speaker": "NARRADOR",
+  "text": "Do outro lado, a garota para diante daquela linha clara.",
+  "parte": 2,
+  "cena": "garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha",
+  "start": 147.083,
+  "end": 150.813
+ }
+]

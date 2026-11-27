@@ -1,0 +1,81 @@
+=== PARTE 1 — DEZ SEGUNDOS ===
+
+[HUD: Relógio: 23:12]
+[CENA: sala · lareira, sofá, vidro da varanda e chuva na falésia · Luna olha em volta; Bia aponta para a varanda; garota infectada bate no vidro]
+[SFX: batida_vidro]
+[TEXTO: DEZ SEGUNDOS PARA SAIR DO VIDRO]
+NARRADOR: Você tem dez segundos para sair da frente daquele vidro.
+NARRADOR: Uma garota infectada bate na rachadura, olhando para a lareira.
+
+LUNA: Ela viu a gente?
+BIA: Cozinha. Agora.
+
+[CENA: cozinha · bancada e vidro com chuva · Luna corre para longe da varanda; Bia corre pela passagem da sala; garota infectada bate no vidro da sala]
+[SFX: trovao]
+NARRADOR: Você corre pela passagem aberta, com a falésia escura atrás do vidro.
+NARRADOR: Um relâmpago revela mais sombras na chuva.
+NARRADOR: Luna estava perto demais. Bia escolheu a passagem mais próxima.
+NARRADOR: Então o problema ainda tem uma direção.
+NARRADOR: Você pode fugir enquanto elas seguem a luz.
+NARRADOR: Só que a casa inteira é feita para ser vista.
+
+LUNA: Você contou dez segundos ou tava me assustando?
+BIA: Olha a rachadura. Ela já tá na porta.
+LUNA: A gente devia ter escolhido uma casa com parede.
+BIA: Anda, Luna. Atrás da bancada.
+LUNA: Se ela entrar, eu corro pra onde?
+BIA: Garagem. O carro fica antes da escada.
+
+[SFX: estatica]
+RADIO: Alerta costeiro. Evitem luzes. Ruídos atraem os infectados.
+
+[TEXTO: A LUZ CHAMA]
+NARRADOR: Você entende a regra quando a garota muda de lado no vidro.
+NARRADOR: Ela acompanha o reflexo de Luna, mesmo sem ouvir sua voz.
+NARRADOR: Bia se esconde agachada atrás da bancada. Luna faz o mesmo.
+NARRADOR: Por um instante, o vidro mostra apenas a cozinha vazia.
+NARRADOR: A garota para. Talvez tenha perdido as duas.
+
+LUNA: Ela foi embora?
+BIA: Não levanta. Espera o próximo relâmpago.
+LUNA: Essa é sua ideia de uma noite tranquila?
+BIA: Minha ideia era você ficar quieta.
+LUNA: Eu tô quieta por fora. Por dentro, tô berrando.
+BIA: Ótimo. Mantém essa divisão.
+
+[CENA: cozinha · vista da sala pelo vidro rachado · Luna e Bia ficam imóveis atrás da bancada; policial infectado anda na varanda; garota infectada bate no vidro da sala]
+[SFX: batida_vidro]
+NARRADOR: O relâmpago mostra um policial atrás da garota.
+NARRADOR: Ele anda devagar, mas cada batida dele afunda a moldura.
+NARRADOR: Você ganhou distância. A porta da sala perdeu força.
+NARRADOR: A próxima pancada decide se a cozinha ainda é esconderijo.
+[SFX: vidro_quebra]
+[TEXTO: ELES ENTRARAM]
+
+=== PARTE 2 — O CARRO ESCURO ===
+
+[HUD: Relógio: 23:14]
+[CENA: cozinha · bancada entre as jovens e a sala · Luna anda agachada para a garagem; Bia espia a sala; garota infectada corre pela passagem da sala]
+[SFX: passos_correndo]
+NARRADOR: Você vê a garota entrar pela abertura do vidro quebrado.
+NARRADOR: Ela atravessa a sala sem um grito.
+NARRADOR: A bancada esconde as duas só até ela virar.
+NARRADOR: Bia aponta para a porta da garagem.
+NARRADOR: Lá, o carro oferece sombra. Aqui, só existe vidro.
+
+LUNA: Ela corre. O grandão mal anda.
+BIA: Então acompanha a garota. Esquece o grandão por enquanto.
+LUNA: Ela tá olhando pra cá?
+BIA: Ainda não. Vai agachada.
+LUNA: O policial também entrou?
+BIA: Não. O vidro ainda segura o peso dele.
+LUNA: Se ele entrar, a gente vai ter dois caminhos fechados.
+BIA: Então usa o que tá livre agora.
+
+[CENA: garagem · carro, porta para cozinha e acesso à escada · Luna anda agachada e se esconde atrás do carro; Bia abre a porta e se esconde agachada atrás do carro; garota infectada anda na cozinha]
+[SFX: respiracao]
+[TEXTO: O SOM ENTREGA]
+NARRADOR: Você entra na garagem antes da garota alcançar a bancada.
+NARRADOR: Bia empurra a porta. Ela não encaixa completamente.
+NARRADOR: Uma fresta fina deixa passar a luz da cozinha.
+NARRADOR: Do outro lado, a garota para diante daquela linha clara.
